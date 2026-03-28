@@ -1,11 +1,15 @@
 # LeetCode
+This repository contains my personal solutions to various LeetCode problems, focusing on efficient algorithms and data structures. All solutions are implemented in **Python**.
 
-Automated with [LeetHub v2](https://github.com/arun360/LeetHub-v2)
+## 🚀 Automation
+My progress is automatically synchronized from LeetCode to this GitHub repository using the [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) extension. Each submission includes:
+* **Source Code:** The accepted solution file.
+* **Performance:** Runtime and memory usage stats in the commit message.
+* **Problem Description:** A README within each folder for quick reference.
 
-### Stats
-- **Total Problems Solved:** 0
-- **Languages:** Python
-- **Difficulty:** Easy (0), Medium (0), Hard (0)
+## 🛠️ Tech Stack
+* **Language:** Python 3.x
+* **Topics:** Arrays, Hash Tables, Linked Lists, Trees, Dynamic Programming, and more.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
