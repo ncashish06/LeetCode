@@ -10,6 +10,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## 🛠️ Tech Stack
 * **Language:** Python 3.x
 * **Topics:** Arrays, Hash Tables, Linked Lists, Trees, Dynamic Programming, and more.
+* * **Focus:** $O(n)$ or $O(\log n)$ time complexity where possible.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
