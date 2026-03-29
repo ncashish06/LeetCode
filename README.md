@@ -25,5 +25,6 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ncashish06/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ncashish06/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
