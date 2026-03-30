@@ -7,6 +7,8 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        """
+        # My approach 
         lca = None
         # bottom-up recursion, go till null node (child of leaf node) in the tree and then traverse back up
         def traverse (curr_node):
@@ -26,5 +28,20 @@ class Solution:
 
         traverse(root)
         return lca
+        """
+        # Base Case: If we hit a null node or find p or q, return it up
+        if not root or root == p or root == q:
+            return root
+
+        # Search left and right subtrees
+        left = self.lowestCommonAncestor(root.left, p, q)
+        right = self.lowestCommonAncestor(root.right, p, q)
+
+        # 1. If both left and right are non-null, this root IS the LCA
+        if left and right:
+            return root
+
+        # 2. If only one is non-null, pass that result up (it's either a target or the LCA)
+        return left or right
 
 
