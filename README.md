@@ -18,6 +18,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ncashish06/LeetCode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,8 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
