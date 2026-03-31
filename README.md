@@ -48,12 +48,14 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0199-binary-tree-right-side-view](https://github.com/ncashish06/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ncashish06/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,4 +86,9 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
