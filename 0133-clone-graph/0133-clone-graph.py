@@ -11,21 +11,22 @@ from collections import deque
 
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        # This is BFS on the graph problem
+        # This is BFS and DFS on the graph problem. 99% same code for code. See comments
         if not node:
             return None
         
-        q = deque([node])
+        # q = deque([node]) # BFS
+        stack = deque([node]) #DFS
         visited = {}
         clone_root = Node(node.val)
         visited[node] = clone_root
 
-        while len(q)>0:
-            curr_node = q.popleft()
+        while stack: # while q: #for BFS
+            curr_node = stack.pop() #curr_node = q.popleft() #for BFS
             curr_clone = visited[curr_node]
             for n in curr_node.neighbors:
                 if n not in visited:
-                    q.append(n)
+                    stack.append(n) #q.append(n) #for BFS
                     visited[n] = Node(n.val)
 
                 curr_clone.neighbors.append(visited[n])
