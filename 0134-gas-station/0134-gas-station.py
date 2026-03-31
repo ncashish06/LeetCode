@@ -2,7 +2,6 @@ class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
         # If total cost (sum of costs) is greater than the available gas, then we can't complete the circuit
         # Rule is if at all the total sum of gains is negative, we don't have a solution
-        """
         total_gas_available = sum(gas)
         total_gas_cost_to_travel = sum(cost)
         if total_gas_cost_to_travel > total_gas_available:
@@ -31,4 +30,5 @@ class Solution:
                 curr_gain = 0
 
         return start_point if total_gain >=0 else -1
+        """
         
