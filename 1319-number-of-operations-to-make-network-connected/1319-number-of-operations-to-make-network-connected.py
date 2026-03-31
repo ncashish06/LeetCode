@@ -5,6 +5,8 @@ class Solution:
         if len(connections) < n-1:
             return -1
         
+        # Note that graph = [[]] * n won't work. You think you're making: [[], [], []], but this creates one list in memory and then creates three references (pointers) to that exact same list.
+
         graph = [[] for _ in range(n)]
         for frm, to in connections:
             graph[frm].append(to)
