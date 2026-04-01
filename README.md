@@ -31,6 +31,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0001-two-sum](https://github.com/ncashish06/LeetCode/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Math
@@ -150,4 +151,16 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
