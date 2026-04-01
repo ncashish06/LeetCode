@@ -2,17 +2,22 @@ class Solution:
     def trap(self, height: List[int]) -> int:
         # This is kind of DP
         n = len(height)
-        trapped_water = 0
-        max_left, max_right = [0]*n, [0]*n
-        max_left[0], max_right[n-1] = height[0], height[n-1]
+        if n==0:
+            return 0
+
+        total_volume = 0
+        left_wall_limit, right_wall_limit = [0]*n, [0]*n
+
+        left_wall_limit[0] = height[0]
         for i in range(1, n):
-            max_left[i] = max(max_left[i-1], height[i])
+            left_wall_limit[i] = max(left_wall_limit[i-1], height[i]) #tallest bar to the left including itself
 
-        for j in range(n-2, -1, -1):
-            max_right[j]=max(max_right[j+1], height[j])
+        right_wall_limit[n-1] = height[n-1]
+        for i in range(n-2, -1, -1):
+            right_wall_limit[i]=max(right_wall_limit[i+1], height[i]) #tallest bar to the right including itself
             
-        for k in range(n): 
-            trapped_water+=min(max_left[k], max_right[k]) - height[k]
-            total_trapped_water = trapped_water if trapped_water >= 0 else 0 
+        for i in range(n): 
+            water_level = min(left_wall_limit[i], right_wall_limit[i])
+            total_volume += water_level - height[i]
 
-        return total_trapped_water
+        return total_volume
