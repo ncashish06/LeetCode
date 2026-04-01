@@ -11,7 +11,8 @@ class Solution:
         for j in range(n-2, -1, -1):
             max_right[j]=max(max_right[j+1], height[j])
             
-        for k in range(n):
+        for k in range(n): 
             trapped_water+=min(max_left[k], max_right[k]) - height[k]
+            total_trapped_water = trapped_water if trapped_water >= 0 else 0 
 
-        return trapped_water
+        return total_trapped_water
