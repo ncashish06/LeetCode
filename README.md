@@ -18,6 +18,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ncashish06/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ncashish06/LeetCode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ncashish06/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ncashish06/LeetCode/tree/master/0134-gas-station) |
@@ -70,6 +71,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ncashish06/LeetCode/tree/master/0011-container-with-most-water) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Search Tree
@@ -85,6 +87,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ncashish06/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ncashish06/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ncashish06/LeetCode/tree/master/0134-gas-station) |
 ## Graph Theory
