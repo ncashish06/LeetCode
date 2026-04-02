@@ -3,6 +3,7 @@ class Solution:
         n = len(s)
         dp = [[None] * n for _ in range(n)]
         ans = 0
+        # base case: 1 length and 2 length substrings
         for i in range(n):
             dp[i][i] = True
             ans += 1
