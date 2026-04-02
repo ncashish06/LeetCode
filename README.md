@@ -26,6 +26,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0198-house-robber](https://github.com/ncashish06/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ncashish06/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/ncashish06/LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ncashish06/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -36,6 +37,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0011-container-with-most-water](https://github.com/ncashish06/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ncashish06/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ncashish06/LeetCode/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 ## Graph Theory
 |  |
 | ------- |
@@ -126,6 +129,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -176,4 +180,12 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
