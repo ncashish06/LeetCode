@@ -56,6 +56,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0110-balanced-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ncashish06/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ncashish06/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ncashish06/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ncashish06/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -73,6 +74,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0110-balanced-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ncashish06/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ncashish06/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ncashish06/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ncashish06/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -109,6 +111,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0110-balanced-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ncashish06/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ncashish06/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ncashish06/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ncashish06/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -138,6 +141,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ncashish06/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ncashish06/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ncashish06/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ncashish06/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
