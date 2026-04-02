@@ -49,6 +49,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ncashish06/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ncashish06/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ncashish06/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -58,6 +59,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ncashish06/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ncashish06/LeetCode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
@@ -69,6 +71,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ncashish06/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ncashish06/LeetCode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
@@ -79,6 +82,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ncashish06/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ncashish06/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ncashish06/LeetCode/tree/master/0199-binary-tree-right-side-view) |
