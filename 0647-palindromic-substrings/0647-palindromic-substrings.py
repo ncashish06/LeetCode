@@ -13,6 +13,7 @@ class Solution:
         for length in range(3, n + 1):
             for i in range(0, n - length + 1):
                 j = i + length - 1
+                # first and last characters are same and inner substring is palindrome, then these characters also form palindrome
                 if s[i] == s[j] and dp[i + 1][j - 1]:
                     dp[i][j] = True
                     ans += 1
