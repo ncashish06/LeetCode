@@ -60,6 +60,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Depth-First Search
 |  |
@@ -75,6 +76,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
@@ -105,6 +107,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Two Pointers
 |  |
@@ -230,4 +233,12 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
