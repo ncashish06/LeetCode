@@ -1,4 +1,5 @@
 class Solution:
+    # Date Solved: 3 April 2026, Friday
     def removeElement(self, nums: List[int], val: int) -> int:
         # 2 pointer approach (specifically, Read-Write Two-Pointer Pattern)
         # See Problem 26 as well
