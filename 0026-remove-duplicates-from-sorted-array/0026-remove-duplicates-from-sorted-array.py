@@ -1,4 +1,5 @@
 class Solution:
+    # Date Solved: 3 April 2026, Friday
     def removeDuplicates(self, nums: List[int]) -> int:
         # integer array = +ve and -ve, non-decreasing is not equal to increasing. It means it can have subsequent number which are same (duplicates)
         # 2 pointer approach (specifically, Read-Write Two-Pointer Pattern)
