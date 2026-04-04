@@ -1,4 +1,5 @@
 class Solution:
+    # Date Solved: 3 April 2026, Friday
     def reverseString(self, s: List[str]) -> None:
         # 2 pointer approach (Swap first and last)
         """
