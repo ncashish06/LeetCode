@@ -1,4 +1,5 @@
 class Solution:
+    # Date Solved: 5 April 2026, Sunday
     def maxProfit(self, prices: List[int]) -> int:
         # Think like a graph with x-y axis and take only positive gradients (be greedy)
         all_profits = 0
