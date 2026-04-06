@@ -32,6 +32,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/ncashish06/LeetCode/tree/master/0739-daily-temperatures) |
+| [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ncashish06/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
@@ -43,6 +44,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
+| [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Math
 |  |
@@ -272,5 +274,6 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/ncashish06/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ncashish06/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 <!---LeetCode Topics End-->
