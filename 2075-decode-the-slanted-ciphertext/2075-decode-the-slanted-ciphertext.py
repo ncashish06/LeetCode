@@ -1,4 +1,5 @@
 class Solution:
+    # Date Solved: 5 April 2026, Sunday
     def decodeCiphertext(self, encodedText: str, rows: int) -> str:
         # think length of encodedText as area = rows*col
         """
