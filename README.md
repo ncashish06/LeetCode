@@ -38,6 +38,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1584-min-cost-to-connect-all-points](https://github.com/ncashish06/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ncashish06/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ncashish06/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ncashish06/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ncashish06/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Bucket Sort
 |  |
 | ------- |
