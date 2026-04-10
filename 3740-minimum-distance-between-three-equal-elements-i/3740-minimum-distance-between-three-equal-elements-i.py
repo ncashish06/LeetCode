@@ -1,5 +1,6 @@
 class Solution:
     # Date Solved: 9 April 2026, Thursday
+    # Same solution for Problem 3741(Medium).
     def minimumDistance(self, nums: List[int]) -> int:
         indices_map = {}
         n = len(nums)
