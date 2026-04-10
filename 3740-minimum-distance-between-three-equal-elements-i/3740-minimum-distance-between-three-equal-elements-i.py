@@ -1,21 +1,26 @@
 class Solution:
+    # Date Solved: 9 April 2026, Thursday
     def minimumDistance(self, nums: List[int]) -> int:
         indices_map = {}
         n = len(nums)
-        for idx, val in enumerate(nums):
-            if val not in indices_map:
-                indices_map[val] = [idx]
+        for idx, num in enumerate(nums):
+            if num not in indices_map:
+                indices_map[num] = [idx]
             else:
-                indices_map[val].append(idx)
+                indices_map[num].append(idx)
 
-        min_indices_length = float("inf")
-        k_size = 3
+        min_total_dist = float("inf")
+        window_size = 3
 
-        for val, indices in indices_map.items():
-            indices_length = len(indices)
-            if indices_length >= 3:
-                for i in range(indices_length - k_size + 1):
-                    current_dist = 2 * (indices[i + 2] - indices[i])
-                    min_indices_length = min(min_indices_length, current_dist)
-                
-        return min_indices_length if min_indices_length != float('inf') else -1
+        for num, indices in indices_map.items():
+            if len(indices) < 3:
+                continue
+
+            for i in range(len(indices) - window_size + 1):  # Standard Sliding Window "Start-Point" Template
+                first_idx = indices[i]
+                third_idx = indices[i + 2]
+                # In sorted triplet i<j<k, the distance is (j-i)+(k-j)+(k-i),simplifies to 2k-2i.
+                current_dist = 2 * (third_idx - first_idx)
+                min_total_dist = min(min_total_dist, current_dist)
+
+        return min_total_dist if min_total_dist != float("inf") else -1
