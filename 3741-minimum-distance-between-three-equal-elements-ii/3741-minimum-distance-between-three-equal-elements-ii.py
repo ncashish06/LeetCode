@@ -1,5 +1,5 @@
 class Solution:
-    # Date Solved: 10 April 2026, Thursday
+    # Date Solved: 10 April 2026, Friday
     # Same solution for Problem 3740(Easy).
     def minimumDistance(self, nums: List[int]) -> int:
         indices_map = {}
