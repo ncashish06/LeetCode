@@ -8,3 +8,11 @@ class Solution:
             partial_sum += nums[i]
 
         return total_sum - partial_sum
+        """
+        # Bitwise XOR
+
+        missing = len(nums)
+        for i, num in enumerate(nums):
+            missing ^= i ^ num
+        return missing
+        """
