@@ -11,9 +11,14 @@ class Solution:
                 seen.add(num)
         return list(seen)[0]
         """
-        # Bitwise XOR
+        """
+        Bitwise XOR
+        a ^ a = 0 (a number XORed with itself cancels out)
+        a ^ 0 = a (XOR with 0 keeps the number unchanged)
+        XOR is commutative and associative, so order does not matter
+        All numbers that appear twice will cancel each other out and the number that appears once will remain
+        """
         res = 0
         for num in nums:
             res = num ^ res
         return res
-        
