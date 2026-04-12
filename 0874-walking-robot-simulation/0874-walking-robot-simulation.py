@@ -16,7 +16,7 @@ class Solution:
             if cmd == -1:  # Turn clockwise
                 facing = (facing + 1) % 4
             elif cmd == -2:  # Turn counter clockwise
-                facing = (facing - 1) % 4
+                facing = (facing - 1) % 4 # -1%4 = 3
             else:
                 dx, dy = directions[facing]
                 for _ in range(cmd):  # for magnitude, if cmd=4 then check if any of the next steps leads to obstacle
