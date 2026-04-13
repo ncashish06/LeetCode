@@ -41,6 +41,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ncashish06/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/ncashish06/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ncashish06/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ncashish06/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
