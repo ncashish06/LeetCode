@@ -67,6 +67,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0007-reverse-integer](https://github.com/ncashish06/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ncashish06/LeetCode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
 ## Tree
 |  |
@@ -314,5 +315,10 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ncashish06/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
