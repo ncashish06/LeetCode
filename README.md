@@ -45,6 +45,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1848-minimum-distance-to-the-target-element](https://github.com/ncashish06/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ncashish06/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ncashish06/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ncashish06/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ncashish06/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -233,6 +234,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ncashish06/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ncashish06/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ncashish06/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ncashish06/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Sliding Window
 |  |
 | ------- |
