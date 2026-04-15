@@ -19,6 +19,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0001-two-sum](https://github.com/ncashish06/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ncashish06/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -224,6 +225,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ncashish06/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/ncashish06/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ncashish06/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -326,4 +328,8 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
