@@ -1,5 +1,6 @@
 class Solution:
     # Date Solved: 11 April 2026, Saturday
+    # Related: https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
     def minTimeToType(self, word: str) -> int:
         total_time = 0
         curr_pos = "a"
