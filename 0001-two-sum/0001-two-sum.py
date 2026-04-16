@@ -1,11 +1,12 @@
 class Solution:
+    # Date Solved: 16 April 2026, Thursday
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        # hashmap
-        prevMap = {}
+        previous_nums = {}
 
-        for i, n in enumerate(nums):
-            diff = target - n
-            if diff in prevMap:
-                return [prevMap[diff], i]
-            prevMap[n] = i
-        return
+        for index, num in enumerate(nums):
+            complement = target - num
+
+            if complement in previous_nums:
+                return [previous_nums[complement], index]
+
+            previous_nums[num] = index
