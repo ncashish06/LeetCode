@@ -160,6 +160,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0027-remove-element](https://github.com/ncashish06/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ncashish06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ncashish06/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ncashish06/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
@@ -230,6 +231,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ncashish06/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/ncashish06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ncashish06/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ncashish06/LeetCode/tree/master/0647-palindromic-substrings) |
