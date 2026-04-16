@@ -1,4 +1,6 @@
 class Solution:
+    # Date Solved: 16 April 2026, Thursday
+    # Refer: structy.net
     def char_count(self, s):
         count = {}
 
