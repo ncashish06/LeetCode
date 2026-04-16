@@ -1,5 +1,6 @@
 class Solution:
     # Date Solved: 16 April 2026, Thursday
+    # Refer: structy.net
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         previous_nums = {}
 
