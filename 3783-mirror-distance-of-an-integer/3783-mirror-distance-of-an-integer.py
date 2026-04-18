@@ -1,4 +1,6 @@
 class Solution:
+    # Date Solved: 17 April 2026, Friday
+    # Time: O(log n) where n is the given integer
     def reverse(self, x: int) -> int:
         rev = 0
         while x:
