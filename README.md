@@ -80,6 +80,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ncashish06/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ncashish06/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Tree
 |  |
 | ------- |
