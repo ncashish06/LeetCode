@@ -1,17 +1,25 @@
 class Solution:
-    def findMissingRanges(self, nums: List[int], lower: int, upper: int) -> List[List[int]]:
+    def findMissingRanges(
+        self, nums: List[int], lower: int, upper: int
+    ) -> List[List[int]]:
+        n = len(nums)
         results = []
-        next_expected = lower
-        
-        for num in nums:
-            if num > next_expected:
-                # Gap found: The missing range is [next_expected, num - 1]
-                results.append([next_expected, num - 1])
-            
-            next_expected = num + 1
-            
-        # ap between the last number and 'upper'?
-        if next_expected <= upper:
-            results.append([next_expected, upper])
-            
+
+        if n == 0:
+            results.append([lower, upper])
+            return results
+
+        # Missing range at beginning
+        if lower < nums[0]:
+            results.append([lower, nums[0] - 1])
+
+        for i in range(n - 1):
+            if nums[i + 1] - nums[i] <= 1:
+                continue
+            results.append([nums[i] + 1, nums[i + 1] - 1])
+
+        # Missing range at end
+        if upper > nums[n - 1]:
+            results.append([nums[n - 1] + 1, upper])
+
         return results
