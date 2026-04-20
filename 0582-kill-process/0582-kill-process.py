@@ -1,6 +1,7 @@
 class Solution:
     # Date Solved: 20 April 2026, Monday
     # This problem can also be solved with DFS using stack instead of queue
+    # "Height" or "Diameter" problems usually give you a TreeNode object (with .left and .right pointers). Here, the tree is "flat". It's hidden inside two arrays.
     from collections import deque
 
     def killProcess(self, pid: List[int], ppid: List[int], kill: int) -> List[int]:
