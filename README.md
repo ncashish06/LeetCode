@@ -48,6 +48,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ncashish06/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ncashish06/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ncashish06/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -135,6 +136,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ncashish06/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
