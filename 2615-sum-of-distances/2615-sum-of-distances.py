@@ -1,4 +1,6 @@
 class Solution:
+    # Date Solved: 22 April 2026, Wednesday
+    # Prefix sum and Hash table
     def distance(self, nums: List[int]) -> List[int]:
         n = len(nums)
         res = [0] * n
