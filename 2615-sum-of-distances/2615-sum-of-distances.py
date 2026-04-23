@@ -1,6 +1,7 @@
 class Solution:
     # Date Solved: 22 April 2026, Wednesday
     # Prefix sum and Hash table
+    # Same question as Leetcode 2121. Intervals Between Identical Elements
     def distance(self, nums: List[int]) -> List[int]:
         n = len(nums)
         res = [0] * n
