@@ -279,6 +279,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2075-decode-the-slanted-ciphertext](https://github.com/ncashish06/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ncashish06/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ncashish06/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/ncashish06/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -341,6 +342,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
+| [2833-furthest-point-from-origin](https://github.com/ncashish06/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
