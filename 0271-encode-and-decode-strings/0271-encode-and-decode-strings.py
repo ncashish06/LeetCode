@@ -16,7 +16,7 @@ class Codec:
         """
         Decodes the single string back into the original list.
         """
-        res, i = [], 0
+        decoded_strings, i = [], 0
         while i < len(s):
             # Find the delimiter to determine where the length number ends
             j = i
@@ -25,10 +25,10 @@ class Codec:
             # Extract the length and the actual string content
             length = int(s[i:j])
             word = s[j + 1 : j + 1 + length]
-            res.append(word)
+            decoded_strings.append(word)
             # Move index to the start of the next encoded segment
             i = j + 1 + length
-        return res
+        return decoded_strings
 
 
 # Your Codec object will be instantiated and called as such:
