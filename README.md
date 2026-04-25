@@ -60,6 +60,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ncashish06/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/ncashish06/LeetCode/tree/master/2615-sum-of-distances) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ncashish06/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ncashish06/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ncashish06/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -97,6 +98,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0009-palindrome-number](https://github.com/ncashish06/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ncashish06/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ncashish06/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Tree
@@ -206,6 +208,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ncashish06/LeetCode/tree/master/3488-closest-equal-element-queries) |
 ## Dynamic Programming
 |  |
@@ -340,6 +343,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Counting
 |  |
 | ------- |
@@ -412,4 +416,8 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/ncashish06/LeetCode/tree/master/2615-sum-of-distances) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
