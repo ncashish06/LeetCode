@@ -28,7 +28,7 @@ class Solution:
                         # When multiple "agents" (colors) compete for the same resource (a cell) at the exact same time, you cannot update the global state (the grid) immediately.
                         # Dictionary here acts like a staging (temporary buffer) area.
                         if (next_r,next_c) not in potential_fills or current_color > potential_fills[(next_r, next_c)]:
-                            # Throughout this whole step, the actual stays 0. This ensures both sources see the cell as "uncolored" and have a fair chance to compete for it.
+                            # Throughout this whole step, the actual cell in the grid stays 0. This ensures both sources see the cell as "uncolored" and have a fair chance to compete for it.
                             potential_fills[(next_r, next_c)] = current_color
 
             # After checking all neighbors, apply the colors and add to queue
