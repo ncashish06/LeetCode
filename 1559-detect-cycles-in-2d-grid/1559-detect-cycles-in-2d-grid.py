@@ -5,27 +5,28 @@ class Solution:
         rows = len(grid)
         cols = len(grid[0])
         visited = [[False] * cols for _ in range(rows)]
-        cycle_found = False
+        has_cycle = False
 
-        def dfs(x, y, px, py):
-            visited[x][y] = True
-            nonlocal cycle_found
-            for dx, dy in [(1, 0), (0, 1), (-1, 0), (0, -1)]:
-                nx, ny = x + dx, y + dy
+        def dfs(row, col, parent_row, parent_col):
+            nonlocal has_cycle
+            visited[row][col] = True
+
+            for dr, dc in [(1, 0), (0, 1), (-1, 0), (0, -1)]:
+                neighbor_row, neighbor_col = row + dr, col + dc
                 if (
-                    0 <= nx < rows
-                    and 0 <= ny < cols
-                    and grid[nx][ny] == grid[x][y]
-                    and not (nx == px and ny == py)
+                    0 <= neighbor_row < rows
+                    and 0 <= neighbor_col < cols
+                    and grid[neighbor_row][neighbor_col] == grid[row][col]
+                    and not (neighbor_row == parent_row and neighbor_col == parent_col)
                 ):
-                    if visited[nx][ny]:
-                        cycle_found = True
+                    if visited[neighbor_row][neighbor_col]:
+                        has_cycle = True
                     else:
-                        dfs(nx, ny, x, y)
+                        dfs(neighbor_row, neighbor_col, row, col)
 
-        for x in range(rows):
-            for y in range(cols):
-                if not visited[x][y] and not cycle_found:
-                    dfs(x, y, -1, -1)
+        for r in range(rows):
+            for c in range(cols):
+                if not visited[r][c] and not has_cycle:
+                    dfs(r, c, -1, -1)  # -1 because "no parent" for the starting cell
 
-        return cycle_found
+        return has_cycle
