@@ -104,6 +104,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0009-palindrome-number](https://github.com/ncashish06/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ncashish06/LeetCode/tree/master/0342-power-of-four) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ncashish06/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ncashish06/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -406,11 +407,13 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0136-single-number](https://github.com/ncashish06/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ncashish06/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ncashish06/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ncashish06/LeetCode/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
