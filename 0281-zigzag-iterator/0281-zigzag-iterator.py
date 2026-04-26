@@ -2,6 +2,7 @@ from collections import deque
 
 
 class ZigzagIterator:
+    # Date Solved: 25 April 2026, Saturday
     def __init__(self, v1: List[int], v2: List[int]):
         self.queue = deque()
         for v in [v1, v2]:
