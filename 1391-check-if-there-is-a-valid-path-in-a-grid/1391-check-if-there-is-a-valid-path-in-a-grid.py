@@ -1,7 +1,9 @@
 from collections import deque
 
-
 class Solution:
+    # Date Solved: 26 April 2026, Sunday
+    # This is a reachability problem (can we get from top-left to bottom-right?) so either BFS or DFS works. We'll use BFS. 
+    # Key Insight: Bidirectional Connection: The hard part isn't BFS/DFS. It is modeling which streets connect to which neighbors. A move is only valid if both cells agree on the connection.
     def hasValidPath(self, grid: List[List[int]]) -> bool:
         rows, cols = len(grid), len(grid[0])
 
@@ -43,8 +45,8 @@ class Solution:
                     and 0 <= nc < cols
                     and not visited[nr][nc]
                     and grid[row][col] in exit_set  # current can exit this way
-                    and grid[nr][nc] in entry_set   # neighbor can enter from this way
-                ):  
+                    and grid[nr][nc] in entry_set  # neighbor can enter from this way
+                ):
 
                     visited[nr][nc] = True
                     queue.append((nr, nc))
