@@ -22,9 +22,7 @@ class Solution:
                         0 <= neighbor_row < rows
                         and 0 <= neighbor_col < cols
                         and grid[neighbor_row][neighbor_col] == grid[row][col]
-                        and not (
-                            neighbor_row == parent_row and neighbor_col == parent_col
-                        )
+                        and not (neighbor_row == parent_row and neighbor_col == parent_col)
                     ):
 
                         if visited[neighbor_row][neighbor_col]:
