@@ -7,7 +7,7 @@ class Solution:
         if n <= 1:
             return n
         return self.fib(n - 1) + self.fib(n - 2)
-
+        """
         # Non-DP, linear time approach
         a, b = 0, 1
         for _ in range(n):
@@ -18,3 +18,4 @@ class Solution:
         # Time: O(log n), Space: O(1). This solution is even better than  DP based approaches which are linear time.
         golden_ratio = (1 + (5**0.5)) / 2
         return int(round((golden_ratio**n) / (5**0.5)))
+        """
