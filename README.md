@@ -46,6 +46,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0485-max-consecutive-ones](https://github.com/ncashish06/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/ncashish06/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ncashish06/LeetCode/tree/master/0739-daily-temperatures) |
 | [0755-pour-water](https://github.com/ncashish06/LeetCode/tree/master/0755-pour-water) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -224,6 +225,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/ncashish06/LeetCode/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ncashish06/LeetCode/tree/master/3488-closest-equal-element-queries) |
