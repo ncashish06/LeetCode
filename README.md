@@ -266,6 +266,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/ncashish06/LeetCode/tree/master/1059-all-paths-from-source-lead-to-destination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ncashish06/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ncashish06/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -330,6 +331,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Topological Sort
 |  |
 | ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/ncashish06/LeetCode/tree/master/1059-all-paths-from-source-lead-to-destination) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ncashish06/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Minimum Spanning Tree
 |  |
