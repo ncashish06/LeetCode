@@ -43,6 +43,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/ncashish06/LeetCode/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/ncashish06/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
@@ -111,6 +112,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ncashish06/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ncashish06/LeetCode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/ncashish06/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/ncashish06/LeetCode/tree/master/0509-fibonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -244,6 +246,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0198-house-robber](https://github.com/ncashish06/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ncashish06/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0396-rotate-function](https://github.com/ncashish06/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/ncashish06/LeetCode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ncashish06/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
