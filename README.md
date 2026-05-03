@@ -315,6 +315,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ncashish06/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/ncashish06/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/ncashish06/LeetCode/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ncashish06/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ncashish06/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -419,6 +420,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/ncashish06/LeetCode/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
