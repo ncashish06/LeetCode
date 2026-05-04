@@ -23,6 +23,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ncashish06/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ncashish06/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ncashish06/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0007-reverse-integer](https://github.com/ncashish06/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ncashish06/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ncashish06/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ncashish06/LeetCode/tree/master/0326-power-of-three) |
@@ -352,6 +354,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ncashish06/LeetCode/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
