@@ -218,6 +218,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/ncashish06/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ncashish06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ncashish06/LeetCode/tree/master/0283-move-zeroes) |
@@ -367,6 +368,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ncashish06/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/ncashish06/LeetCode/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ncashish06/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/ncashish06/LeetCode/tree/master/0707-design-linked-list) |
