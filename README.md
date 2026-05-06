@@ -62,6 +62,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ncashish06/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ncashish06/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -228,6 +229,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0647-palindromic-substrings](https://github.com/ncashish06/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -359,6 +361,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ncashish06/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ncashish06/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
