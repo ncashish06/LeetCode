@@ -25,6 +25,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ncashish06/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ncashish06/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/ncashish06/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ncashish06/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -248,6 +249,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ncashish06/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ncashish06/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ncashish06/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ncashish06/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -273,6 +275,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ncashish06/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ncashish06/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ncashish06/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ncashish06/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
