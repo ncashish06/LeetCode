@@ -1,4 +1,5 @@
 class Solution:
+    # Date Solved: 6 May 2026, Wednesday
     def maxValue(self, nums: List[int]) -> List[int]:
         n = len(nums)
         ans = [0] * n
