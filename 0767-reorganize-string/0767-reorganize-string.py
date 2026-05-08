@@ -2,6 +2,7 @@ class Solution:
     # Date Solved: 7 May 2026, Thursday
     # Got this question in Amazon Interview on 2 April 2026, Thursday
     # This question is asked a lot in Big Tech companies. This is a variation of LC621. Task Scheduler
+    import heapq
     def reorganizeString(self, s: str) -> str:
         """
         # Standard solution with Max heap
