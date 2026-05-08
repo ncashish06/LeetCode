@@ -1,4 +1,5 @@
 class Solution:
+    # This is a variation of LC. 767. Reorganize String
     def leastInterval(self, tasks: List[str], n: int) -> int:
         freq = [0] * 26
         maxFreq = 0
