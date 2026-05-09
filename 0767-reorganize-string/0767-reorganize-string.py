@@ -5,6 +5,7 @@ class Solution:
     import heapq
 
     def reorganizeString(self, s: str) -> str:
+        """
         # Approach 1: Frequency Count and Odd/Even indices
         freq = [0] * 26
         for char in s:
@@ -33,10 +34,37 @@ class Solution:
                 freq[i] -= 1
 
         return "".join(res)
+        """
+        # Approach 2: Frequency Count
+        freq = [0] * 26
+        for char in s:
+            freq[ord(char) - ord("a")] += 1
+
+        max_freq = max(freq)
+        if max_freq > (len(s) + 1) // 2:
+            return ""
+
+        res = []
+        while len(res) < len(s):
+            maxIdx = freq.index(max(freq))
+            char = chr(maxIdx + ord("a"))
+            res.append(char)
+            freq[maxIdx] -= 1
+            if freq[maxIdx] == 0:
+                continue
+
+            tmp = freq[maxIdx]
+            freq[maxIdx] = float("-inf")
+            nextMaxIdx = freq.index(max(freq))
+            char = chr(nextMaxIdx + ord("a"))
+            res.append(char)
+            freq[maxIdx] = tmp
+            freq[nextMaxIdx] -= 1
+
+        return "".join(res)
 
         """
-        # Standard solution with Max heap
-        # Time: O(nlogk) where n is the length of string and k is the number of elements in the heap. The log k is the time to heapify. While accessing the top element is  constant time O(1), removing it (heappop) takes logarithmic time O(log n) because the data structure must be reshuffled to remain a valid heap.
+        # Approach 3: Frequency Count and Max Heap
         count = Counter(s)
         maxHeap = [[-cnt, char] for char, cnt in count.items()]
         heapq.heapify(maxHeap)
@@ -59,34 +87,4 @@ class Solution:
                 prev = [cnt, char]
 
         return res
-        
-        # Namaste DSA solution: Even/Odd indices for max freq element approach
-        freq = {}
-        maxFreq = 0
-
-        # Count frequency
-        for c in s:
-            freq[c] = freq.get(c, 0) + 1
-            maxFreq = max(maxFreq, freq[c])
-
-        n = len(s)
-        # Impossible case
-        if maxFreq > (n + 1) // 2:
-            return ""
-
-        # Sort characters by frequency (descending)
-        chars = sorted(freq.keys(), key=lambda x: -freq[x])
-
-        result = [""] * n
-        i = 0
-        # Fill even indices first, then odd
-        for ch in chars:
-            count = freq[ch]
-            while count > 0:
-                if i >= n:
-                    i = 1
-                result[i] = ch
-                i += 2
-                count -= 1
-        return "".join(result)
-"""
+        """
