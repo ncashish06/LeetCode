@@ -40,11 +40,12 @@ class Solution:
             l += 1
         """
         # Approach 2: Reverse And Transpose
-        # Reverse the matrix vertically
+        # Step 1: Flip the matrix vertically (top row <-> bottom row), (row, col) -> (n-1-row, col)
         matrix.reverse()
 
-        # Transpose the matrix
+        # Step 2: Transpose — swap elements across the main diagonal
+        # (n-1-row, col) -> (col, n-1-row), which is exactly a 90° clockwise rotation
         for i in range(len(matrix)):
-            for j in range(i + 1, len(matrix)):
+            for j in range(i + 1, len(matrix)):  # j starts at i+1 to visit upper triangle only, avoiding double-swaps
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
         """
