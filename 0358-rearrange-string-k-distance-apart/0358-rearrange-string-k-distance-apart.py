@@ -10,7 +10,7 @@ class Solution:
         - The heap + cooldown pattern is identical — the only difference is cooldown size:
             LC767: prev (single slot, cooldown = 1)
             LC358: deque of size k (cooldown = k-1 slots before a char is re-eligible)
-        - LC767's Approach 1 (odd/even) and Approach 2 (greedy top two) do not generalize here
+        - LC767's Approach 2 (odd/even) and Approach 3 (greedy top two) do not generalize here
           because a fixed index layout only works when k=2
     """
 
