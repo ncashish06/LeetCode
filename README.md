@@ -102,6 +102,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
@@ -287,6 +288,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0055-jump-game](https://github.com/ncashish06/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ncashish06/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ncashish06/LeetCode/tree/master/0134-gas-station) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ncashish06/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -312,6 +314,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0759-employee-free-time](https://github.com/ncashish06/LeetCode/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
@@ -334,6 +337,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0242-valid-anagram](https://github.com/ncashish06/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/ncashish06/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/ncashish06/LeetCode/tree/master/0344-reverse-string) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ncashish06/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/ncashish06/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -416,6 +420,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0759-employee-free-time](https://github.com/ncashish06/LeetCode/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
@@ -427,6 +432,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
 | [2833-furthest-point-from-origin](https://github.com/ncashish06/LeetCode/tree/master/2833-furthest-point-from-origin) |
