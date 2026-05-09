@@ -66,6 +66,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ncashish06/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ncashish06/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -379,6 +380,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ncashish06/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ncashish06/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -459,6 +461,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0657-robot-return-to-origin](https://github.com/ncashish06/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0755-pour-water](https://github.com/ncashish06/LeetCode/tree/master/0755-pour-water) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/ncashish06/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ncashish06/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
