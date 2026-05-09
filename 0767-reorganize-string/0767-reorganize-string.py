@@ -34,7 +34,7 @@ class Solution:
                 freq[i] -= 1
 
         return "".join(res)
-        """
+
         # Approach 2: Frequency Count
         freq = [0] * 26
         for char in s:
@@ -62,7 +62,6 @@ class Solution:
             freq[nextMaxIdx] -= 1
 
         return "".join(res)
-
         """
         # Approach 3: Frequency Count and Max Heap
         count = Counter(s)
@@ -87,4 +86,3 @@ class Solution:
                 prev = [cnt, char]
 
         return res
-        """
