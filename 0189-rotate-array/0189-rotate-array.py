@@ -1,18 +1,20 @@
 class Solution:
     # Date Solved: 8 May 2026, Friday
-    # Refer: Part of NeetCode 250 solution
-    # Related problem: LC1914. Cyclically Rotating a Grid
+    """
+    Refer: Part of NeetCode 250 solution
+    Approach: 3 Reversals
+        1. Reverse entire array
+        2. Reverse first k elements
+        3. Reverse remaining elements
+
+    Related Problems:
+    - LC48  (Rotate Image):  Uses the same layer-by-layer ring traversal idea, but rotates a 2D matrix 90°.
+    - LC1914 (Cyclically Rotating a Grid): Extracts each ring into a 1D array, then applies this exact 3-reversal logic.
+    """
+
     def rotate(self, nums: List[int], k: int) -> None:
         """
         Do not return anything, modify nums in-place instead.
-        """
-        """
-        Intuition: Rotating an array by k is equivalent to moving the last k elements to the front. 
-        We can achieve this with three reversals. 
-        First, reverse the entire array. 
-        Now the last k elements are at the front, but in reverse order. 
-        Reverse the first k elements to fix their order. 
-        Finally, reverse the remaining elements to restore their original order.
         """
         n = len(nums)
         # When k is larger than the array length n, rotating by k is the same as rotating by k % n.
