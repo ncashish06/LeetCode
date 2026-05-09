@@ -6,9 +6,9 @@ class Solution:
     """
     Similarity to LC358 (Rearrange String k Distance Apart):
         - LC767 is LC358 with k=2 (same character must be at least 2 apart, i.e. no adjacency)
-        - Approach 3 (heap + prev) is literally LC358 with a cooldown queue of size 1
+        - Approach 1 (heap + prev) is literally LC358 with a cooldown queue of size 1
         - In LC358, prev becomes a deque of size k; here k=2 so a single prev slot suffices
-        - Approaches 1 & 2 are LC767-specific optimizations exploiting the fixed 26-char alphabet
+        - Approaches 2 & 3 are LC767-specific optimizations exploiting the fixed 26-char alphabet
           and the simpler k=2 constraint; they do not generalize to arbitrary k
     """
     import heapq
