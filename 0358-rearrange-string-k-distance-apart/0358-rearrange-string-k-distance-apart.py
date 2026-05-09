@@ -23,7 +23,7 @@ class Solution:
         maxHeap = [[-cnt, char] for char, cnt in count.items()]
         heapq.heapify(maxHeap)
 
-        queue = (deque())  # Cooldown window — holds (cnt, char) for k steps before re-eligibility
+        queue = deque()  # Cooldown window — holds (cnt, char) for k steps before re-eligibility
 
         res = ""
         while len(res) < len(s):  # Stop when result is complete
