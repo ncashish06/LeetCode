@@ -527,4 +527,12 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ncashish06/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Backtracking
+|  |
+| ------- |
+| [0489-robot-room-cleaner](https://github.com/ncashish06/LeetCode/tree/master/0489-robot-room-cleaner) |
+## Interactive
+|  |
+| ------- |
+| [0489-robot-room-cleaner](https://github.com/ncashish06/LeetCode/tree/master/0489-robot-room-cleaner) |
 <!---LeetCode Topics End-->
