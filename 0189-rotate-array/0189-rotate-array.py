@@ -1,6 +1,7 @@
 class Solution:
     # Date Solved: 8 May 2026, Friday
-    # Refer: NeetCode 250 solution
+    # Refer: Part of NeetCode 250 solution
+    # Related problem: LC1914. Cyclically Rotating a Grid
     def rotate(self, nums: List[int], k: int) -> None:
         """
         Do not return anything, modify nums in-place instead.
