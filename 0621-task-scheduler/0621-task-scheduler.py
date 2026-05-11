@@ -26,7 +26,7 @@ class Solution:
         heapq.heapify(maxHeap)
 
         time = 0
-        q = deque()  # pairs of [-cnt, idleTime]
+        q = deque()  # pairs of (remaining_count_after_running, next_available_time)
         while maxHeap or q:
             time += 1
 
