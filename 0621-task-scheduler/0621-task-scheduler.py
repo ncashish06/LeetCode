@@ -29,10 +29,7 @@ class Solution:
         q = deque()  # pairs of (remaining_count_after_running, next_available_time)
         while maxHeap or q:
             time += 1
-
-            if not maxHeap:
-                time = q[0][1]
-            else:
+            if maxHeap:
                 cnt = 1 + heapq.heappop(maxHeap) # Since Python has only min heap, we store -ve. We increase each time till
                 if cnt:
                     q.append([cnt, time + n]) # (remaining_count_after_running, next_available_time)
