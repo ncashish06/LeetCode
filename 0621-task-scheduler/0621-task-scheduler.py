@@ -30,7 +30,7 @@ class Solution:
         while maxHeap or q:
             time += 1
             if maxHeap:
-                cnt = 1 + heapq.heappop(maxHeap) # Since Python has only min heap, we store -ve. We increase each time till
+                cnt = 1 + heapq.heappop(maxHeap) # Since Python has only min heap, we store -ve. We increase each time till 0
                 if cnt:
                     q.append([cnt, time + n]) # (remaining_count_after_running, next_available_time)
             if q and q[0][1] == time: # next_available_time == time
