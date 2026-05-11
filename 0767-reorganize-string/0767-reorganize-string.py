@@ -1,7 +1,7 @@
 class Solution:
     # Date Solved: 7 May 2026, Thursday
     # Got this question in Amazon Interview on 2 April 2026, Thursday
-    # This question is asked a lot in Big Tech companies. This is a variation of LC621. Task Scheduler
+    # This question is asked a lot in Big Tech companies.
     # Refer: Part of NeetCode 250 solution
     """
     Similarity to LC358 (Rearrange String k Distance Apart):
@@ -35,7 +35,10 @@ class Solution:
                 prev = None
 
             if cnt != 0:
-                prev = [cnt,char]  # Hold out current char so it isn't picked consecutively
+                prev = [
+                    cnt,
+                    char,
+                ]  # Hold out current char so it isn't picked consecutively
 
         return res
         """
