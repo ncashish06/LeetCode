@@ -1,17 +1,42 @@
 class Solution:
-    # This is a variation of LC. 767. Reorganize String
+    # Date Solved: 10 May 2026, Sunday
+    # Refer: Namaste DSA and NeetCode 150 solution.
+    # This is a variation of LC767 Reorganize String but we don't need heap here.
+    # The most frequent tasks drives everything.
     def leastInterval(self, tasks: List[str], n: int) -> int:
-        freq = [0] * 26
-        maxFreq = 0
-        for t in tasks:
-            c = t[0]  # in case it's a string
-            idx = ord(c) - ord('A')
-            freq[idx] += 1
-            if freq[idx] > maxFreq:
-                maxFreq = freq[idx]
+        """
+        # Approach 1: Math based by Namaste DSA but this is less intuitive to come up during an interview
+        # Time: O(N) where N = Number of tasks
+        count = [0] * 26
+        for task in tasks:
+            count[ord(task) - ord("A")] += 1
 
-        countOfMax = sum(1 for f in freq if f == maxFreq)
-        cycles = (n + 1) * (maxFreq - 1) + countOfMax
-        return max(len(tasks), cycles) #if n=1, ans maybe len of tasks
+        maxf = max(count)
+        maxFreqElements = 0
+        for i in count:
+            maxFreqElements += 1 if i == maxf else 0
 
-       
+        time = (maxf - 1) * (n + 1) + maxFreqElements
+        return max(len(tasks), time)
+        """
+        # Approach 2: Max-Heap and Cooldown Queue by NeetCode
+        # Time: O(N) where N = Number of tasks, Heap operations are O(log(26)) so constant time.
+        count = Counter(tasks)
+        maxHeap = [-cnt for cnt in count.values()]
+        heapq.heapify(maxHeap)
+
+        time = 0
+        q = deque()  # pairs of [-cnt, idleTime]
+        while maxHeap or q:
+            time += 1
+
+            if not maxHeap:
+                time = q[0][1]
+            else:
+                cnt = 1 + heapq.heappop(maxHeap) # Since Python has only min heap, we store -ve. We increase each time till
+                if cnt:
+                    q.append([cnt, time + n]) # (remaining_count_after_running, next_available_time)
+            if q and q[0][1] == time: # next_available_time == time
+                heapq.heappush(maxHeap, q.popleft()[0])
+        return time
+        
