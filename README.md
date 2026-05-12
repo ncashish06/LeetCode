@@ -61,6 +61,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ncashish06/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ncashish06/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ncashish06/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -295,6 +296,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ncashish06/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ncashish06/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ncashish06/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Graph Theory
@@ -432,6 +434,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0759-employee-free-time](https://github.com/ncashish06/LeetCode/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ncashish06/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
