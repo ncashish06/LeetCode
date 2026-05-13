@@ -15,20 +15,27 @@ class Solution:
 
     def reorganizeString(self, s: str) -> str:
         # Best Approach: Refer: Youtube codestorywithMIK
+        # Time: O(n + k log k) where k = unique characters (at most 26). Since k is bounded by 26 (constant), this simplifies to O(n) in practice.
         n = len(s)
         count = [0] * 26
+
+        # O(n) - iterating through string
         for ch in s:
             count[ord(ch) - ord("a")] += 1
             # Return if frequency of any character is greater than n/2
             if count[ord(ch) - ord("a")] > (n + 1) // 2:
                 return ""
-        pq = []
+
+        pq = []  # Space: O(k) for heap, at most 26 unique chars
+
+        # O(k log k) - building the heap, iterating through 26 characters (constant, but let's call it k unique chars)
         for i in range(26):
             if count[i] > 0:
                 heapq.heappush(pq, (-count[i], chr(i + ord("a"))))
 
         result = []
 
+        # O(k log k) - the while loop runs O(k) times, each pop/push is O(log k)
         while len(pq) >= 2:
             cnt1, ch1 = heapq.heappop(pq)
             cnt2, ch2 = heapq.heappop(pq)
@@ -45,13 +52,14 @@ class Solution:
         """
         When the input has an odd length, and the most frequent character has one leftover
         s = "aab"  -> result = "ab" from loop, then "a" appended -> "aba"
-        s = "aabb" -> result = "abab" from loop, nothing left
+        s = "aabb" -> result = "abab" from loop, nothing left, below if is false
         s = "a"    -> loop never runs, "a" appended directly 
         """
         if pq:
             result.append(pq[0][1])
 
         return "".join(result)
+
         """
         # Approach 1: Frequency Count and Max Heap
         # Time: O(n log k) and Auxiliary Space: O(k) — heap and Counter store at most k unique characters
