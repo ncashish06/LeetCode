@@ -14,6 +14,45 @@ class Solution:
     import heapq
 
     def reorganizeString(self, s: str) -> str:
+        # Best Approach: Refer: Youtube codestorywithMIK
+        n = len(s)
+        count = [0] * 26
+        for ch in s:
+            count[ord(ch) - ord("a")] += 1
+            # Return if frequency of any character is greater than n/2
+            if count[ord(ch) - ord("a")] > (n + 1) // 2:
+                return ""
+        pq = []
+        for i in range(26):
+            if count[i] > 0:
+                heapq.heappush(pq, (-count[i], chr(i + ord("a"))))
+
+        result = []
+
+        while len(pq) >= 2:
+            cnt1, ch1 = heapq.heappop(pq)
+            cnt2, ch2 = heapq.heappop(pq)
+
+            result.append(ch1)
+            result.append(ch2)
+
+            if cnt1 + 1 < 0:
+                heapq.heappush(pq, (cnt1 + 1, ch1))
+
+            if cnt2 + 1 < 0:
+                heapq.heappush(pq, (cnt2 + 1, ch2))
+
+        """
+        When the input has an odd length, and the most frequent character has one leftover
+        s = "aab"  -> result = "ab" from loop, then "a" appended -> "aba"
+        s = "aabb" -> result = "abab" from loop, nothing left
+        s = "a"    -> loop never runs, "a" appended directly 
+        """
+        if pq:
+            result.append(pq[0][1])
+
+        return "".join(result)
+        """
         # Approach 1: Frequency Count and Max Heap
         # Time: O(n log k) and Auxiliary Space: O(k) — heap and Counter store at most k unique characters
         count = Counter(s)
@@ -41,7 +80,7 @@ class Solution:
                 ]  # Hold out current char so it isn't picked consecutively
 
         return res
-        """
+        
         # Approach 2: Frequency Count and Odd/Even Indices
         # Time: O(n) and Auxiliary Space: O(1) — freq array is always fixed at 26 elements
         freq = [0] * 26
