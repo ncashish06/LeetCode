@@ -1,4 +1,5 @@
 class Solution:
+    # Date Solved: 13 May 2026, Wednesday
     def isGood(self, nums: List[int]) -> bool:
         maxVal = max(nums)
         if len(nums) < maxVal + 1:
