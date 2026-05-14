@@ -7,7 +7,7 @@ class Solution:
         n = len(intervals)
 
         while i < n:
-            if (intervals[i][1] < newInterval[0]):    # Current interval ends before newInterval starts
+            if (intervals[i][1] < newInterval[0]):  # Current interval ends before newInterval starts
                 result.append(intervals[i])
             elif (intervals[i][0] > newInterval[1]):  # Current Interval starts after newInterval ends
                 break
@@ -19,7 +19,7 @@ class Solution:
 
         result.append(newInterval)
 
-        while i < n: # Just dump the remaining intervals after the merge zone directly
+        while i < n:  # Just dump the remaining intervals after the merge zone directly
             result.append(intervals[i])
             i += 1
         return result
