@@ -27,6 +27,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0049-group-anagrams](https://github.com/ncashish06/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ncashish06/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ncashish06/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/ncashish06/LeetCode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ncashish06/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
