@@ -13,7 +13,8 @@ class Solution:
         return nums[-1] == nums[-2]
         """
         # Approach 2: Optimized. Time: O(n)
-        # Trick: Use numbers as index
+        # Trick: Use numbers as index and negate values if visited
+        # Refer: codestorywithMIK
         n = len(nums)
         expected_max = n - 1
         max_el_count = 0
@@ -21,7 +22,6 @@ class Solution:
         for num in nums:
             val = abs(num)  # Use abs since we negate values to mark visited
 
-            # Any value greater than expected_max makes it invalid
             if val > expected_max:
                 return False
             elif val == expected_max:
