@@ -34,6 +34,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ncashish06/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/ncashish06/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ncashish06/LeetCode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0163-missing-ranges](https://github.com/ncashish06/LeetCode/tree/master/0163-missing-ranges) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ncashish06/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/ncashish06/LeetCode/tree/master/0189-rotate-array) |
@@ -254,6 +255,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ncashish06/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
