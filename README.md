@@ -73,6 +73,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ncashish06/LeetCode/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ncashish06/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ncashish06/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -402,6 +403,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ncashish06/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ncashish06/LeetCode/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ncashish06/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3905-multi-source-flood-fill](https://github.com/ncashish06/LeetCode/tree/master/3905-multi-source-flood-fill) |
@@ -487,6 +489,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ncashish06/LeetCode/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2069-walking-robot-simulation-ii](https://github.com/ncashish06/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ncashish06/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ncashish06/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
