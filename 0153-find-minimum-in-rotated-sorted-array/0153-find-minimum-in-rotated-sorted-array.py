@@ -9,11 +9,11 @@ class Solution:
         Otherwise, the minimum is to the LEFT (including mid itself).
         Keep mid as a candidate (it could be the minimum), so don't do right = mid - 1
         """
-        left, right = 0, len(nums) - 1
-        while left < right:
-            mid = left + (right - left) // 2
-            if nums[mid] > nums[right]:
-                left = mid + 1
+        l, r = 0, len(nums) - 1
+        while l < r:
+            mid = l + (r - l) // 2
+            if nums[mid] > nums[r]:
+                l = mid + 1
             else:
-                right = mid
-        return nums[left]
+                r = mid
+        return nums[l]
