@@ -3,24 +3,33 @@ class Solution:
     # Blind 75 Question
     # This is similar to LC.2061 Number of Spaces Cleaning Robot Cleaned
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        dirs = [(0, 1), (1, 0), (0, -1), (-1, 0)]  # right, down, left, up
+        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]  # right, down, left, up
         rows, cols = len(matrix), len(matrix[0])
 
         result = []
         visited = set()
-        r, c, d = 0, 0, 0
+        row, col, direction = 0, 0, 0  # start at top-left, facing right
 
-        for _ in range(rows * cols): 
-            result.append(matrix[r][c])
-            visited.add((r, c))
+        for _ in range(rows * cols):
+            result.append(matrix[row][col])
+            visited.add((row, col))
 
-            nr, nc = r + dirs[d][0], c + dirs[d][1]
+            next_row, next_col = (
+                row + directions[direction][0],
+                col + directions[direction][1],
+            )
 
             # Turn if next cell is out of bounds OR already visited
-            if not (0 <= nr < rows and 0 <= nc < cols) or (nr, nc) in visited:
-                d = (d + 1) % 4
-                nr, nc = r + dirs[d][0], c + dirs[d][1]
+            if (
+                not (0 <= next_row < rows and 0 <= next_col < cols)
+                or (next_row, next_col) in visited
+            ):
+                direction = (direction + 1) % 4
+                next_row, next_col = (
+                    row + directions[direction][0],
+                    col + directions[direction][1],
+                )
 
-            r, c = nr, nc
+            row, col = next_row, next_col
 
         return result
