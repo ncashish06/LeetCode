@@ -25,6 +25,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ncashish06/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ncashish06/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ncashish06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ncashish06/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ncashish06/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ncashish06/LeetCode/tree/master/0057-insert-interval) |
@@ -396,6 +397,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ncashish06/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ncashish06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -484,6 +486,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ncashish06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/ncashish06/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0755-pour-water](https://github.com/ncashish06/LeetCode/tree/master/0755-pour-water) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
