@@ -2,6 +2,7 @@ class Solution:
     # Date Solved: 15 May 2026, Friday
     # Previous LC153. Blind 75 question, Problem of the day
     # Refer: codestorywithMIK, Binary search problem
+    # Time complexity is still O(log n) on average, O(n) worst case (all duplicates), and space is O(1).
     def findMin(self, nums: List[int]) -> int:
         l, r = 0, len(nums) - 1
         result_idx = 0
@@ -17,9 +18,9 @@ class Solution:
 
             if nums[mid] < nums[result_idx]:
                 result_idx = mid
-            if nums[mid] > nums[r]: # Minimum lies on right side
+            if nums[mid] > nums[r]:  # Minimum lies on right side
                 l = mid + 1
-            else:   # Minimum can be on left side
+            else:  # Minimum can be on left side
                 r = mid - 1
 
         return nums[result_idx]
