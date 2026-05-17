@@ -5,6 +5,7 @@ class Solution:
     # Date Solved: 16 May 2026, Saturday
     # Refer: codestorywithMIK
     def canReach(self, arr: List[int], start: int) -> bool:
+        """
         # Approach 1: BFS
         # Time : O(n), Space: O(n) — queue space
         n = len(arr)
@@ -37,26 +38,13 @@ class Solution:
         """
         # Approach 2: DFS
         # Time : O(n), Space: O(n) — recursion stack space
-        n = len(arr)
+        if start < 0 or start >= len(arr) or arr[start] < 0:
+            return False
 
-        def dfs(i):
-            # Out of bounds or already visited (marked negative)
-            if i < 0 or i >= n or arr[i] < 0:
-                return False
+        if arr[start] == 0:
+            return True
 
-            if arr[i] == 0:
-                return True
+        # Mark visited by negating
+        arr[start] = -arr[start]
 
-            # Save jump distance before negating
-            jump = arr[i]
-
-            # Mark visited by negating — prevents cycles
-            arr[i] *= -1
-
-            left = dfs(i - jump)
-            right = dfs(i + jump)
-
-            return left or right
-
-        return dfs(start)
-        """
+        return self.canReach(arr, start - arr[start]) or self.canReach(arr, start + arr[start])
