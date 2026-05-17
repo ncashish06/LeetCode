@@ -5,7 +5,6 @@ class Solution:
     # Date Solved: 16 May 2026, Saturday
     # Refer: codestorywithMIK
     def canReach(self, arr: List[int], start: int) -> bool:
-        """
         # Approach 1: BFS
         # Time : O(n), Space: O(n) — queue space
         n = len(arr)
@@ -60,4 +59,4 @@ class Solution:
             return left or right
 
         return dfs(start)
-        
+        """
