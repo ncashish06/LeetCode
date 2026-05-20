@@ -8,24 +8,48 @@ class Interval:
 
 
 class Solution:
+    # Date Solved: 19 May 2026, Tuesday
     def employeeFreeTime(self, schedule: "[[Interval]]") -> "[Interval]":
-        OPEN, CLOSE = 0, 1
+        """
+        Approach: Nearly identical to LC 56 Merge Intervals with one extra step.
+        LC56: sort + merge overlapping intervals: return merged spans
+        LC759: sort + merge overlapping intervals: return the GAPS between merged spans
+        """
+        all_intervals = []
+        for employee in schedule:
+            for interval in employee:
+                all_intervals.append(interval)
 
-        events = []
-        for emp in schedule:
-            for iv in emp:
-                events.append((iv.start, OPEN))
-                events.append((iv.end, CLOSE))
+        all_intervals.sort(key=lambda pair: pair.start)
 
-        events.sort()
-        ans = []
-        prev = None
-        bal = 0
-        for t, cmd in events:
-            if bal == 0 and prev is not None:
-                ans.append(Interval(prev, t))
+        merged = [[all_intervals[0].start, all_intervals[0].end]]
 
-            bal += 1 if cmd is OPEN else -1
-            prev = t
+        for interval in all_intervals:
+            start, end = interval.start, interval.end
+            lastEnd = merged[-1][1]
 
-        return ans
+            if start <= lastEnd:
+                merged[-1][1] = max(lastEnd, end)
+            else:
+                merged.append([start, end])
+
+        free_time = []
+        for i in range(1, len(merged)):
+            free_time.append(Interval(merged[i - 1][1], merged[i][0]))
+
+        return free_time
+
+        """
+        LC56. Merge Intervals Code
+        intervals.sort(key=lambda pair: pair[0])
+        output = [intervals[0]]
+
+        for start, end in intervals:
+            lastEnd = output[-1][1]
+
+            if start <= lastEnd:
+                output[-1][1] = max(lastEnd, end)
+            else:
+                output.append([start, end])
+        return output
+        """
