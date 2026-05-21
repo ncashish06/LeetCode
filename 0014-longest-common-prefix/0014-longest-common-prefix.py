@@ -9,7 +9,7 @@ class Solution:
         for i in range(1, len(strs)):
             j = 0
 
-            # Stop if we reach the end of either string or character don't match
+            # Stop if we reach the end of either string or characters don't match
             while j < min(len(prefix), len(strs[i])):
                 if prefix[j] != strs[i][j]:
                     break
