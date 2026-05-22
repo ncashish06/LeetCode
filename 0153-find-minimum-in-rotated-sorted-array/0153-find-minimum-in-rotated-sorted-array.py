@@ -1,6 +1,6 @@
 class Solution:
-    # Date Solved: 14 May 2026, Thursday
-    # Blind 75 question, Problem of the day
+    # Date Solved: 14 May 2026, Thursday, POTD
+    # Blind 75, This logic is used in LC.33 Search in Rotated Sorted Array (Another Blind 75)
     # Refer: codestorywithMIK, Binary search problem
     def findMin(self, nums: List[int]) -> int:
         """
