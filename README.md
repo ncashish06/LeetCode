@@ -73,6 +73,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ncashish06/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ncashish06/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ncashish06/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ncashish06/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
