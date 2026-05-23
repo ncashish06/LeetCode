@@ -5,6 +5,8 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    # Date Solved: 23 May 2026, Saturday
+    # NC150
     # Different than LC 1245. Tree (Undirected Graph) Diameter (Med)
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         self.maxDiameter = 0
