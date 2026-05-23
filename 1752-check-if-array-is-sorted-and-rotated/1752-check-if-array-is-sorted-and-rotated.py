@@ -1,5 +1,6 @@
 class Solution:
-    # Date Solved: 22 May 2026, Friday
+    # Date Solved: 22 May 2026, Friday, POTD
+    # Refer: codestorywithMIK, Neetcode
     def check(self, nums: List[int]) -> bool:
         # Approach 1: Count Peek/Pivot/Rotation Points (Only 1 peek element/index should be present)
         n = len(nums)
