@@ -75,6 +75,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ncashish06/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ncashish06/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1765-map-of-highest-peak](https://github.com/ncashish06/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ncashish06/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
@@ -237,6 +238,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1765-map-of-highest-peak](https://github.com/ncashish06/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ncashish06/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ncashish06/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3905-multi-source-flood-fill](https://github.com/ncashish06/LeetCode/tree/master/3905-multi-source-flood-fill) |
@@ -439,6 +441,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1765-map-of-highest-peak](https://github.com/ncashish06/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ncashish06/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
