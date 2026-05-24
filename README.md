@@ -75,6 +75,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ncashish06/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ncashish06/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1762-buildings-with-an-ocean-view](https://github.com/ncashish06/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1765-map-of-highest-peak](https://github.com/ncashish06/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ncashish06/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -418,11 +419,13 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0020-valid-parentheses](https://github.com/ncashish06/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/ncashish06/LeetCode/tree/master/0739-daily-temperatures) |
+| [1762-buildings-with-an-ocean-view](https://github.com/ncashish06/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/ncashish06/LeetCode/tree/master/0739-daily-temperatures) |
+| [1762-buildings-with-an-ocean-view](https://github.com/ncashish06/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 ## Topological Sort
 |  |
 | ------- |
