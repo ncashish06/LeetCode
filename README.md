@@ -66,6 +66,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1064-fixed-point](https://github.com/ncashish06/LeetCode/tree/master/1064-fixed-point) |
 | [1306-jump-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/ncashish06/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -317,6 +318,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/ncashish06/LeetCode/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ncashish06/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/ncashish06/LeetCode/tree/master/1340-jump-game-v) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ncashish06/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -482,6 +484,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0759-employee-free-time](https://github.com/ncashish06/LeetCode/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
+| [1340-jump-game-v](https://github.com/ncashish06/LeetCode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ncashish06/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
