@@ -322,6 +322,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0788-rotated-digits](https://github.com/ncashish06/LeetCode/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ncashish06/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/ncashish06/LeetCode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ncashish06/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -401,6 +402,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0796-rotate-string](https://github.com/ncashish06/LeetCode/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ncashish06/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ncashish06/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ncashish06/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ncashish06/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -413,6 +415,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0003-longest-substring-without-repeating-characters](https://github.com/ncashish06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ncashish06/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
+| [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
 ## Stack
 |  |
 | ------- |
@@ -583,6 +586,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ncashish06/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/ncashish06/LeetCode/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ncashish06/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Geometry
