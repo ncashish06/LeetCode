@@ -30,6 +30,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0055-jump-game](https://github.com/ncashish06/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ncashish06/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ncashish06/LeetCode/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/ncashish06/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ncashish06/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -194,6 +195,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ncashish06/LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/ncashish06/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ncashish06/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -392,6 +394,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0014-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ncashish06/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ncashish06/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/ncashish06/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ncashish06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ncashish06/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ncashish06/LeetCode/tree/master/0242-valid-anagram) |
@@ -449,6 +452,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0048-rotate-image](https://github.com/ncashish06/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ncashish06/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/ncashish06/LeetCode/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -621,6 +625,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ncashish06/LeetCode/tree/master/0079-word-search) |
 | [0489-robot-room-cleaner](https://github.com/ncashish06/LeetCode/tree/master/0489-robot-room-cleaner) |
 ## Interactive
 |  |
