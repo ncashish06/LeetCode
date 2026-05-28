@@ -37,36 +37,28 @@ class Solution:
     # Not in NC250 but related to Word Search (Blind 75)
     # In Namaste DSA course, Akshay Saini in Backtracking: Word Search (Blind 75) lecture, mentions to solve this as this is related to the Word Search problem.
     def cleanRoom(self, robot):
-        """
-        :type robot: Robot
-        :rtype: None
-        """
+        visited = set()
+        directions = [(-1, 0), (0, 1), (1, 0), (0, -1)]
 
-        def go_back():
+        def goBack():
             robot.turnRight()
             robot.turnRight()
             robot.move()
             robot.turnRight()
             robot.turnRight()
 
-        def backtrack(cell=(0, 0), d=0):
-            visited.add(cell)
+        def dfs(r, c, d):
             robot.clean()
-            # going clockwise : 0: 'up', 1: 'right', 2: 'down', 3: 'left'
-            for i in range(4):
-                new_d = (d + i) % 4
-                new_cell = (
-                    cell[0] + directions[new_d][0],
-                    cell[1] + directions[new_d][1],
-                )
+            visited.add((r, c))
 
-                if not new_cell in visited and robot.move():
-                    backtrack(new_cell, new_d)
-                    go_back()
-                # turn the robot following chosen direction : clockwise
+            for i in range(4):
+                nextDir = (d + i) % 4
+                nr, nc = r + directions[nextDir][0], c + directions[nextDir][1]
+
+                if (nr, nc) not in visited and robot.move():
+                    dfs(nr, nc, nextDir)
+                    goBack()
+
                 robot.turnRight()
 
-        # going clockwise : 0: 'up', 1: 'right', 2: 'down', 3: 'left'
-        directions = [(-1, 0), (0, 1), (1, 0), (0, -1)]
-        visited = set()
-        backtrack()
+        dfs(0, 0, 0)
