@@ -3,7 +3,7 @@ class TrieNode:
         self.children = {}
         self.word = ""  # stores complete word at end node
 
-    def addWord(self, word):
+    def insert(self, word):
         cur = self
         for c in word:
             if c not in cur.children:
@@ -20,7 +20,7 @@ class Solution:
     def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
         root = TrieNode()
         for word in words:
-            root.addWord(word)
+            root.insert(word)
 
         ROWS, COLS = len(board), len(board[0])
         result = []
