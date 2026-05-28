@@ -32,6 +32,10 @@
 
 
 class Solution:
+    # Date Solved: 28 May 2026, Thursday
+    # Solved previously as part of Weekly Premium on 9 May 2026, Saturday
+    # Not in NC250 but related to Word Search (Blind 75)
+    # In Namaste DSA course, Akshay Saini in Backtracking: Word Search (Blind 75) lecture, mentions to solve this as this is related to the Word Search problem.
     def cleanRoom(self, robot):
         """
         :type robot: Robot
