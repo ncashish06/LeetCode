@@ -43,6 +43,7 @@ class Solution:
                 result.append(node.word)
                 node.word = ""  # prevent duplicates
 
+            # still continuing because we can find more words with the current word as their prefix. Example: "bat" found but we will continue so that we can find "bate".
             board[r][c] = "#"
             dfs(r + 1, c, node)
             dfs(r - 1, c, node)
