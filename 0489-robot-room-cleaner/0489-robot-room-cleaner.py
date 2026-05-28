@@ -36,6 +36,7 @@ class Solution:
     # Solved previously as part of Weekly Premium on 9 May 2026, Saturday
     # Not in NC250 but related to Word Search (Blind 75)
     # In Namaste DSA course, Akshay Saini in Backtracking: Word Search (Blind 75) lecture, mentions to solve this as this is related to the Word Search problem.
+    # Time: O(4*(M * N - O)) = O(M * N - O), Space: O(M * N - O)
     def cleanRoom(self, robot):
         visited = set()
         directions = [(-1, 0), (0, 1), (1, 0), (0, -1)]
