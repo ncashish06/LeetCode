@@ -4,12 +4,12 @@ class TrieNode:
         self.word = ""  # stores complete word at end node
 
     def insert(self, word):
-        cur = self
+        curr = self
         for c in word:
-            if c not in cur.children:
-                cur.children[c] = TrieNode()
-            cur = cur.children[c]
-        cur.word = word
+            if c not in curr.children:
+                curr.children[c] = TrieNode()
+            curr = curr.children[c]
+        curr.word = word
 
 
 class Solution:
