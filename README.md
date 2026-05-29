@@ -477,6 +477,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0061-rotate-list](https://github.com/ncashish06/LeetCode/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ncashish06/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/ncashish06/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/ncashish06/LeetCode/tree/master/0707-design-linked-list) |
 ## Design
 |  |
@@ -574,6 +575,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ncashish06/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/ncashish06/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ncashish06/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ncashish06/LeetCode/tree/master/0342-power-of-four) |
