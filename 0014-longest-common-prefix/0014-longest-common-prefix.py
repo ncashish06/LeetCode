@@ -1,5 +1,5 @@
 class Solution:
-    # Date Solved: 14 April 2026, Tuesday
+    # Date Solved: 29 May 2026, Friday
     # NeetCode 250
     # Time: O(n*m), Space: O(1)
     # Where n is the length of the shortest string and  m is the number of strings.
