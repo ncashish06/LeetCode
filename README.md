@@ -102,6 +102,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ncashish06/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ncashish06/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ncashish06/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ncashish06/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ncashish06/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -169,6 +170,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0509-fibonacci-number](https://github.com/ncashish06/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/ncashish06/LeetCode/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ncashish06/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ncashish06/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ncashish06/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
