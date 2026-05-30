@@ -3,13 +3,18 @@ from sortedcontainers import SortedList
 
 class Solution:
     # POTD, 30 May 2026. Saturday
-    # Used Claude since segment tree not important for interviews
+    # Refer: codestorywithMIK, claude
+    # Time : O(Q * logN) where Q = number of queries, N = max coordinate (50000)
+    # Space : O(N) for the segment tree and sorted list
     def getResults(self, queries: List[List[int]]) -> List[bool]:
-        MAX_X = 50002
+        MAX_X = 50001
         size = 1
         while size < MAX_X:
             size <<= 1
-        tree = [0] * (2 * size)
+
+        tree = [0] * (
+            2 * size
+        )  # Iterative segment tree - much less memory than 4*N recursive
 
         def update(pos, val):
             i = pos + size
@@ -19,7 +24,7 @@ class Solution:
                 tree[i] = max(tree[2 * i], tree[2 * i + 1])
                 i >>= 1
 
-        def query(l, r):  # max in [l, r]
+        def query(l, r):  # max in [l, r] inclusive
             res = 0
             l += size
             r += size + 1
@@ -35,27 +40,26 @@ class Solution:
             return res
 
         sl = SortedList([0])
-        update(0, 0)
+        result = []
 
-        results = []
         for q in queries:
             if q[0] == 1:
                 x = q[1]
-                idx = sl.bisect_left(x)
-                prev = sl[idx - 1]
-                if idx < len(sl):
-                    nxt = sl[idx]
-                    update(nxt, nxt - x)  # shrink nxt's gap
-                update(x, x - prev)
+                idx = sl.bisect_right(x)  # position after x
+                nxt = sl[idx] if idx < len(sl) else -1
+                pre = sl[idx - 1]  # last obstacle before x
+
+                update(x, x - pre)
+                if nxt != -1:
+                    update(nxt, nxt - x)
                 sl.add(x)
             else:
                 x, sz = q[1], q[2]
-                idx = sl.bisect_right(x) - 1
-                last = sl[idx]  # last obstacle <= x
-                # Max gap among [obstacle→obstacle] pairs with right endpoint ≤ x
-                seg_max = query(0, last)
-                # Gap from last obstacle to x
-                right_gap = x - last
-                results.append(max(seg_max, right_gap) >= sz)
+                idx = sl.bisect_right(x) - 1  # last obstacle <= x
+                pre = sl[idx]
 
-        return results
+                max_gap = query(0, pre)
+                best = max(max_gap, x - pre)
+                result.append(best >= sz)
+
+        return result
