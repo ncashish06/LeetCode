@@ -6,6 +6,8 @@ class Node:
 
 class MyLinkedList:
     # Date Solved: 13 April 2026, Monday
+    # Refer: Namaste DSA
+    # Not in NC250
     def __init__(self):
         self.head = None
         self.size = 0
