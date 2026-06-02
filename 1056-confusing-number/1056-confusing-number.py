@@ -1,6 +1,7 @@
 class Solution:
     # Date Solved: 29 May 2026, Friday
     # Refer: LC246. Strobogrammatic Number
+    # Weekly Premium W5
     def confusingNumber(self, n: int) -> bool:
         inverse_char = {"0": "0", "1": "1", "6": "9", "8": "8", "9": "6"}
 
