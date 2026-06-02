@@ -9,6 +9,7 @@ class Interval:
 
 class Solution:
     # Date Solved: 19 May 2026, Tuesday
+    # Weekly Premium W1
     def employeeFreeTime(self, schedule: "[[Interval]]") -> "[Interval]":
         """
         Approach: Nearly identical to LC 56 Merge Intervals with one extra step.
