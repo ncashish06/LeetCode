@@ -1,6 +1,6 @@
 class Solution:
     # Date Solved: 15 May 2026, Friday
-    # Weekly Premium April 2026 - Week 3
+    # Weekly Premium May 2026 - Week 3
     # Don't assume all 0's would be cleaned
     # Code very similar to LC.54 Spiral Matrix (Blind 75)
     def numberOfCleanRooms(self, room: List[List[int]]) -> int:
