@@ -1,4 +1,5 @@
 class Solution:
+    # Date Solved: 2 June 2026, Tuesday, Weekly Premium W1
     def candyCrush(self, board: List[List[int]]) -> List[List[int]]:
         m, n = len(board), len(board[0])
 
