@@ -1,5 +1,6 @@
 class Solution:
     # Date Solved: 22 May 2026, Friday
+    # Weekly Premium W4
     def fixedPoint(self, arr: List[int]) -> int:
         # arr[i]-i increases as i increases. We want the smallest i where arr[i]-i==0
         l, r = 0, len(arr) - 1
