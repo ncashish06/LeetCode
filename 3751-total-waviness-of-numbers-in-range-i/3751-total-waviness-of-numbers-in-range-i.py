@@ -1,5 +1,8 @@
 class Solution:
     # Date Solved: 4 June 2026, Thursday
+    # Approach: Brute force (Linear Scan - Iterate over range and score each number)
+    # Time : O((num2 - num1) * log10(num2)) — for each number we scan its digits
+    # Space : O(log10(num2)) — space for the digit string of each number
     def totalWaviness(self, num1: int, num2: int) -> int:
         def findWaveScore(num):
             s = str(num)
