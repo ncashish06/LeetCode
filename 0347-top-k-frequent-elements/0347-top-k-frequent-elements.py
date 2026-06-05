@@ -1,9 +1,11 @@
 import heapq
 from collections import Counter
 
+
 class Solution:
     # Date Solved: 23 April 2026, Thursday
     # Refer: Namaste DSA.
+    # Blind 75
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         """
         # Approach 1: The following approach using "min heap" works perfectly for interview and in fact the most common solution.
@@ -20,7 +22,9 @@ class Solution:
         return [num for freq, num in min_heap]  # Time: O(klogk)
         """
         # Approach 2: Bucket sort which leads to Time: O(N) which is better than O(Nlogk) provided by Approach 1.
-        if k == len(nums):  # Optimization to avoid O(NlogN) when k equals length of nums.
+        if k == len(
+            nums
+        ):  # Optimization to avoid O(NlogN) when k equals length of nums.
             return nums
         freq_map = Counter(nums)
 
