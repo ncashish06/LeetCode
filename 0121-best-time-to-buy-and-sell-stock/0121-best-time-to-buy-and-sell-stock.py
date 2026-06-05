@@ -1,5 +1,6 @@
 class Solution:
     # Date Solved: 4 April 2026, Saturday
+    # Blind 75
     def maxProfit(self, prices: List[int]) -> int:
         # Related to Kadane's algo
         # 1D Dynamic Programming
