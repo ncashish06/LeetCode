@@ -1,5 +1,7 @@
 class Solution:
     # Date Solved: 12 April 2026, Sunday
+    # NC150
+    # Refer: Namaste DSA
     def singleNumber(self, nums: List[int]) -> int:
         """
         Approach 1: Hashset
