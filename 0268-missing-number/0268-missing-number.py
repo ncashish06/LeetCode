@@ -1,5 +1,7 @@
 class Solution:
     # Date Solved: 12 April 2026, Sunday
+    # Blind 75
+    # Namaste DSA and Editorials
     def missingNumber(self, nums: List[int]) -> int:
         """
         n = len(nums)
