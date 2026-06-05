@@ -1,5 +1,7 @@
 class Solution:
     # Date Solved: 10 April 2026, Friday
+    # NC250
+    # Refer: Namaste DSA
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
         Do not return anything, modify nums1 in-place instead.
