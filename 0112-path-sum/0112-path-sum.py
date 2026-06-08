@@ -5,18 +5,25 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    # Date Solved: 8 June 2026, Monday
+    # Not in NC250 but frequently asked
+    # Refer: codestorywithMIK, Namaste DSA, NeetCode and Alvin The Programmer YouTube
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
-        if not root:
-            return False
-        ans = [False]  # using list to allow updates inside nested function
-        def traverse(curr, currSum):
-            newSum = currSum + curr.val
-            if not curr.left and not curr.right:
-                if newSum == targetSum:
-                    ans[0] = True
-            if curr.left:
-                traverse(curr.left, newSum)
-            if curr.right:
-                traverse(curr.right, newSum)
-        traverse(root, 0)
-        return ans[0]
+        def inOrder(root, current_sum):
+            if root is None:
+                return False
+
+            current_sum += root.val
+
+            # Leaf node
+            if root.left is None and root.right is None:
+                if current_sum == targetSum:
+                    return True
+                return False
+
+            left_side = inOrder(root.left, current_sum)
+            right_side = inOrder(root.right, current_sum)
+
+            return left_side or right_side
+
+        return inOrder(root, 0)
