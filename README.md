@@ -90,6 +90,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ncashish06/LeetCode/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ncashish06/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ncashish06/LeetCode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2126-destroying-asteroids](https://github.com/ncashish06/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ncashish06/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -155,6 +156,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ncashish06/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
+| [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ncashish06/LeetCode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ncashish06/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/ncashish06/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/ncashish06/LeetCode/tree/master/2615-sum-of-distances) |
@@ -467,6 +469,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0219-contains-duplicate-ii](https://github.com/ncashish06/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
+| [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ncashish06/LeetCode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 ## Stack
 |  |
 | ------- |
