@@ -120,6 +120,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ncashish06/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ncashish06/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/ncashish06/LeetCode/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ncashish06/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ncashish06/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ncashish06/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -385,6 +386,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ncashish06/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ncashish06/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ncashish06/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Graph Theory
 |  |
 | ------- |
