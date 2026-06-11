@@ -239,6 +239,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ncashish06/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ncashish06/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
@@ -264,6 +265,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ncashish06/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ncashish06/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
@@ -400,6 +402,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
+| [0310-minimum-height-trees](https://github.com/ncashish06/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/ncashish06/LeetCode/tree/master/1059-all-paths-from-source-lead-to-destination) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
@@ -496,6 +499,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/ncashish06/LeetCode/tree/master/0310-minimum-height-trees) |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/ncashish06/LeetCode/tree/master/1059-all-paths-from-source-lead-to-destination) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ncashish06/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
