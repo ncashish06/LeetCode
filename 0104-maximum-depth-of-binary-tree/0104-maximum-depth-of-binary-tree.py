@@ -5,9 +5,11 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    # Date Solved: 11 June 2026, Thursday
+    # Refer: codestorywithMIK
+    # Blind 75
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         # Bottom up recursion approach
-        """
         if not root:
             return 0
         left_max_depth = self.maxDepth(root.left)
@@ -28,4 +30,4 @@ class Solution:
         
         traversal(root, 1)
         return self.max_depth
-        
+        """
