@@ -5,6 +5,8 @@ class Solution:
     # This code used in 11 June 2026 POTD, LC. 3558 Number of Ways to Assign Edge Weights I
     def myPow(self, x: float, n: int) -> float:
         def power(x, n):
+            if x == 0: # To eliminate unnecessary computation when n is large and x is 0
+                return 0
             if n == 0:
                 return 1
             half = power(x, n // 2)
