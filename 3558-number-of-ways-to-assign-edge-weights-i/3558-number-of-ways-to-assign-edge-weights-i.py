@@ -3,7 +3,7 @@ class Solution:
 
     # Date Solved: 11 June 2026, Thursday, POTD
     # Refer: codestorywithMIK
-    # Python's pow method does the same binary or fast exponentiation
+    # Python's pow method does the same binary or fast exponentiation (See LC. 50 Pow(x,n))
     # Approach: total_possibilities, 2^d = even_possibilites + odd_possibilites = 2*odd_possibilites
     # odd_possibilites = 2^(d-1)
     def assignEdgeWeights(self, edges: List[List[int]]) -> int:
