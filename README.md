@@ -177,6 +177,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0007-reverse-integer](https://github.com/ncashish06/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ncashish06/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ncashish06/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ncashish06/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ncashish06/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
@@ -637,6 +638,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ncashish06/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ncashish06/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ncashish06/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/ncashish06/LeetCode/tree/master/0273-integer-to-english-words) |
