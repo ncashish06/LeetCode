@@ -9,6 +9,7 @@ class Solution:
     # Refer: codestorywithMIK
     # Blind 75
     # This code used in 11 June 2026 POTD, LC. 3558 Number of Ways to Assign Edge Weights I
+    # Time: O(N), Space: O(N) when tree is unbalanced
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         # Bottom up recursion approach
         if not root:
