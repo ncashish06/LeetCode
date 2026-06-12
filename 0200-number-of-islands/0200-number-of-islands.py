@@ -6,6 +6,7 @@ class Solution:
     # Blind 75
     # Refer: codestorywithMIK
     # Copy paste same solution as  in LC. 463 Island Perimeter with minor changes
+    # Similar code in LC. 463 Island Perimeter and LC. 695 Max Area of Island.
     def numIslands(self, grid: List[List[str]]) -> int:
         """
         # Approach 1: DFS
