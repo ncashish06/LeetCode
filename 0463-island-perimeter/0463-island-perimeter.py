@@ -6,6 +6,7 @@ class Solution:
     # NC250
     # Refer: codestorywithMIK
     # Unlike in LC. 200 Number of Islands and LC. 695 Max Area of Island, here there is only one island.
+    # Similar code in LC. 200 Number of Islands and LC. 695 Max Area of Island, here there is only one island.
     def islandPerimeter(self, grid: List[List[int]]) -> int:
         # Approach 1: Most intuitive and simple, without DFS or BFS
         # Time: O(m*n), Space: O(1)
