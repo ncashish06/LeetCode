@@ -1,8 +1,11 @@
+from collections import deque
+
+
 class Solution:
     # Date Solved: 12 June 2026, Friday
     # Blind 75
     # Refer: codestorywithMIK
-    # Copy paste same solution as  in LC. 463 Island Perimeter with some changes
+    # Copy paste same solution as  in LC. 463 Island Perimeter with minor changes
     def numIslands(self, grid: List[List[str]]) -> int:
         """
         # Approach 1: DFS
@@ -36,7 +39,7 @@ class Solution:
 
         return islands
         """
-        # Approach 2:BFS
+        # Approach 2: BFS
         # Time: O(m*n), Space: O(m*n)
         rows = len(grid)
         cols = len(grid[0])
