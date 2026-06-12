@@ -3,13 +3,13 @@ from collections import deque
 
 class Solution:
     # Date Solved: 12 June 2026, Friday
-    # Blind 75
+    # NC150
     # Refer: codestorywithMIK
     # Copy paste same solution as  in LC. 463 Island Perimeter with minor changes
     # Similar code in LC. 200 Number of Islands and LC. 463 Island Perimeter.
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
         """
-        # Approach: DFS
+        # Approach 1: DFS
         # Time: O(m*n), Space: O(m*n) recursion stack
         rows = len(grid)
         cols = len(grid[0])
