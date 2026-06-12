@@ -5,9 +5,12 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    # Date Solved: 12 June 2026, Friday
+    # Blind 75
+    # Refer: Alvin The Programmer YouTube or NeetCode
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        if not root:
-            return root
+        if root is None:
+            return
         root.left, root.right = root.right, root.left
         self.invertTree(root.left)
         self.invertTree(root.right)
