@@ -63,6 +63,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0485-max-consecutive-ones](https://github.com/ncashish06/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ncashish06/LeetCode/tree/master/0704-binary-search) |
 | [0723-candy-crush](https://github.com/ncashish06/LeetCode/tree/master/0723-candy-crush) |
 | [0739-daily-temperatures](https://github.com/ncashish06/LeetCode/tree/master/0739-daily-temperatures) |
@@ -252,6 +253,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
+| [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
 | [1306-jump-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1306-jump-game-iii) |
@@ -280,6 +282,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0310-minimum-height-trees](https://github.com/ncashish06/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/ncashish06/LeetCode/tree/master/0463-island-perimeter) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
+| [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
@@ -430,6 +433,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ncashish06/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -532,6 +536,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0200-number-of-islands](https://github.com/ncashish06/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ncashish06/LeetCode/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/ncashish06/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0723-candy-crush](https://github.com/ncashish06/LeetCode/tree/master/0723-candy-crush) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
