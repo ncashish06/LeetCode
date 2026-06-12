@@ -60,7 +60,7 @@ class Solution:
 
         return -1
         
-        # Approach 3:BFS
+        # Approach 3: BFS
         # Time: O(m*n), Space: O(m*n)
         rows = len(grid)
         cols = len(grid[0])
