@@ -325,6 +325,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ncashish06/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ncashish06/LeetCode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ncashish06/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -561,6 +562,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ncashish06/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ncashish06/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ncashish06/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/ncashish06/LeetCode/tree/master/0061-rotate-list) |
