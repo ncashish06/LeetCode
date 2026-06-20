@@ -1,5 +1,6 @@
 class Solution:
     # Date Solved: 20 June 2026, Saturday, POTD
+    # Refer: Claude
     def maxBuilding(self, n: int, restrictions: List[List[int]]) -> int:
         height_limits = list(restrictions)
         height_limits.append([1, 0])
