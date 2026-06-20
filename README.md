@@ -86,6 +86,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ncashish06/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ncashish06/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1765-map-of-highest-peak](https://github.com/ncashish06/LeetCode/tree/master/1765-map-of-highest-peak) |
+| [1840-maximum-building-height](https://github.com/ncashish06/LeetCode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ncashish06/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
@@ -196,6 +197,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1056-confusing-number](https://github.com/ncashish06/LeetCode/tree/master/1056-confusing-number) |
 | [1259-handshakes-that-dont-cross](https://github.com/ncashish06/LeetCode/tree/master/1259-handshakes-that-dont-cross) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ncashish06/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/ncashish06/LeetCode/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ncashish06/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -611,6 +613,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
 | [1340-jump-game-v](https://github.com/ncashish06/LeetCode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ncashish06/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/ncashish06/LeetCode/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/ncashish06/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
