@@ -161,6 +161,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1189-maximum-number-of-balloons](https://github.com/ncashish06/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1345-jump-game-iv) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ncashish06/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -497,6 +498,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0657-robot-return-to-origin](https://github.com/ncashish06/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/ncashish06/LeetCode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ncashish06/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ncashish06/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
@@ -635,6 +637,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ncashish06/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ncashish06/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/ncashish06/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Divide and Conquer
