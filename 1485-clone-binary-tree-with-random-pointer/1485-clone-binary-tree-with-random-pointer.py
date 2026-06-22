@@ -12,6 +12,7 @@ class Solution:
     # Date Solved: 22 June 2026, Monday, Weekly Premium W4
     # Almost same solution as LC. 133 Clone Graph (Blind 75)
     # Refer: Namaste DSA (BFS)
+    # Time: O(N), Space: O(N) where N = number of nodes
     def copyRandomBinaryTree(self, root: "Optional[Node]") -> "Optional[NodeCopy]":
         if not root:
             return None
