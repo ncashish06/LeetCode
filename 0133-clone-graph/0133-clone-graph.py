@@ -6,30 +6,31 @@ class Node:
         self.neighbors = neighbors if neighbors is not None else []
 """
 
-from typing import Optional
 from collections import deque
 
+
 class Solution:
-    def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        # This is BFS and DFS on the graph problem. 99% same code for code. See comments
+    # Date Solved: 22 June 2026, Monday
+    # Blind 75
+    # Refer: Namaste DSA (BFS)
+    # Time: O(V+E), Space: O(V)
+    def cloneGraph(self, node: Optional["Node"]) -> Optional["Node"]:
         if not node:
             return None
-        
-        # q = deque([node]) # BFS
-        stack = deque([node]) #DFS
+
         visited = {}
-        clone_root = Node(node.val)
-        visited[node] = clone_root
+        q = deque([node])
 
-        while stack: # while q: #for BFS
-            curr_node = stack.pop() #curr_node = q.popleft() #for BFS
-            curr_clone = visited[curr_node]
-            for n in curr_node.neighbors:
-                if n not in visited:
-                    stack.append(n) #q.append(n) #for BFS
-                    visited[n] = Node(n.val)
+        visited[node] = Node(node.val)
 
-                curr_clone.neighbors.append(visited[n])
+        while q:
+            curr = q.popleft()
+            cloneCurr = visited[curr]
 
-        return clone_root
-        
+            for neighbor in curr.neighbors:
+                if neighbor not in visited:
+                    visited[neighbor] = Node(neighbor.val)
+                    q.append(neighbor)
+                cloneCurr.neighbors.append(visited[neighbor])
+
+        return visited[node]
