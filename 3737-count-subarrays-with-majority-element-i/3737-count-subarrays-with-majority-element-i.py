@@ -50,13 +50,13 @@ class Solution:
         n = len(nums)
         res = 0
 
-        cumsum = [0] * (n + 1)
+        cumulative_sum = [0] * (n + 1)
         for i in range(n):
-            cumsum[i + 1] = cumsum[i] + (1 if nums[i] == target else -1)
+            cumulative_sum[i + 1] = cumulative_sum[i] + (1 if nums[i] == target else -1)
 
         for i in range(n):
             for j in range(i, n):
-                if cumsum[j + 1] - cumsum[i] > 0:
+                if cumulative_sum[j + 1] - cumulative_sum[i] > 0:
                     res += 1
 
         return res
