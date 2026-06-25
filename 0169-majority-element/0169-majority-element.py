@@ -21,6 +21,8 @@ class Solution:
         """
         # Approach 3: Boyer-Moore Voting Algorithm (It assumes that there is definitely a majority element (frequency greater than n/2 times) in the array)
         # Time: O(n), Space: O(1)
+        # Approach: res = current candidate for majority
+        # count = "lead" the candidate has over all other elements seen so far
         res, count = 0, 0
         for num in nums:
             if count == 0:
