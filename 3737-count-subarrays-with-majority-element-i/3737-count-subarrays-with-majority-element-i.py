@@ -45,7 +45,7 @@ class Solution:
                 if count > 0:
                     res += 1
         return res
-        """
+
         # Approach 4: Cumulative sum concept introduced, Time: O(n^2)
         n = len(nums)
         res = 0
@@ -60,3 +60,26 @@ class Solution:
                     res += 1
 
         return res
+        """
+        # Approach 5: O(n) solution, Refer: codestorywithMIK
+        from collections import defaultdict
+
+        mp = defaultdict(int)
+        mp[0] = 1
+
+        curr_sum = 0
+        valid_left_points = 0
+        result = 0
+
+        for x in nums:
+            if x == target:
+                valid_left_points += mp[curr_sum]
+                curr_sum += 1
+            else:
+                curr_sum -= 1
+                valid_left_points -= mp[curr_sum]
+
+            mp[curr_sum] += 1
+            result += valid_left_points
+
+        return result
