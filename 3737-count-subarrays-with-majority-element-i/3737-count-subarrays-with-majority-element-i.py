@@ -29,7 +29,7 @@ class Solution:
                 if count > (j - i + 1) // 2:
                     res += 1
         return res
-        """
+
         # Approach 3: Optimized Brute force (no division), Time: O(n^2)
         n = len(nums)
         res = 0
@@ -44,4 +44,19 @@ class Solution:
                     count -= 1
                 if count > 0:
                     res += 1
+        return res
+        """
+        # Approach 4: Cumulative sum concept introduced, Time: O(n^2)
+        n = len(nums)
+        res = 0
+
+        cumsum = [0] * (n + 1)
+        for i in range(n):
+            cumsum[i + 1] = cumsum[i] + (1 if nums[i] == target else -1)
+
+        for i in range(n):
+            for j in range(i, n):
+                if cumsum[j + 1] - cumsum[i] > 0:
+                    res += 1
+
         return res
