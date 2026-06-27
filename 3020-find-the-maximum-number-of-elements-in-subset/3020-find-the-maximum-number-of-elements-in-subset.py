@@ -4,6 +4,7 @@ import math
 
 class Solution:
     # Date Solved: 27 June 2026, Saturday, POTD
+    # Refer: Claude
     def maximumLength(self, nums: List[int]) -> int:
         cnt = Counter(nums)
 
