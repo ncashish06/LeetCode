@@ -168,6 +168,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1189-maximum-number-of-balloons](https://github.com/ncashish06/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1345-jump-game-iv) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ncashish06/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
+| [1490-clone-n-ary-tree](https://github.com/ncashish06/LeetCode/tree/master/1490-clone-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ncashish06/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -242,6 +243,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ncashish06/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
+| [1490-clone-n-ary-tree](https://github.com/ncashish06/LeetCode/tree/master/1490-clone-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ncashish06/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ncashish06/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
@@ -279,6 +281,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ncashish06/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
+| [1490-clone-n-ary-tree](https://github.com/ncashish06/LeetCode/tree/master/1490-clone-n-ary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ncashish06/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
@@ -311,6 +314,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ncashish06/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
+| [1490-clone-n-ary-tree](https://github.com/ncashish06/LeetCode/tree/master/1490-clone-n-ary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/ncashish06/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ncashish06/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
