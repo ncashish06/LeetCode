@@ -14,6 +14,7 @@ class Solution:
     # Blind 75
     # Refer: Namaste DSA (BFS)
     # Time: O(V+E), Space: O(V)
+    # Similar solution for LC. 1485 Clone Binary Tree with Random Pointer and LC. 1490 Clone N-ary Tree
     def cloneGraph(self, node: Optional["Node"]) -> Optional["Node"]:
         if not node:
             return None
