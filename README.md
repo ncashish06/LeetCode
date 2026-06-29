@@ -94,6 +94,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ncashish06/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ncashish06/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ncashish06/LeetCode/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ncashish06/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -514,6 +515,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1796-second-largest-digit-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ncashish06/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ncashish06/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ncashish06/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ncashish06/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
