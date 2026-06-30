@@ -1,27 +1,26 @@
-from collections import Counter
-import math
-
-
 class Solution:
     # Date Solved: 27 June 2026, Saturday, POTD
-    # Refer: Claude
+    # Refer: codestorywithMIK
     def maximumLength(self, nums: List[int]) -> int:
-        cnt = Counter(nums)
+        cnt = {}
+        for num in nums:
+            cnt[num] = cnt.get(num, 0) + 1
 
-        one_cnt = cnt.pop(1, 0)
-        ans = one_cnt if one_cnt % 2 else one_cnt - 1
+        ones = cnt.get(1, 0)
+        result = ones if ones % 2 == 1 else ones - 1
 
         for num in cnt:
-            sq = int(math.isqrt(num))
-            if sq * sq == num and sq in cnt and cnt[sq] > 1:
+            if num == 1:
                 continue
 
-            res = 0
-            x = num
-            while x in cnt and cnt[x] > 1:
-                res += 2
-                x *= x
+            curr = num
+            length = 0
+            while cnt.get(curr, 0) > 1:
+                length += 2
+                curr = curr * curr
 
-            ans = max(ans, res + (1 if x in cnt else -1))
+            length += 1 if curr in cnt else -1
 
-        return ans
+            result = max(result, length)
+
+        return result
