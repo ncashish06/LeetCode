@@ -1,70 +1,85 @@
-from collections import deque
+import math
 
 
 class Solution:
     # Date Solved: 12 June 2026, Friday, POTD
-    def assignEdgeWeights(
-        self, edges: List[List[int]], queries: List[List[int]]
-    ) -> List[int]:
+    # Refer: codestorywithMIK Binary Lifting (DP) playlist, 4th of 4 videos
+    # Approach (Using Binary Lifting): Build an ancestor table via DFS + binary lifting and answer each LCA query by lifting nodes using binary bits.
+    # Time : O(Nlog N + Qlog N)
+    # Space : O(Nlog N)
+    def assignEdgeWeights(self, edges: List[List[int]], queries: List[List[int]]) -> List[int]:
         MOD = 10**9 + 7
         n = len(edges) + 1
+        cols = int(math.log2(n)) + 1
 
-        adj = [[] for _ in range(n + 1)]
+        adj = [[] for _ in range(n)]
         for u, v in edges:
+            u -= 1
+            v -= 1
             adj[u].append(v)
             adj[v].append(u)
 
-        LOG = max(1, (n).bit_length())
-        depth = [0] * (n + 1)
-        parent = [0] * (n + 1)
-        visited = [False] * (n + 1)
+        depth = [0] * n
+        ancestorTable = [[-1] * cols for _ in range(n)]
 
-        # BFS from root (node 1)
-        q = deque([1])
-        visited[1] = True
-        while q:
-            u = q.popleft()
-            for v in adj[u]:
-                if not visited[v]:
-                    visited[v] = True
-                    depth[v] = depth[u] + 1
-                    parent[v] = u
-                    q.append(v)
+        # Iterative DFS to avoid recursion depth issues
+        def dfs(root):
+            stack = [(root, -1)]
+            while stack:
+                node, parent = stack.pop()
+                ancestorTable[node][0] = parent
+                for ngbr in adj[node]:
+                    if ngbr == parent:
+                        continue
+                    depth[ngbr] = depth[node] + 1
+                    stack.append((ngbr, node))
 
-        # Binary lifting table
-        up = [[0] * (n + 1) for _ in range(LOG)]
-        up[0] = parent[:]
-        for k in range(1, LOG):
-            for v in range(1, n + 1):
-                up[k][v] = up[k - 1][up[k - 1][v]]
+        dfs(0)
 
-        def lca(u, v):
+        # Build ancestor table (binary lifting)
+        for j in range(1, cols):
+            for node in range(n):
+                if ancestorTable[node][j - 1] != -1:
+                    ancestorTable[node][j] = ancestorTable[ancestorTable[node][j - 1]][
+                        j - 1
+                    ]
+
+        def findLCA(u, v):
             if depth[u] < depth[v]:
                 u, v = v, u
-            diff = depth[u] - depth[v]
-            for k in range(LOG):
-                if (diff >> k) & 1:
-                    u = up[k][u]
+
+            k = depth[u] - depth[v]
+            for j in range(cols):
+                if k & (1 << j):
+                    u = ancestorTable[u][j]
+
             if u == v:
                 return u
-            for k in range(LOG - 1, -1, -1):
-                if up[k][u] != up[k][v]:
-                    u = up[k][u]
-                    v = up[k][v]
-            return up[0][u]
+
+            for j in range(cols - 1, -1, -1):
+                if ancestorTable[u][j] == -1:
+                    continue
+                if ancestorTable[u][j] != ancestorTable[v][j]:
+                    u = ancestorTable[u][j]
+                    v = ancestorTable[v][j]
+
+            return ancestorTable[u][0]
 
         # Precompute powers of 2
         pow2 = [1] * (n + 1)
         for i in range(1, n + 1):
-            pow2[i] = pow2[i - 1] * 2 % MOD
+            pow2[i] = (2 * pow2[i - 1]) % MOD
 
-        ans = []
+        result = []
         for u, v in queries:
-            l = lca(u, v)
-            dist = depth[u] + depth[v] - 2 * depth[l]
-            if dist == 0:
-                ans.append(0)
-            else:
-                ans.append(pow2[dist - 1])
+            u -= 1
+            v -= 1
+            lca = findLCA(u, v)
+            d = depth[u] + depth[v] - 2 * depth[lca]
 
-        return ans
+            if d == 0:
+                result.append(0)
+            else:
+                result.append(pow2[d - 1])
+
+        return result
