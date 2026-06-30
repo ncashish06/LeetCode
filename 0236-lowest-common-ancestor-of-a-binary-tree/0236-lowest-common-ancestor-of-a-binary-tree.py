@@ -24,4 +24,4 @@ class Solution:
             return root
 
         # 2. If only one is non-null, pass that result up (it's either a target or the LCA)
-        return left or right
+        return left if left else right
