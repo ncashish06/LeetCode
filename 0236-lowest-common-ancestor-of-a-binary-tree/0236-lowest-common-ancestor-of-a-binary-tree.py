@@ -9,7 +9,7 @@
 class Solution:
     # Date Solved: 30 June 2026, Tuesday
     # Refer: codestorywithMIK, NeetCode (no video, only solution) and Namaste DSA
-    # Not in NC250 but LC. 235 LCA of BST is Blind 75
+    # Not in NC250 but LC. 235 LCA of BST is Blind 75. This same solution will work for the BST problem as well.
     # This problem can also be solved using Binary Lifting Technique (Jumping up in the powers of 2 instead of one jump at a time) but is overkill.
     # Refer: codestorywithMIK Binary Lifting (DP) playlist, 3rd of 4 videos
     def lowestCommonAncestor(self, root: "TreeNode", p: "TreeNode", q: "TreeNode") -> "TreeNode":
