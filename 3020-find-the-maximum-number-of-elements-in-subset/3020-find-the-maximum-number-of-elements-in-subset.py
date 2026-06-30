@@ -1,6 +1,7 @@
 class Solution:
     # Date Solved: 27 June 2026, Saturday, POTD
     # Refer: codestorywithMIK
+    # Time : O(n * log log M), M = maximum number in the nums, Space : O(n)
     def maximumLength(self, nums: List[int]) -> int:
         cnt = {}
         for num in nums:
