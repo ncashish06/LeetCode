@@ -12,7 +12,7 @@ class Solution:
     # Not in NC250 but LC. 235 LCA of BST is Blind 75
     def lowestCommonAncestor(self, root: "TreeNode", p: "TreeNode", q: "TreeNode") -> "TreeNode":
         # Base Case: If we hit a null node or find p or q, return it up
-        if not root or root == p or root == q:
+        if root is None or root is p or root is q:
             return root
 
         # Search left and right subtrees
