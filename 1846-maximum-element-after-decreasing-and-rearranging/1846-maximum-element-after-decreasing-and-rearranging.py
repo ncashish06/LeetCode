@@ -1,6 +1,6 @@
 class Solution:
     # Date Solved: 28 June 2026, Sunday, POTD
-    # Refer: codestorywithMIK
+    # Refer: codestorywithMIK, also in NeetCode All
     # Time: O(nlogn)
     def maximumElementAfterDecrementingAndRearranging(self, arr: List[int]) -> int:
         arr.sort()
