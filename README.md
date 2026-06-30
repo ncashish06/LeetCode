@@ -168,6 +168,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/ncashish06/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ncashish06/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ncashish06/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1490-clone-n-ary-tree](https://github.com/ncashish06/LeetCode/tree/master/1490-clone-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -523,6 +524,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0796-rotate-string](https://github.com/ncashish06/LeetCode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ncashish06/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ncashish06/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ncashish06/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
@@ -545,6 +547,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0003-longest-substring-without-repeating-characters](https://github.com/ncashish06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ncashish06/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ncashish06/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ncashish06/LeetCode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 ## Stack
