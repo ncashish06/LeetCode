@@ -6,7 +6,7 @@ class Solution:
     # NC150
     # Solved on my own. Multi-source BFS, similar to Rotting Oranges
     # One component of today's POTD is based on this. Today's POTD LC. 2812 covers multiple topics: BFS, Multi-Source BFS and Binary Search
-    # Time: , Space:
+    # Time: O(r*c), Space: O(r*c)
     def wallsAndGates(self, rooms: List[List[int]]) -> None:
         """
         Do not return anything, modify rooms in-place instead.
@@ -16,10 +16,10 @@ class Solution:
         directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
         INF = 2147483647
 
-        for i in range(rows):
-            for j in range(cols):
-                if rooms[i][j] == 0:
-                    queue.append((i, j))
+        for r in range(rows):
+            for c in range(cols):
+                if rooms[r][c] == 0:
+                    queue.append((r, c))
 
         level = 1  # neighbors of gates are 1 step away
         while queue:
@@ -31,7 +31,8 @@ class Solution:
                     if (
                         0 <= next_r < rows
                         and 0 <= next_c < cols
-                        and rooms[next_r][next_c]== INF  # only walkable, unvisited rooms
+                        and rooms[next_r][next_c]
+                        == INF  # only walkable, unvisited rooms
                     ):
                         rooms[next_r][next_c] = level
                         queue.append((next_r, next_c))
