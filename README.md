@@ -365,6 +365,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ncashish06/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ncashish06/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -520,6 +521,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0005-longest-palindromic-substring](https://github.com/ncashish06/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ncashish06/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ncashish06/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ncashish06/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ncashish06/LeetCode/tree/master/0125-valid-palindrome) |
@@ -713,6 +715,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/ncashish06/LeetCode/tree/master/0796-rotate-string) |
 ## Hash Function
