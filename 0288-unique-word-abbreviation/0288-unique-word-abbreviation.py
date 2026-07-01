@@ -17,7 +17,6 @@ class ValidWordAbbr:
             return True
 
         # Case 2: for the condition to be true, there should be exactly one word in dictionary and that should match the given (query) word
-        # if the word itself is the only one, and it's an exact match
         if len(words_with_abbr) == 1 and word in words_with_abbr:
             return True
 
