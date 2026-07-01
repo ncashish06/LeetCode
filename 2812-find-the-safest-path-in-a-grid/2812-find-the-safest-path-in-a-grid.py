@@ -5,7 +5,7 @@ class Solution:
     # Date Solved: 1 July 2026, Wednesday, POTD
     # Solve LC.286 Walls and Gates (Medium) and LC.778 Swim in Rising Water (Hard) before this. Both are in NC150.
     # Refer: codestorywithMIK (NeetCode approach bit complex)
-    # Multiple Topics covered here: BFS, Multi-Source BFS and Binary Search.  Can also be solved using Dijkstra's as this is single source shortest path problem.
+    # Multiple Topics covered here: BFS, Multi-Source BFS and Binary Search. This problem can also be solved using Dijkstra's as it is a Single Source Shortest Path problem.
     # Time: O(N*N*logN), Space: O(N*N)
     def maximumSafenessFactor(self, grid: List[List[int]]) -> int:
         n = len(grid)
