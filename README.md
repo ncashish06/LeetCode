@@ -71,6 +71,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0739-daily-temperatures](https://github.com/ncashish06/LeetCode/tree/master/0739-daily-temperatures) |
 | [0755-pour-water](https://github.com/ncashish06/LeetCode/tree/master/0755-pour-water) |
 | [0759-employee-free-time](https://github.com/ncashish06/LeetCode/tree/master/0759-employee-free-time) |
+| [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
@@ -281,6 +282,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
 | [1306-jump-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1306-jump-game-iii) |
@@ -314,6 +316,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0463-island-perimeter](https://github.com/ncashish06/LeetCode/tree/master/0463-island-perimeter) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
@@ -396,6 +399,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ncashish06/LeetCode/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1064-fixed-point](https://github.com/ncashish06/LeetCode/tree/master/1064-fixed-point) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ncashish06/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -480,6 +484,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0200-number-of-islands](https://github.com/ncashish06/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -496,6 +501,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0759-employee-free-time](https://github.com/ncashish06/LeetCode/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/ncashish06/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
@@ -597,6 +603,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0463-island-perimeter](https://github.com/ncashish06/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0723-candy-crush](https://github.com/ncashish06/LeetCode/tree/master/0723-candy-crush) |
+| [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
