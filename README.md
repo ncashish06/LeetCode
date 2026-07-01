@@ -54,6 +54,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0271-encode-and-decode-strings](https://github.com/ncashish06/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/ncashish06/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0283-move-zeroes](https://github.com/ncashish06/LeetCode/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/ncashish06/LeetCode/tree/master/0286-walls-and-gates) |
 | [0288-unique-word-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -308,6 +309,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0199-binary-tree-right-side-view](https://github.com/ncashish06/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ncashish06/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0286-walls-and-gates](https://github.com/ncashish06/LeetCode/tree/master/0286-walls-and-gates) |
 | [0310-minimum-height-trees](https://github.com/ncashish06/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/ncashish06/LeetCode/tree/master/0463-island-perimeter) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
@@ -591,6 +593,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0079-word-search](https://github.com/ncashish06/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ncashish06/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ncashish06/LeetCode/tree/master/0212-word-search-ii) |
+| [0286-walls-and-gates](https://github.com/ncashish06/LeetCode/tree/master/0286-walls-and-gates) |
 | [0463-island-perimeter](https://github.com/ncashish06/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0723-candy-crush](https://github.com/ncashish06/LeetCode/tree/master/0723-candy-crush) |
