@@ -54,6 +54,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0271-encode-and-decode-strings](https://github.com/ncashish06/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/ncashish06/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0283-move-zeroes](https://github.com/ncashish06/LeetCode/tree/master/0283-move-zeroes) |
+| [0288-unique-word-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -159,6 +160,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0242-valid-anagram](https://github.com/ncashish06/LeetCode/tree/master/0242-valid-anagram) |
 | [0246-strobogrammatic-number](https://github.com/ncashish06/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
+| [0288-unique-word-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
@@ -520,6 +522,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0246-strobogrammatic-number](https://github.com/ncashish06/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0271-encode-and-decode-strings](https://github.com/ncashish06/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/ncashish06/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0288-unique-word-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0344-reverse-string](https://github.com/ncashish06/LeetCode/tree/master/0344-reverse-string) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
@@ -626,6 +629,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/ncashish06/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/ncashish06/LeetCode/tree/master/0281-zigzag-iterator) |
+| [0288-unique-word-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0707-design-linked-list](https://github.com/ncashish06/LeetCode/tree/master/0707-design-linked-list) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ncashish06/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
