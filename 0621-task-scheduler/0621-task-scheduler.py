@@ -4,7 +4,6 @@ class Solution:
     # This is a variation of LC767 Reorganize String but we don't need heap here.
     # The most frequent tasks drives everything.
     def leastInterval(self, tasks: List[str], n: int) -> int:
-        """
         # Approach 1: Math based by Namaste DSA but this is less intuitive to come up during an interview
         # Time: O(N) where N = Number of tasks
         count = [0] * 26
@@ -36,4 +35,4 @@ class Solution:
             if q and q[0][1] == time: # next_available_time == time
                 heapq.heappush(maxHeap, q.popleft()[0])
         return time
-        
+        """
