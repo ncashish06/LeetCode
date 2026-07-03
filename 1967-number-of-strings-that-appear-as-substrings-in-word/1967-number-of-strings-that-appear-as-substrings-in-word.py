@@ -1,45 +1,45 @@
 class Solution:
     # Date Solved: 29 June 2026, Monday, POTD
-    # Refer: codestorywithMIK. This is KMP algorithm.
+    # Refer: NamasteDSA or codestorywithMIK (KMP algorithm). Both are same but variable names are slightly different.
+    # Refer: LC. 28 as well
+    # Time: O(sum(word + patterns[i])) for i in range(k),  where k = number of patterns, W = length of word, P = sum of lengths of all patterns (sum(len(p) for p in patterns))
+    # Space: O(max(|patterns[i]|))
     def computeLPS(self, pattern: str) -> list[int]:
-        M = len(pattern)
-        lps = [0] * M
-        length = 0
-        i = 1
+        m = len(pattern)
+        lps = [0] * m
+        i = 0
+        j = 1
 
-        while i < M:
-            if pattern[i] == pattern[length]:
-                length += 1
-                lps[i] = length
+        while j < m:
+            if pattern[i] == pattern[j]:
                 i += 1
+                lps[j] = i
+                j += 1
             else:
-                if length != 0:
-                    length = lps[length - 1]
+                if i == 0:
+                    lps[j] = 0
+                    j += 1
                 else:
-                    lps[i] = 0
-                    i += 1
+                    i = lps[i - 1]
 
         return lps
 
-    def kmpSearch(self, pat: str, txt: str) -> bool:
-        N, M = len(txt), len(pat)
-        lps = self.computeLPS(pat)
+    def kmpSearch(self, needle: str, haystack: str) -> bool:
+        n, m = len(haystack), len(needle)
+        lps = self.computeLPS(needle)
 
-        i = 0  # index for txt
-        j = 0  # index for pat
-
-        while i < N:
-            if pat[j] == txt[i]:
+        i = j = 0  # i: index for haystack, j: index for needle
+        while i < n:
+            if haystack[i] == needle[j]:
                 i += 1
                 j += 1
-
-            if j == M:
-                return True  # pattern found
-            elif i < N and pat[j] != txt[i]:
-                if j != 0:
-                    j = lps[j - 1]
-                else:
+            else:
+                if j == 0:
                     i += 1
+                else:
+                    j = lps[j - 1]
+            if j == m:
+                return True  # pattern found
 
         return False
 
