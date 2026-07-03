@@ -131,6 +131,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3488-closest-equal-element-queries](https://github.com/ncashish06/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ncashish06/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ncashish06/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3620-network-recovery-pathways](https://github.com/ncashish06/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ncashish06/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ncashish06/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ncashish06/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -411,6 +412,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3161-block-placement-queries](https://github.com/ncashish06/LeetCode/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ncashish06/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/ncashish06/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ncashish06/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ncashish06/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
@@ -444,6 +446,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3225-maximum-score-from-grid-operations](https://github.com/ncashish06/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ncashish06/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ncashish06/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3620-network-recovery-pathways](https://github.com/ncashish06/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/ncashish06/LeetCode/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ncashish06/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -483,6 +486,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2473-minimum-cost-to-buy-apples](https://github.com/ncashish06/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ncashish06/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ncashish06/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ncashish06/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
@@ -511,6 +515,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2473-minimum-cost-to-buy-apples](https://github.com/ncashish06/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ncashish06/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ncashish06/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ncashish06/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Shortest Path
 |  |
@@ -519,6 +524,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ncashish06/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/ncashish06/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ncashish06/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ncashish06/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
 | ------- |
@@ -594,6 +600,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/ncashish06/LeetCode/tree/master/1059-all-paths-from-source-lead-to-destination) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ncashish06/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/ncashish06/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
