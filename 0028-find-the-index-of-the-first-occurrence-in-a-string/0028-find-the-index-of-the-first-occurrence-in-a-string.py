@@ -2,6 +2,7 @@ class Solution:
     # Date Solved: 1 July 2026, Wednesday
     # Refer: Namaste DSA (Two Pointers and Sliding Window)
     # Not in NC250 but leads to KMP algorithm
+    # Refer: LC. 1967 as well
     def strStr(self, haystack: str, needle: str) -> int:
         """
         # Approach 1: Brute force, Time: O(n*m)
@@ -17,7 +18,9 @@ class Solution:
                 return i
         return -1
         """
-        # Approach 2: KMP, Time: O(n+m) = O(n), Space: O(m)
+        # Approach 2: KMP
+        # Time: O(n+m) where n = len(haystack), m = len(needle)
+        # Space: O(m)
         n = len(haystack)
         m = len(needle)
         lps = [0] * m
