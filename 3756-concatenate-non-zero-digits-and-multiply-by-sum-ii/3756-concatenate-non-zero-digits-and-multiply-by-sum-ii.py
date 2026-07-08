@@ -1,6 +1,9 @@
 class Solution:
     # Date Solved: 8 July 2026, Wednesday, POTD
     # Refer: codestorywithMIK
+    # Approach: Pre Store all relevant data and use them
+    # Time : O(n+q), n = len(s) and q = total queries
+    # Space : O(n)
     def sumAndMultiply(self, s: str, queries: List[List[int]]) -> List[int]:
         MOD = 10**9 + 7
         n = len(s)
