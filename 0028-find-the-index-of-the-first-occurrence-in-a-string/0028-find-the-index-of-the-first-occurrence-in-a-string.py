@@ -52,7 +52,7 @@ class Solution:
         return -1
         """
         # Approach 3: Rabin Karp
-        # Average case time: O(m + n) with m = len(a), n = len(b)
+        # Average case time: O(m + n) with m = len(needle), n = len(haystack)
         # Worst case time: O(n*m) due to potential hash collisions forcing the haystack[i:i+m] == needle verification at every window
         # Space: O(1)
         base = 256
