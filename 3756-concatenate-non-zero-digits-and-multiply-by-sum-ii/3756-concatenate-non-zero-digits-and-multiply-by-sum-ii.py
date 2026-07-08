@@ -1,5 +1,6 @@
 class Solution:
     # Date Solved: 8 July 2026, Wednesday, POTD
+    # Refer: codestorywithMIK
     def sumAndMultiply(self, s: str, queries: List[List[int]]) -> List[int]:
         MOD = 10**9 + 7
         n = len(s)
@@ -41,9 +42,9 @@ class Solution:
             endCount = nonZeroCount[r]
             subStrLen = endCount - startCount
 
-            # if subStrLen == 0:
-            #    result[i] = 0
-            #    continue
+            if subStrLen == 0:
+                result[i] = 0
+                continue
 
             numBefore = 0 if l == 0 else numberUpTo[l - 1]
             # To prevent negatives, we use MOD like below as we are substracting here.
