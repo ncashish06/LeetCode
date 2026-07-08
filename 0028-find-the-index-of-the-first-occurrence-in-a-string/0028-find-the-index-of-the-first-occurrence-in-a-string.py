@@ -52,7 +52,9 @@ class Solution:
         return -1
         """
         # Approach 3: Rabin Karp
-        # Time: O(m + n) in average with m = len(a), n = len(b), Space: O(1)
+        # Average case time: O(m + n) with m = len(a), n = len(b)
+        # Worst case time: O(n*m) due to potential hash collisions forcing the haystack[i:i+m] == needle verification at every window
+        # Space: O(1)
         base = 256
         mod = int(1e9 + 7)
 
@@ -61,7 +63,7 @@ class Solution:
 
         if m > n:
             return -1
-            
+
         patternHash = 0
         windowHash = 0
 
