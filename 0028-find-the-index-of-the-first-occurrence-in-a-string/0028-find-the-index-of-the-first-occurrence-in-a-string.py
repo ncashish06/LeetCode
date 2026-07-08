@@ -10,12 +10,12 @@ class Solution:
         m = len(needle)
 
         for i in range(n - m + 1):
-            j = 0
             for j in range(m):
                 if haystack[i + j] != needle[j]:
                     break
-            else:
-                return i
+                if j == m - 1:
+                    return i
+
         return -1
         """
         # Approach 2: KMP
@@ -50,3 +50,4 @@ class Solution:
             if j == m:
                 return i - m
         return -1
+        
