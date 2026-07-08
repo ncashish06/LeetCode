@@ -17,7 +17,7 @@ class Solution:
                     return i
 
         return -1
-        """
+
         # Approach 2: KMP
         # Time: O(n+m) where n = len(haystack), m = len(needle)
         # Space: O(m)
@@ -50,4 +50,36 @@ class Solution:
             if j == m:
                 return i - m
         return -1
-        
+        """
+        # Approach 3: Rabin Karp
+        # Time: O(m + n) in average with m = len(a), n = len(b), Space: O(1)
+        base = 256
+        mod = int(1e9 + 7)
+
+        n = len(haystack)
+        m = len(needle)
+
+        if m > n:
+            return -1
+            
+        patternHash = 0
+        windowHash = 0
+
+        for i in range(m):
+            patternHash = (patternHash * base + ord(needle[i])) % mod
+            windowHash = (windowHash * base + ord(haystack[i])) % mod
+
+        power = 1
+        for _ in range(m - 1):
+            power = (power * base) % mod
+
+        for i in range(n - m + 1):
+            if patternHash == windowHash:
+                if haystack[i : i + m] == needle:
+                    return i
+
+            if i < n - m:
+                windowHash = (windowHash - (power * ord(haystack[i])) % mod + mod) % mod
+                windowHash = (windowHash * base + ord(haystack[i + m])) % mod
+
+        return -1
