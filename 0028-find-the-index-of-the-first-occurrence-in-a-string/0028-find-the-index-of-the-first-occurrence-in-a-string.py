@@ -17,7 +17,7 @@ class Solution:
                     return i
 
         return -1
-
+        """
         # Approach 2: KMP
         # Time: O(n+m) where n = len(haystack), m = len(needle)
         # Space: O(m)
@@ -85,3 +85,4 @@ class Solution:
                 windowHash = (windowHash * base + ord(haystack[i + m])) % mod
 
         return -1
+        """
