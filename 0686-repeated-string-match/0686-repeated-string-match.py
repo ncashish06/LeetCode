@@ -22,7 +22,7 @@ class Solution:
             return count
 
         return -1
-        
+        """
         # Approach 2: Rabin Karp
         # Average case time: O(m + n) with m = len(pattern), n = len(text)
         # Worst case time: O(n*m) due to potential hash collisions forcing the text[i:i+m] == pattern verification at every window
@@ -45,37 +45,37 @@ class Solution:
 
         return -1
 
-        def rabinKarp(self, text, pattern):
-            base = 256
-            mod = int(1e9 + 7)
+    def rabinKarp(self, text, pattern):
+        base = 256
+        mod = int(1e9 + 7)
 
-            n = len(text)
-            m = len(pattern)
+        n = len(text)
+        m = len(pattern)
 
-            if m > n:
-                return False
-
-            patternHash = 0
-            windowHash = 0
-
-            for i in range(m):
-                patternHash = (patternHash * base + ord(pattern[i])) % mod
-                windowHash = (windowHash * base + ord(text[i])) % mod
-
-            power = 1
-            for _ in range(m - 1):
-                power = (power * base) % mod
-
-            for i in range(n - m + 1):
-                if patternHash == windowHash:
-                    if text[i : i + m] == pattern:
-                        return True
-
-                if i < n - m:
-                    windowHash = (windowHash - (power * ord(text[i])) % mod + mod) % mod
-                    windowHash = (windowHash * base + ord(text[i + m])) % mod
-
+        if m > n:
             return False
+
+        patternHash = 0
+        windowHash = 0
+
+        for i in range(m):
+            patternHash = (patternHash * base + ord(pattern[i])) % mod
+            windowHash = (windowHash * base + ord(text[i])) % mod
+
+        power = 1
+        for _ in range(m - 1):
+            power = (power * base) % mod
+
+        for i in range(n - m + 1):
+            if patternHash == windowHash:
+                if text[i : i + m] == pattern:
+                    return True
+
+            if i < n - m:
+                windowHash = (windowHash - (power * ord(text[i])) % mod + mod) % mod
+                windowHash = (windowHash * base + ord(text[i + m])) % mod
+
+        return False
         """
         # Approach 3: KMP
         # Time: O(n+m) where n = len(text), m = len(pattern)
@@ -135,3 +135,4 @@ class Solution:
             if j == m:
                 return True
         return False
+    """
