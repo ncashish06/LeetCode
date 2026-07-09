@@ -4,7 +4,8 @@ class Solution:
     def pathExistenceQueries(
         self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]
     ) -> List[bool]:
-        # Approach 1: BFS
+        """
+        # Approach 1: BFS, but slow
         # Time: O((V+E) + q), Space: O(V+E)
         adj = collections.defaultdict(list)
         for i in range(n - 1):
@@ -27,5 +28,16 @@ class Solution:
                             component[ngbr] = compId
                             queue.append(ngbr)
                 compId += 1
+
+        return [component[u] == component[v] for u, v in queries]
+        """
+        # Approach 2: Simple observation - assign components
+        # Time: O(n + q), Space: O(n)
+        component = [0] * n
+        compId = 0
+        for i in range(1, n):
+            if nums[i] - nums[i - 1] > maxDiff:
+                compId += 1
+            component[i] = compId
 
         return [component[u] == component[v] for u, v in queries]
