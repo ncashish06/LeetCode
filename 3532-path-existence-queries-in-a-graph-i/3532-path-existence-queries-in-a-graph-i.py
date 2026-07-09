@@ -1,6 +1,7 @@
 class Solution:
     # Date Solved: 9 July 2026, Thursday, POTD
     # Refer: Claude. Union-find approach is overkill here.
+    # Time: O(n) to build the groups, O(1) per query, so O(n + q) overall.
     def pathExistenceQueries(
         self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]
     ) -> List[bool]:
