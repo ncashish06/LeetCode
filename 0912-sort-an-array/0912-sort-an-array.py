@@ -2,7 +2,7 @@ class Solution:
     # Date Solved: 9 July 2026, Thursday
     # NC250
     # Refer: Namaste DSA
-    """
+
     # Heap Sort
     # Time: O(n log n) best/avg/worst
     # Space: O(1)
@@ -35,6 +35,7 @@ class Solution:
             arr[i], arr[largest] = arr[largest], arr[i]
             self.heapifyDown(arr, largest, n)
 
+    """
     # Merge Sort
     # Time: O(n log n) best/avg/worst
     # Space: O(n) — auxiliary arrays for merging
@@ -162,7 +163,7 @@ class Solution:
             e *= 10
 
         return [x - offset for x in shifted]
-    """
+    
     # Bucket Sort
     # Time: O(n + k) avg (k = number of buckets), O(n^2) worst (all elements land in one bucket)
     # Space: O(n + k)
@@ -198,3 +199,4 @@ class Solution:
             result.extend(bucket)
 
         return result
+    """
