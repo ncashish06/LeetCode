@@ -1,25 +1,26 @@
 class Solution:
-    # Date Solved: 13 May 2026, Wednesday
-    # Refer: codestorywithMIK
-    def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
-        result = []
+    # Date Solved: 9 July 2026, Thursday
+    # Blind 75
+    # Refer: Namaste DSA and codestorywithMIK
+    def insert(self, arr: List[List[int]], x: List[int]) -> List[List[int]]:
+        n = len(arr)
+        ans = []
         i = 0
-        n = len(intervals)
+        # when arr = [[1,2]] and x=[3,4], ans.append(x) after the overlapping intervals block adds [3,4]
+        # left non-overlapping intervals
+        while i < n and arr[i][1] < x[0]:
+            ans.append(arr[i])
+            i += 1
 
+        # overlapping intervals
+        while i < n and arr[i][0] <= x[1]:
+            x[0] = min(x[0], arr[i][0])
+            x[1] = max(x[1], arr[i][1])
+            i += 1
+        ans.append(x)
+
+        # right non-overlapping intervals
         while i < n:
-            if (intervals[i][1] < newInterval[0]):  # Current interval ends before newInterval starts
-                result.append(intervals[i])
-            elif (intervals[i][0] > newInterval[1]):  # Current Interval starts after newInterval ends
-                break
-            else:
-                # merge kardo and aage dekho
-                newInterval[0] = min(newInterval[0], intervals[i][0])
-                newInterval[1] = max(newInterval[1], intervals[i][1])
+            ans.append(arr[i])
             i += 1
-
-        result.append(newInterval)
-
-        while i < n:  # Just dump the remaining intervals after the merge zone directly
-            result.append(intervals[i])
-            i += 1
-        return result
+        return ans
