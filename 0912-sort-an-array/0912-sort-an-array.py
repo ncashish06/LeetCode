@@ -59,7 +59,7 @@ class Solution:
         res.extend(left[i:])
         res.extend(right[j:])
         return res
-    
+
     # Quick Sort
     # Time: O(n log n) best/avg, O(n^2) worst (already-sorted input with last-element pivot causes worst-case unbalanced splits)
     # Space: O(log n) avg recursion stack, O(n) worst case
@@ -85,7 +85,7 @@ class Solution:
             self.quickSort(arr, startIndex, pivotIndex - 1)
             self.quickSort(arr, pivotIndex + 1, endIndex)
             return arr
-    """
+
     # Counting Sort (stable)
     # Time: O(n + k), k = value range (max_val - min_val)
     # Space: O(n + k)
@@ -93,77 +93,78 @@ class Solution:
     # To allows negatives (-5*10^4 to 5*10^4), values are offset by min_val to stay within bounds.
     def sortArray(self, nums: List[int]) -> List[int]:
         return self.counting_sort_stable(nums)
- 
+
     def counting_sort_stable(self, arr):
         if not arr:
             return arr
- 
+
         min_val = min(arr)
         max_val = max(arr)
         range_size = max_val - min_val + 1
- 
+
         count = [0] * range_size
         for x in arr:
             count[x - min_val] += 1
- 
+
         prefix = [0] * range_size
         prefix[0] = count[0]
         for i in range(1, range_size):
             prefix[i] = prefix[i - 1] + count[i]
- 
+
         sorted_arr = [0] * len(arr)
         for i in range(len(arr) - 1, -1, -1):
             curr = arr[i]
             idx = curr - min_val
             sorted_arr[prefix[idx] - 1] = curr
             prefix[idx] -= 1
- 
+
         return sorted_arr
     """
+
     # Radix Sort (uses digit-wise stable counting sort)
     # Time: O(nk), k = number of digits in max shifted value
     # Space: O(n + k)
     # Note: Original code assumes non-negative integers.
     # To allow negatives, all values are shifted up by abs(min_val) before sorting, then shifted back after.
-
     def sortArray(self, nums: List[int]) -> List[int]:
         return self.radixSort(nums)
- 
+
     def countingSortStable(self, arr, e):
         count = [0] * 10
- 
+
         for x in arr:
             digit = (x // e) % 10
             count[digit] += 1
- 
+
         for i in range(1, len(count)):
             count[i] = count[i] + count[i - 1]
- 
+
         sortedArr = [0] * len(arr)
         for i in range(len(arr) - 1, -1, -1):
             curr = (arr[i] // e) % 10
             x = count[curr]
             sortedArr[x - 1] = arr[i]
             count[curr] -= 1
- 
+
         for i in range(len(arr)):
             arr[i] = sortedArr[i]
- 
+
     def radixSort(self, arr):
         if not arr:
             return arr
- 
+
         offset = -min(arr) if min(arr) < 0 else 0
         shifted = [x + offset for x in arr]
- 
+
         max_val = max(shifted)
         e = 1
         while max_val // e > 0:
             self.countingSortStable(shifted, e)
             e *= 10
- 
+
         return [x - offset for x in shifted]
 
+    """
     # Bucket Sort
     # Time: O(n + k) avg (k = number of buckets), O(n^2) worst (all elements land in one bucket)
     # Space: O(n + k)
