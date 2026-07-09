@@ -2,6 +2,7 @@ class Solution:
     # Date Solved: 9 July 2026, Thursday
     # Blind 75
     # Refer: Namaste DSA and codestorywithMIK
+    # Time: O(n), Space: O(n) for ans array
     def insert(self, arr: List[List[int]], x: List[int]) -> List[List[int]]:
         n = len(arr)
         ans = []
