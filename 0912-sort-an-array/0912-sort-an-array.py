@@ -4,7 +4,8 @@ class Solution:
     # Refer: Namaste DSA
     """
     # Heap Sort
-    # Time: O(n log n) best/avg/worst, Space: O(1)
+    # Time: O(n log n) best/avg/worst
+    # Space: O(1)
     def sortArray(self, nums: List[int]) -> List[int]:
         n = len(nums)
 
@@ -34,11 +35,10 @@ class Solution:
             arr[i], arr[largest] = arr[largest], arr[i]
             self.heapifyDown(arr, largest, n)
 
-    """
     # Merge Sort
     # Time: O(n log n) best/avg/worst
     # Space: O(n) — auxiliary arrays for merging
-    def sortArray(self, nums):
+    def sortArray(self, nums: List[int]) -> List[int]:
         if len(nums) <= 1:
             return nums
         mid = len(nums) // 2
@@ -59,16 +59,15 @@ class Solution:
         res.extend(left[i:])
         res.extend(right[j:])
         return res
-    """
+    
     # Quick Sort
     # Time: O(n log n) best/avg, O(n^2) worst (already-sorted input with last-element pivot causes worst-case unbalanced splits)
     # Space: O(log n) avg recursion stack, O(n) worst case
-
     def sortArray(self, nums: List[int]) -> List[int]:
         self.quickSort(nums, 0, len(nums) - 1)
         return nums
 
-    def findPivotIndex(arr, startIndex, endIndex):
+    def findPivotIndex(self, arr, startIndex, endIndex):
         pivot = arr[endIndex]
         pos = startIndex - 1
 
@@ -80,20 +79,18 @@ class Solution:
         arr[pos + 1], arr[endIndex] = arr[endIndex], arr[pos + 1]
         return pos + 1
 
-
-    def quickSort(arr, startIndex, endIndex):
+    def quickSort(self, arr, startIndex, endIndex):
         if startIndex < endIndex:
-            pivotIndex = findPivotIndex(arr, startIndex, endIndex)
-            quickSort(arr, startIndex, pivotIndex - 1)
-            quickSort(arr, pivotIndex + 1, endIndex)
+            pivotIndex = self.findPivotIndex(arr, startIndex, endIndex)
+            self.quickSort(arr, startIndex, pivotIndex - 1)
+            self.quickSort(arr, pivotIndex + 1, endIndex)
             return arr
-
+    """
     # Counting Sort (stable)
     # Time: O(n + k), k = value range (max_val - min_val)
     # Space: O(n + k)
     # Note: Original code only works for non-negative integers; k should be bounded/reasonable relative to n, or space blows up.
     # To allows negatives (-5*10^4 to 5*10^4), values are offset by min_val to stay within bounds.
-
     def sortArray(self, nums: List[int]) -> List[int]:
         return self.counting_sort_stable(nums)
  
@@ -122,7 +119,7 @@ class Solution:
             prefix[idx] -= 1
  
         return sorted_arr
-
+    """
     # Radix Sort (uses digit-wise stable counting sort)
     # Time: O(nk), k = number of digits in max shifted value
     # Space: O(n + k)
