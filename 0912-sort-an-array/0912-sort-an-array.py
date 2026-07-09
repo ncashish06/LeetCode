@@ -2,7 +2,7 @@ class Solution:
     # Date Solved: 9 July 2026, Thursday
     # NC250
     # Refer: Namaste DSA
-
+    """
     # Heap Sort
     # Time: O(n log n) best/avg/worst, Space: O(1)
     def sortArray(self, nums: List[int]) -> List[int]:
@@ -38,7 +38,6 @@ class Solution:
     # Merge Sort
     # Time: O(n log n) best/avg/worst
     # Space: O(n) — auxiliary arrays for merging
-
     def sortArray(self, nums):
         if len(nums) <= 1:
             return nums
@@ -60,8 +59,7 @@ class Solution:
         res.extend(left[i:])
         res.extend(right[j:])
         return res
-
-
+    """
     # Quick Sort
     # Time: O(n log n) best/avg, O(n^2) worst (already-sorted input with last-element pivot causes worst-case unbalanced splits)
     # Space: O(log n) avg recursion stack, O(n) worst case
