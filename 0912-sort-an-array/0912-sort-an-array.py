@@ -119,7 +119,6 @@ class Solution:
             prefix[idx] -= 1
 
         return sorted_arr
-    """
 
     # Radix Sort (uses digit-wise stable counting sort)
     # Time: O(nk), k = number of digits in max shifted value
@@ -163,42 +162,39 @@ class Solution:
             e *= 10
 
         return [x - offset for x in shifted]
-
     """
     # Bucket Sort
     # Time: O(n + k) avg (k = number of buckets), O(n^2) worst (all elements land in one bucket)
     # Space: O(n + k)
     # Note: assumes input is floats uniformly distributed in [0, 1). index = int(x * n) requires x in [0, 1) to stay in bounds.
     # Bucket general integers (including negatives) by scaling each value's position within [min_val, max_val] into a bucket index.
-
     def sortArray(self, nums: List[int]) -> List[int]:
         return self.bucketSort(nums)
- 
+
     def bucketSort(self, arr):
         if not arr:
             return arr
- 
+
         n = len(arr)
         min_val, max_val = min(arr), max(arr)
- 
+
         if min_val == max_val:
             return arr
- 
+
         bucket_count = n
         bucket_size = (max_val - min_val) / bucket_count
         buckets = [[] for _ in range(bucket_count + 1)]
- 
+
         for x in arr:
             index = int((x - min_val) / bucket_size)
             index = min(index, bucket_count)  # clamp for max_val edge case
             buckets[index].append(x)
- 
+
         for bucket in buckets:
             bucket.sort()
- 
+
         result = []
         for bucket in buckets:
             result.extend(bucket)
- 
+
         return result
-    """
