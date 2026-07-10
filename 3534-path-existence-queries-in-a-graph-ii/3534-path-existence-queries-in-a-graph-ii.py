@@ -1,59 +1,63 @@
 class Solution:
     # Date Solved: 10 July 2026, Friday, POTD
-    # Refer: Claude
+    # Refer: codestorywithMIK
+    # Brute force approaches such as BFS, Dijkstra's, Floyd Warshall are all expensive, so going for Binary Lifting
+    # Time: O(N*logN + Q*logN), Space: O(N*logN)
     def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[int]:
-        
-        order = sorted(range(n), key=lambda i: nums[i])
-        sortedVals = [nums[i] for i in order]
-        pos = [0] * n  # pos[original_node] = rank in sorted order
-        for rank, node in enumerate(order):
-            pos[node] = rank
+        def customUpperBound(arr: List[tuple], target: int) -> int:
+            l, r = 0, len(arr) - 1
+            result = 0
+            while l <= r:
+                mid = l + (r - l) // 2
+                if arr[mid][0] <= target:
+                    result = mid
+                    l = mid + 1
+                else:
+                    r = mid - 1
+            return result
 
-        far = [0] * n
-        right = 0
+        arr = sorted((nums[i], i) for i in range(n))
+        nodeToIdx = [0] * n
         for i in range(n):
-            if right < i:
-                right = i
-            while right + 1 < n and sortedVals[right + 1] - sortedVals[i] <= maxDiff:
-                right += 1
-            far[i] = right
+            node = arr[i][1]
+            nodeToIdx[node] = i
 
-        comp = [0] * n
-        for i in range(1, n):
-            comp[i] = comp[i - 1] + (
-                1 if sortedVals[i] - sortedVals[i - 1] > maxDiff else 0
-            )
+        rows = n
+        cols = int(math.log2(n)) + 1
+        ancestorTable = [[0] * cols for _ in range(rows)]
 
-        LOG = max(1, n.bit_length())
-        jump = [[0] * LOG for _ in range(n)]
-        for i in range(n):
-            jump[i][0] = far[i]
-        for j in range(1, LOG):
-            for i in range(n):
-                jump[i][j] = jump[jump[i][j - 1]][j - 1]
+        # Fill 0th column first
+        for node in range(n):  # nlogn
+            farthestIdxOneHop = customUpperBound(arr, arr[node][0] + maxDiff)
+            ancestorTable[node][0] = farthestIdxOneHop
 
-        def min_jumps(i: int, target: int) -> int:
-            # minimum hops to get from position i to a position >= target
-            steps = 0
-            cur = i
-            for j in range(LOG - 1, -1, -1):
-                if jump[cur][j] < target:
-                    cur = jump[cur][j]
-                    steps += 1 << j
-            if cur < target:  # one final hop needed
-                cur = jump[cur][0]
-                steps += 1
-            return steps
+        # Fill remaining columns
+        for j in range(1, cols):  # logn
+            for node in range(n):  # n
+                ancestorTable[node][j] = ancestorTable[ancestorTable[node][j - 1]][j - 1]
 
-        answer = []
-        for u, v in queries:
-            pu, pv = pos[u], pos[v]
-            if pu == pv:
-                answer.append(0)
-            elif comp[pu] != comp[pv]:
-                answer.append(-1)
+        result = []
+        for u, v in queries:  # O(q)
+            a = nodeToIdx[u]
+            b = nodeToIdx[v]
+            if a == b:
+                result.append(0)
+                continue
+
+            if a > b:
+                a, b = b, a
+
+            curr = a
+            jumps = 0
+
+            for j in range(cols - 1, -1, -1):  # log(n)
+                if ancestorTable[curr][j] < b:
+                    curr = ancestorTable[curr][j]
+                    jumps += 1 << j  # pow(2, j)
+
+            if ancestorTable[curr][0] >= b:
+                result.append(jumps + 1)
             else:
-                lo, hi = min(pu, pv), max(pu, pv)
-                answer.append(min_jumps(lo, hi))
+                result.append(-1)
 
-        return answer
+        return result
