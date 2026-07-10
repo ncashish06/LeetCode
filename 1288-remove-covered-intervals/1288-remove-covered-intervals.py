@@ -1,6 +1,6 @@
 class Solution:
     # Date Solved: 6 July 2026, Monday, POTD
-    # Refer: codestorywithMIK. Also, in NC All with video explanation.
+    # Refer: codestorywithMIK. NeetCode provides Approach 1 of codestorywithMIK.
     # Good "Intervals" topic question for practice which will help with other "Intervals" Blind 75, NC150 problems.
     def removeCoveredIntervals(self, arr: List[List[int]]) -> int:
         """
