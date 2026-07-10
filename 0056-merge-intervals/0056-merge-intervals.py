@@ -1,19 +1,23 @@
 class Solution:
-    # Date Solved: 19 May 2026, Tuesday
-    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+    # Date Solved: 10 July 2026, Friday
+    # Blind 75
+    # Refer: Namaste DSA
+    # Asked in Master Electronics Interview in March 2026
+    def merge(self, arr: List[List[int]]) -> List[List[int]]:
         """
         Approach: Foundation for LC 759 Employee Free Time.
         LC56:  sort + merge overlapping intervals -> return merged spans
         LC759: sort + merge overlapping intervals -> return the GAPS between merged spans
         """
-        intervals.sort(key=lambda pair: pair[0])
-        output = [intervals[0]]
+        arr.sort(key=lambda x: x[0])
+        ans = [arr[0]]
 
-        for start, end in intervals:
-            lastEnd = output[-1][1]
+        for i in range(1, len(arr)):
+            start, end = arr[i][0], arr[i][1]
+            last_end = ans[-1][1]
 
-            if start <= lastEnd:
-                output[-1][1] = max(lastEnd, end)
+            if start <= last_end:
+                ans[-1][1] = max(last_end, end)
             else:
-                output.append([start, end])
-        return output
+                ans.append([start, end])
+        return ans
