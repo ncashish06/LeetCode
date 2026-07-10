@@ -9,7 +9,8 @@ class Solution:
         ans = [arr[0]]
         for i in range(1, len(arr)):
             start, end = arr[i][0], arr[i][1]
-            if ans[-1][0] <= start and ans[-1][1] >= end:
+            prev_start, prev_end = ans[-1][0], ans[-1][1]
+            if prev_start <= start and prev_end >= end:
                 continue
             ans.append(arr[i])
         return len(ans)
@@ -19,8 +20,9 @@ class Solution:
         ans = [arr[0]]
         for i in range(1, len(arr)):
             end = arr[i][1]
+            prev_end = ans[-1][1]
             # Simplified, As ans[-1][0] <= start is always true and is redundant (due to sorting)
-            if ans[-1][1] >= end:
+            if prev_end >= end:
                 continue
             ans.append(arr[i])
         return len(ans)
