@@ -21,7 +21,7 @@ class Solution:
         for i in range(1, len(arr)):
             end = arr[i][1]
             prev_end = ans[-1][1]
-            # Simplified, As ans[-1][0] <= start is always true and is redundant (due to sorting)
+            # Simplified, As prev_start <= start is always true and is redundant (due to sorting)
             if prev_end >= end: # current interval is completely inside previous, so don't add the current interval into answer 
                 continue
             ans.append(arr[i])
