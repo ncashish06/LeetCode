@@ -3,6 +3,7 @@ class Solution:
     # Blind 75
     # Refer: Namaste DSA
     # Asked in Master Electronics Interview in March 2026
+    # Time: O(nlogn) for sorting, Space: O(n) for ans array
     def merge(self, arr: List[List[int]]) -> List[List[int]]:
         """
         Approach: Foundation for LC 759 Employee Free Time.
