@@ -77,6 +77,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1064-fixed-point](https://github.com/ncashish06/LeetCode/tree/master/1064-fixed-point) |
+| [1272-remove-interval](https://github.com/ncashish06/LeetCode/tree/master/1272-remove-interval) |
 | [1288-remove-covered-intervals](https://github.com/ncashish06/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ncashish06/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1306-jump-game-iii) |
