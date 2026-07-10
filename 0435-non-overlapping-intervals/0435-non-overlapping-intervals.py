@@ -9,7 +9,7 @@ class Solution:
         k = float("-inf")
         for i in range(len(arr)):
             start, end = arr[i][0], arr[i][1]
-            if start < k:
+            if start < k:  # Golden rule to check overlap: current_start <= last_end
                 remove_count += 1
             else:
                 k = end
