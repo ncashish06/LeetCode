@@ -15,10 +15,10 @@ class Solution:
 
         for i in range(1, len(arr)):
             start, end = arr[i][0], arr[i][1]
-            last_end = ans[-1][1]
+            prev_end = ans[-1][1]
 
-            if start <= last_end:
-                ans[-1][1] = max(last_end, end)
+            if start <= prev_end:
+                ans[-1][1] = max(prev_end, end)
             else:
-                ans.append([start, end])
+                ans.append(arr[i])
         return ans
