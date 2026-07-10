@@ -2,40 +2,37 @@ class Solution:
     # Date Solved: 6 July 2026, Monday, POTD
     # Refer: codestorywithMIK. Also, in NC All with video explanation.
     # Good "Intervals" topic question for practice which will help with other "Intervals" Blind 75, NC150 problems.
-    def removeCoveredIntervals(self, intervals: List[List[int]]) -> int:
+    def removeCoveredIntervals(self, arr: List[List[int]]) -> int:
         """
         # Approach 1: Using O(n) space and sorting. Time : O(nlogn), Space : O(n)
-        result = []
-        n = len(intervals)
-        # sort by start ascending; on tie, end descending
-        intervals.sort(key=lambda x: (x[0], -x[1]))
-        result.append(intervals[0])
-        for i in range(1, n):
-            if result[-1][0] <= intervals[i][0] and result[-1][1] >= intervals[i][1]:
+        arr.sort(key=lambda x: (x[0], -x[1]))
+        ans = [arr[0]]
+        for i in range(1, len(arr)):
+            start, end = arr[i][0], arr[i][1]
+            if ans[-1][0] <= start and ans[-1][1] >= end:
                 continue
-            result.append(intervals[i])
-        return len(result)
+            ans.append(arr[i])
+        return len(ans)
 
         # Approach 2: Using O(n) space and sorting + Simplified condition check. Time : O(nlogn), Space : O(n)
-        result = []
-        n = len(intervals)
-        intervals.sort(key=lambda x: (x[0], -x[1]))
-        result.append(intervals[0])
-        for i in range(1, n):
-            # Simplified, As result[-1][0] <= intervals[i][0] is always true and is redundant (due to sorting)
-            if result[-1][1] >= intervals[i][1]:
+        arr.sort(key=lambda x: (x[0], -x[1]))
+        ans = [arr[0]]
+        for i in range(1, len(arr)):
+            end = arr[i][1]
+            # Simplified, As ans[-1][0] <= start is always true and is redundant (due to sorting)
+            if ans[-1][1] >= end:
                 continue
-            result.append(intervals[i])
-        return len(result)
+            ans.append(arr[i])
+        return len(ans)
         """
         # Approach 3: Using constant space and sorting. Time : O(nlogn), Space : O(1)
-        n = len(intervals)
-        intervals.sort(key=lambda x: (x[0], -x[1]))
-        last_interval_ka_end = intervals[0][1]  # last_interval_ka_end, ka = hindi. Lol!
+        arr.sort(key=lambda x: (x[0], -x[1]))
+        prev_end = arr[0][1]
         count = 1
-        for i in range(1, n):
-            if last_interval_ka_end >= intervals[i][1]:
+        for i in range(1, len(arr)):
+            start, end = arr[i][0], arr[i][1]
+            if prev_end >= end:
                 continue
-            last_interval_ka_end = intervals[i][1]
+            prev_end = end
             count += 1
         return count
