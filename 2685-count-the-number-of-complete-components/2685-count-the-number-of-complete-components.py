@@ -1,7 +1,7 @@
 class Solution:
     # Date Solved: 11 July 2026, Saturday, POTD
     # In NC All
-    # Refer: codestorywithMIK
+    # Refer: codestorywithMIK, Solved using DFS, BFS or Disjoint Set Union.
     # Approach-1 (Using BFS)
     # Time : O(V+E), Space : O(V+E)
     def bfs(self, i, adj, visited, counts):
