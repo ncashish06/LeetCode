@@ -10,7 +10,7 @@ class Solution:
         for i in range(1, len(arr)):
             start, end = arr[i][0], arr[i][1]
             prev_start, prev_end = ans[-1][0], ans[-1][1]
-            if prev_start <= start and prev_end >= end: # current interval is completely inside previous, so don't add the current interval into answer 
+            if prev_start <= start and prev_end >= end: # current interval is completely inside previous, so don't add the current interval into answer
                 continue
             ans.append(arr[i])
         return len(ans)
@@ -22,7 +22,7 @@ class Solution:
             end = arr[i][1]
             prev_end = ans[-1][1]
             # Simplified, As prev_start <= start is always true and is redundant (due to sorting)
-            if prev_end >= end: # current interval is completely inside previous, so don't add the current interval into answer 
+            if prev_end >= end: # current interval is completely inside previous, so don't add the current interval into answer
                 continue
             ans.append(arr[i])
         return len(ans)
@@ -32,7 +32,7 @@ class Solution:
         prev_end = arr[0][1]
         count = 1
         for i in range(1, len(arr)):
-            start, end = arr[i][0], arr[i][1]
+            end = arr[i][1]
             if prev_end >= end:
                 continue
             prev_end = end
