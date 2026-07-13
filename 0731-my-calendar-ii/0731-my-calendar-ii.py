@@ -2,6 +2,8 @@
 # In NC all under "Intervals" topic
 # Refer: NeetCode or codestorywithMIK
 
+
+# Unlike My Calendar I, there is no need of Binary Search Tree(BST) here.
 # Time Complexity: O(n) per booking (scan overlaps + bookings), O(n^2) overall
 # Space Complexity: O(n) for bookings and overlaps lists
 class MyCalendarTwo:
