@@ -17,7 +17,7 @@ class Solution:
             if last_digit + 1 <= 9:
                 queue.append(temp * 10 + (last_digit + 1))
 
-        return sorted(result)
+        return result
         """
         # Approach 2 - Using workaround (precomputed list)
         # Time: O(1)
