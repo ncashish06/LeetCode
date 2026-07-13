@@ -69,6 +69,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ncashish06/LeetCode/tree/master/0704-binary-search) |
 | [0723-candy-crush](https://github.com/ncashish06/LeetCode/tree/master/0723-candy-crush) |
+| [0729-my-calendar-i](https://github.com/ncashish06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/ncashish06/LeetCode/tree/master/0739-daily-temperatures) |
 | [0755-pour-water](https://github.com/ncashish06/LeetCode/tree/master/0755-pour-water) |
 | [0759-employee-free-time](https://github.com/ncashish06/LeetCode/tree/master/0759-employee-free-time) |
@@ -422,6 +423,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ncashish06/LeetCode/tree/master/0704-binary-search) |
+| [0729-my-calendar-i](https://github.com/ncashish06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1064-fixed-point](https://github.com/ncashish06/LeetCode/tree/master/1064-fixed-point) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ncashish06/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -696,6 +698,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0281-zigzag-iterator](https://github.com/ncashish06/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0288-unique-word-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0707-design-linked-list](https://github.com/ncashish06/LeetCode/tree/master/0707-design-linked-list) |
+| [0729-my-calendar-i](https://github.com/ncashish06/LeetCode/tree/master/0729-my-calendar-i) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ncashish06/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [2069-walking-robot-simulation-ii](https://github.com/ncashish06/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
@@ -904,6 +907,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/ncashish06/LeetCode/tree/master/0729-my-calendar-i) |
 | [3161-block-placement-queries](https://github.com/ncashish06/LeetCode/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ncashish06/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ncashish06/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -914,4 +918,8 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1291-sequential-digits](https://github.com/ncashish06/LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ncashish06/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ncashish06/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ncashish06/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
