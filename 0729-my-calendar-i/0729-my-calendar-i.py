@@ -17,7 +17,7 @@ class MyCalendar:
         return True
 """
 
-
+# Approach 2: Binary Search Tree
 # Time: O(log n) average per booking (tree stays roughly balanced with random inputs),
 # O(n) worst case if bookings arrive in sorted/monotonic order
 # Space: O(n) for storing n booked events as tree nodes
