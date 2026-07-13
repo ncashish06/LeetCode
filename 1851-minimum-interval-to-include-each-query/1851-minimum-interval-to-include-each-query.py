@@ -2,6 +2,7 @@ class Solution:
     # Date Solved: 13 July 2026, Monday
     # NC150
     # Refer: NeetCode, no codestorywithMIK solution available till the above date
+    # Topic: Intervals but optimal solution uses Heap
     def minInterval(self, intervals: List[List[int]], queries: List[int]) -> List[int]:
         """
         # Approach 1: Brute force: For each query, scan every interval and track the smallest interval that contains it.
