@@ -50,6 +50,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0217-contains-duplicate](https://github.com/ncashish06/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ncashish06/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/ncashish06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/ncashish06/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/ncashish06/LeetCode/tree/master/0281-zigzag-iterator) |
@@ -399,6 +400,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0125-valid-palindrome](https://github.com/ncashish06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ncashish06/LeetCode/tree/master/0189-rotate-array) |
 | [0246-strobogrammatic-number](https://github.com/ncashish06/LeetCode/tree/master/0246-strobogrammatic-number) |
+| [0253-meeting-rooms-ii](https://github.com/ncashish06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/ncashish06/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ncashish06/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -494,6 +496,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0055-jump-game](https://github.com/ncashish06/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ncashish06/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ncashish06/LeetCode/tree/master/0134-gas-station) |
+| [0253-meeting-rooms-ii](https://github.com/ncashish06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0435-non-overlapping-intervals](https://github.com/ncashish06/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
@@ -548,6 +551,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ncashish06/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0253-meeting-rooms-ii](https://github.com/ncashish06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ncashish06/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -725,6 +729,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0169-majority-element](https://github.com/ncashish06/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ncashish06/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ncashish06/LeetCode/tree/master/0242-valid-anagram) |
+| [0253-meeting-rooms-ii](https://github.com/ncashish06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -867,6 +872,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/ncashish06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0731-my-calendar-ii](https://github.com/ncashish06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ncashish06/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ncashish06/LeetCode/tree/master/1732-find-the-highest-altitude) |
