@@ -1,5 +1,5 @@
 class Solution:
-    # Date Solved: 5 April 2026, Sunday
+    # Date Solved: 4 April 2026, Saturday, POTD
     def decodeCiphertext(self, encodedText: str, rows: int) -> str:
         # Think length of encodedText as area = rows*col
         if rows == 1:
