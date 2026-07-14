@@ -2,6 +2,10 @@
 # In NC all under "Intervals" topic
 # Refer: NeetCode. codestorywithMIK uses built-in data structure like SortedList
 """
+# No line sweep here as in "My Calendar II" because re-sorting all events on every call just to detect a simple pairwise overlap, makes it O(n log n) per call, O(n^2 log n) overall. That's strictly worse than brute force here. Line sweep is useful in Calendar II because you need to track how many bookings overlap at a point (to catch triples); but here you only need a yes/no on any overlap, so the sweep's bookkeeping is wasted effort.
+"""
+
+"""
 # Approach 1: Brute force
 # Time: O(n) per booking, O(n^2) overall
 class MyCalendar:
@@ -16,6 +20,7 @@ class MyCalendar:
         self.bookings.append((startTime, endTime))
         return True
 """
+
 
 # Approach 2: Binary Search Tree
 # Time: O(log n) average per booking (tree stays roughly balanced with random inputs),
