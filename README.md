@@ -149,6 +149,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ncashish06/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ncashish06/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/ncashish06/LeetCode/tree/master/3660-jump-game-ix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ncashish06/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ncashish06/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ncashish06/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ncashish06/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -443,6 +444,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3620-network-recovery-pathways](https://github.com/ncashish06/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ncashish06/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ncashish06/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ncashish06/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -480,6 +482,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ncashish06/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3620-network-recovery-pathways](https://github.com/ncashish06/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/ncashish06/LeetCode/tree/master/3660-jump-game-ix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ncashish06/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ncashish06/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ncashish06/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -747,6 +750,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ncashish06/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ncashish06/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ncashish06/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/ncashish06/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Counting
 |  |
 | ------- |
