@@ -101,6 +101,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ncashish06/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ncashish06/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1854-maximum-population-year](https://github.com/ncashish06/LeetCode/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ncashish06/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -760,6 +761,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ncashish06/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1854-maximum-population-year](https://github.com/ncashish06/LeetCode/tree/master/1854-maximum-population-year) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ncashish06/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/ncashish06/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ncashish06/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -868,6 +870,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0731-my-calendar-ii](https://github.com/ncashish06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ncashish06/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ncashish06/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/ncashish06/LeetCode/tree/master/1854-maximum-population-year) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/ncashish06/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/ncashish06/LeetCode/tree/master/2615-sum-of-distances) |
