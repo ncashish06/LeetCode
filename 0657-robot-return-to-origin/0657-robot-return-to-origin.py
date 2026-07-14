@@ -1,4 +1,6 @@
 class Solution:
+    # Date Solved: 5 April 2026, Sunday, POTD
+    # Refer: codestorywithMIK
     def judgeCircle(self, moves: str) -> bool:
         x, y = 0, 0
         for move in moves:
