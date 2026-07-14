@@ -1,8 +1,8 @@
 # Date Solved: 13 July 2026, Monday
 # In NC all under "Intervals" topic
-# Refer: NeetCode or codestorywithMIK
+# Refer: codestorywithMIK (for both: line sweep and other approach) and NeetCode (non line-sweep technique)
 
-
+"""
 # Unlike My Calendar I, there is no need of Binary Search Tree(BST) here.
 # Time Complexity: O(n) per booking (scan overlaps + bookings), O(n^2) overall
 # Space Complexity: O(n) for bookings and overlaps lists
@@ -26,6 +26,32 @@ class MyCalendarTwo:
 
         # Finally, record this event as a booking.
         self.bookings.append((startTime, endTime))
+        return True
+"""
+
+
+# Approach 2: Line Sweep
+# Refer: codestorywithMIK
+# Time: O(nlogn), Space: O(n) to store events in map
+class MyCalendarTwo:
+    def __init__(self):
+        self.events = defaultdict(int)
+
+    def book(self, startTime: int, endTime: int) -> bool:
+        self.events[startTime] += 1
+        self.events[endTime] -= 1
+
+        count = 0
+
+        for time in sorted(self.events):
+            count += self.events[time]
+
+            if count > 2:
+                # Undo the speculative booking
+                self.events[startTime] -= 1
+                self.events[endTime] += 1
+                return False
+
         return True
 
 
