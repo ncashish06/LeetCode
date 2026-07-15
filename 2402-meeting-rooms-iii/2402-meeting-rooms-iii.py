@@ -1,7 +1,7 @@
 class Solution:
     # Date Solved: 15 July 2026, Wednesday
     # NC250
-    # Refer: codestorywithMIK for both approaches. 1hr video.
+    # Refer: codestorywithMIK for both approaches. 1hr video. NeetCode's approach is same as Approach 2.
     def mostBooked(self, n: int, meetings: List[List[int]]) -> int:
         """
         # Approach 1: Brute Force - Do as said
@@ -53,18 +53,18 @@ class Solution:
         rooms_used_count = [0] * n
 
         used_rooms = []  # min-heap of (end_time, room) -- rooms currently occupied
-        unused_rooms = list(range(n))  # min-heap of free room numbers
-        heapq.heapify(unused_rooms)
+        available_rooms = list(range(n))  # min-heap of free room numbers
+        heapq.heapify(available_rooms)
 
         for start, end in meetings:
             # free up any rooms whose meetings have ended by 'start'
             while used_rooms and used_rooms[0][0] <= start:
                 _, room = heapq.heappop(used_rooms)
-                heapq.heappush(unused_rooms, room)
+                heapq.heappush(available_rooms, room)
 
-            if unused_rooms:
+            if available_rooms:
                 # lowest-numbered free room takes this meeting
-                room = heapq.heappop(unused_rooms)
+                room = heapq.heappop(available_rooms)
                 heapq.heappush(used_rooms, (end, room))
                 rooms_used_count[room] += 1
             else:
