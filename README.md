@@ -121,6 +121,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2161-partition-array-according-to-given-pivot](https://github.com/ncashish06/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ncashish06/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
+| [2402-meeting-rooms-iii](https://github.com/ncashish06/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ncashish06/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/ncashish06/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
@@ -205,6 +206,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ncashish06/LeetCode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ncashish06/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ncashish06/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2402-meeting-rooms-iii](https://github.com/ncashish06/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/ncashish06/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/ncashish06/LeetCode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -569,6 +571,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/ncashish06/LeetCode/tree/master/1094-car-pooling) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2402-meeting-rooms-iii](https://github.com/ncashish06/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/ncashish06/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ncashish06/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -762,6 +765,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/ncashish06/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2402-meeting-rooms-iii](https://github.com/ncashish06/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/ncashish06/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -828,6 +832,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2069-walking-robot-simulation-ii](https://github.com/ncashish06/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ncashish06/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ncashish06/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2402-meeting-rooms-iii](https://github.com/ncashish06/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ncashish06/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/ncashish06/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ncashish06/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
