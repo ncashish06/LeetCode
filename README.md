@@ -602,6 +602,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0288-unique-word-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/ncashish06/LeetCode/tree/master/0290-word-pattern) |
 | [0291-word-pattern-ii](https://github.com/ncashish06/LeetCode/tree/master/0291-word-pattern-ii) |
+| [0320-generalized-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0344-reverse-string](https://github.com/ncashish06/LeetCode/tree/master/0344-reverse-string) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
@@ -836,6 +837,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0136-single-number](https://github.com/ncashish06/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
+| [0320-generalized-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0342-power-of-four](https://github.com/ncashish06/LeetCode/tree/master/0342-power-of-four) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ncashish06/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -929,6 +931,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0079-word-search](https://github.com/ncashish06/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/ncashish06/LeetCode/tree/master/0212-word-search-ii) |
 | [0291-word-pattern-ii](https://github.com/ncashish06/LeetCode/tree/master/0291-word-pattern-ii) |
+| [0320-generalized-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0489-robot-room-cleaner](https://github.com/ncashish06/LeetCode/tree/master/0489-robot-room-cleaner) |
 ## Interactive
 |  |
