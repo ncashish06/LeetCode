@@ -15,5 +15,6 @@ class Solution:
         # Approach 2: Simple Maths and Constant Time
         # Time : O(1), Space : O(1)
         # sumOdd = n*n, sumEven = n*(n+1)
+        # Since two consecutive integers are always coprime, gcd(n,n+1)=1
         # gcd(n*n, n*(n+1)) = n * gcd(n, n+1) = n * 1 = n
         return n
