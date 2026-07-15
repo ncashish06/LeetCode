@@ -11,7 +11,7 @@ class Solution:
         prev_end = intervals[0][1]
         for i in range(1, len(intervals)):
             start, end = intervals[i][0], intervals[i][1]
-            if start < prev_end:
+            if start < prev_end:  # Golden rule to check overlap
                 return False
             prev_end = end
         return True
