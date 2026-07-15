@@ -33,8 +33,7 @@ class Solution:
             if start > prev_end:  # no overlap
                 count += 1
                 prev = points[i]
-            else:
-                # overlap
+            else: # overlap
                 prev[0] = max(prev_start, start)
                 prev[1] = min(prev_end, end)
 
