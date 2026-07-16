@@ -165,6 +165,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3742-maximum-path-score-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ncashish06/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/ncashish06/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ncashish06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3905-multi-source-flood-fill](https://github.com/ncashish06/LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Hash Table
 |  |
@@ -256,6 +257,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ncashish06/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ncashish06/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ncashish06/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ncashish06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -424,6 +426,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ncashish06/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ncashish06/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ncashish06/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ncashish06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -773,6 +776,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ncashish06/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ncashish06/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ncashish06/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ncashish06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -838,6 +842,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3614-process-string-with-special-operations-ii](https://github.com/ncashish06/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ncashish06/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/ncashish06/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ncashish06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -932,6 +937,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ncashish06/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ncashish06/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ncashish06/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ncashish06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
