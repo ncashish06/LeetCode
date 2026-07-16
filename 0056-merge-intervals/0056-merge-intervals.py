@@ -17,7 +17,7 @@ class Solution:
             start, end = arr[i][0], arr[i][1]
             prev_end = ans[-1][1]
 
-            if start <= prev_end:
+            if start <= prev_end:  # Golden rule to check overlap
                 ans[-1][1] = max(prev_end, end)
             else:
                 ans.append(arr[i])
