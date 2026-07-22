@@ -68,6 +68,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0463-island-perimeter](https://github.com/ncashish06/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ncashish06/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
+| [0616-add-bold-tag-in-string](https://github.com/ncashish06/LeetCode/tree/master/0616-add-bold-tag-in-string) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ncashish06/LeetCode/tree/master/0704-binary-search) |
@@ -194,6 +195,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
+| [0616-add-bold-tag-in-string](https://github.com/ncashish06/LeetCode/tree/master/0616-add-bold-tag-in-string) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -621,6 +623,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0344-reverse-string](https://github.com/ncashish06/LeetCode/tree/master/0344-reverse-string) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ncashish06/LeetCode/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
+| [0616-add-bold-tag-in-string](https://github.com/ncashish06/LeetCode/tree/master/0616-add-bold-tag-in-string) |
 | [0647-palindromic-substrings](https://github.com/ncashish06/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/ncashish06/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/ncashish06/LeetCode/tree/master/0686-repeated-string-match) |
@@ -825,6 +828,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0616-add-bold-tag-in-string](https://github.com/ncashish06/LeetCode/tree/master/0616-add-bold-tag-in-string) |
 | [0686-repeated-string-match](https://github.com/ncashish06/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ncashish06/LeetCode/tree/master/0796-rotate-string) |
 ## Hash Function
@@ -882,6 +886,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0014-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/ncashish06/LeetCode/tree/master/0212-word-search-ii) |
+| [0616-add-bold-tag-in-string](https://github.com/ncashish06/LeetCode/tree/master/0616-add-bold-tag-in-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ncashish06/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
