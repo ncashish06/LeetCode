@@ -6,11 +6,12 @@ class Solution:
         # Approach-1 (Using string as a stack)
         # Time : O(n), Space : O(1)
         n = len(s)
-        result = []
+        result = []  # acts as our stack
 
-        taken = [False] * 26  # O(1) space
-        lastIndex = [0] * 26  # O(1) space
+        taken = [False] * 26  # is char currently in result?
+        lastIndex = [0] * 26  # last occurrence index of each char
 
+        # precompute last index of every character
         for i in range(n):
             ch = s[i]
             lastIndex[ord(ch) - ord("a")] = i
@@ -18,9 +19,12 @@ class Solution:
         for i in range(n):
             idx = ord(s[i]) - ord("a")
 
-            if taken[idx]:
+            if taken[idx]:  # already in result, skip (keep first/earlier position)
                 continue
 
+            # pop from result if:
+            # 1) current char is smaller (helps get lexicographically smaller result)
+            # 2) top of result appears again later (so it's safe to remove now)
             while (
                 result
                 and s[i] < result[-1]
@@ -53,6 +57,7 @@ class Solution:
             if taken[idx]:
                 continue
 
+            # same greedy pop condition as approach-1
             while st and s[i] < st[-1] and lastIndex[ord(st[-1]) - ord("a")] > i:
                 taken[ord(st.pop()) - ord("a")] = False
 
