@@ -21,6 +21,8 @@ class Solution:
         n = len(nums)
         # When k is larger than the array length n, rotating by k is the same as rotating by k % n.
         k = k % n
+
+        # If k is a multiple of n, after k rotations, nums remains same. So, don't waste efforts.
         if k == 0:
             return
 
