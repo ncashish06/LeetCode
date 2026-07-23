@@ -85,6 +85,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1064-fixed-point](https://github.com/ncashish06/LeetCode/tree/master/1064-fixed-point) |
 | [1094-car-pooling](https://github.com/ncashish06/LeetCode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1272-remove-interval](https://github.com/ncashish06/LeetCode/tree/master/1272-remove-interval) |
 | [1288-remove-covered-intervals](https://github.com/ncashish06/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ncashish06/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -712,6 +713,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0723-candy-crush](https://github.com/ncashish06/LeetCode/tree/master/0723-candy-crush) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ncashish06/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -858,6 +860,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0755-pour-water](https://github.com/ncashish06/LeetCode/tree/master/0755-pour-water) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/ncashish06/LeetCode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ncashish06/LeetCode/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
