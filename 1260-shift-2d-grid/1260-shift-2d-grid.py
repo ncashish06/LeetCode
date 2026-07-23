@@ -15,6 +15,7 @@ class Solution:
         # Approach 1: Convert to 1D and then convert back
         # Refer: NeetCode editorial (not video)
         # After converting to 1D, solution is same as LC. 189 Rotate Array
+        # Time: O(rows*cols), Space : O(rows*cols)
         rows, cols = len(grid), len(grid[0])
         n = rows * cols
         k = k % n
@@ -41,6 +42,7 @@ class Solution:
         return grid
         """
         # Approach 2: In place solution by codestorywithMIK
+        # Time: O(rows*cols), Space : O(1)
         rows, cols = len(grid), len(grid[0])
         n = rows * cols
 
