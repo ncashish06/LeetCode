@@ -655,6 +655,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ncashish06/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ncashish06/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ncashish06/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ncashish06/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/ncashish06/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ncashish06/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1007,6 +1008,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [1291-sequential-digits](https://github.com/ncashish06/LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ncashish06/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ncashish06/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ncashish06/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Ordered Set
 |  |
