@@ -9,6 +9,7 @@ class Solution:
     row = i / cols, col = idx % cols
     """
 
+    # Time: O(n), n = row*col, Space : O(1)
     def shiftGrid(self, grid: List[List[int]], k: int) -> List[List[int]]:
         row = len(grid)
         col = len(grid[0])
