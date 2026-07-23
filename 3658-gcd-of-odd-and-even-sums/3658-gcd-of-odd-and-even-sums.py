@@ -17,4 +17,5 @@ class Solution:
         # sumOdd = n*n, sumEven = n*(n+1)
         # Since two consecutive integers are always coprime, gcd(n,n+1)=1
         # gcd(n*n, n*(n+1)) = n * gcd(n, n+1) = n * 1 = n
+        # Property of GCD: gcd(ka, kb) = k * gcd(a, b)
         return n
