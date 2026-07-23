@@ -1,6 +1,7 @@
 class Solution:
     # Date Solved: 23 July 2026, Thursday
     # codestorywithMIK says Asked Recently by Google in OA for Summer Internship, 2027.
+    # In NC All. NC's video explanation not that clear as codestorywithMIK's.
     # Refer: codestorywithMIK
     """
     Rule of thumb:
@@ -8,7 +9,9 @@ class Solution:
     - If weights are arbitrary non-negative values, you need Dijkstra's greedy priority-queue approach BFS's FIFO order can't guarantee optimality there.
     """
 
-    def secondMinimum(self, n: int, edges: List[List[int]], time: int, change: int) -> int:
+    def secondMinimum(
+        self, n: int, edges: List[List[int]], time: int, change: int
+    ) -> int:
         """
         # Approach 1: Modified Dijkstra
         # Time: O(E log V), Space: O(V + E)
