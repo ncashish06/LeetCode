@@ -21,6 +21,8 @@ class Solution:
         n = len(nums)
         # When k is larger than the array length n, rotating by k is the same as rotating by k % n.
         k = k % n
+        if k == 0:
+            return
 
         def reverse(l, r):
             while l < r:
