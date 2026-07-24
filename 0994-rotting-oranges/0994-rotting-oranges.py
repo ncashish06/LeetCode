@@ -2,6 +2,8 @@ class Solution:
     # Date Solved: 24 July 2026, Friday
     # NC150
     # Solved on my own. Multi-source BFS.
+    # Time: O(rows * cols) as we will visit all cells once
+    # Space: O(rows * cols) as in worst case queue will contain all the cells
     def orangesRotting(self, grid: List[List[int]]) -> int:
         rows, cols = len(grid), len(grid[0])
         directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
