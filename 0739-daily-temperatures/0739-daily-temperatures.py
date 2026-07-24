@@ -9,10 +9,10 @@ class Solution:
         n = len(temperatures)
         days_to_wait = [0] * n
 
-        for i in range(n):
-            for j in range(i + 1, n):
-                if temperatures[j] > temperatures[i]:
-                    days_to_wait[i] = j - i
+        for day in range(n):
+            for future_day in range(day + 1, n):
+                if temperatures[future_day] > temperatures[day]:
+                    days_to_wait[day] = future_day - day
                     break  # found nearest warmer day, stop scanning
 
         return days_to_wait
