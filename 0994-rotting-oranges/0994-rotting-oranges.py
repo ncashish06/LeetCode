@@ -1,48 +1,40 @@
 class Solution:
-    from collections import deque
-
+    # Date Solved: 24 July 2026, Friday
+    # NC150
+    # Solved on my own. Multi-source BFS.
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        # The tricky part is determining when a minute has elapsed. To handle this, push adjacent neighbors along with the current minute information into the queue.
-
-        rows = len(grid)
-        cols = len(grid[0])
-
-        rotten_oranges_queue = deque()
-        fresh_orange_count = 0
-
-        # Build queue with rotten oranges positions and count total fresh oranges
+        rows, cols = len(grid), len(grid[0])
+        directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
+        rotten_queue = deque()
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == 2:
-                    rotten_oranges_queue.append((r, c, 0))
-                elif grid[r][c] == 1:
-                    fresh_orange_count += 1
+                    rotten_queue.append((r, c))
 
-        if fresh_orange_count == 0:
-            return 0
+        minutes = 0
+        while rotten_queue:
+            rotted_this_round = False
+            N = len(rotten_queue)
+            for _ in range(N):
+                curr_row, curr_col = rotten_queue.popleft()
+                for dr, dc in directions:
+                    next_row, next_col = curr_row + dr, curr_col + dc
+                    if (
+                        0 <= next_row < rows
+                        and 0 <= next_col < cols
+                        and grid[next_row][next_col] == 1
+                    ):
+                        grid[next_row][next_col] = 2
+                        rotten_queue.append((next_row, next_col))
+                        rotted_this_round = True
 
-        minutes_elapsed = 0
+            if rotted_this_round:
+                minutes += 1
 
-        while rotten_oranges_queue:
-            curr_r, curr_c, time = rotten_oranges_queue.popleft()
+        # Check for any fresh oranges left unrotten
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c] == 1:
+                    return -1
 
-            if curr_r > 0 and grid[curr_r - 1][curr_c] == 1:
-                grid[curr_r - 1][curr_c] = 2
-                fresh_orange_count -= 1
-                rotten_oranges_queue.append((curr_r - 1, curr_c, time + 1))
-            if curr_r < rows - 1 and grid[curr_r + 1][curr_c] == 1:
-                grid[curr_r + 1][curr_c] = 2
-                fresh_orange_count -= 1
-                rotten_oranges_queue.append((curr_r + 1, curr_c, time + 1))
-            if curr_c < cols - 1 and grid[curr_r][curr_c + 1] == 1:
-                grid[curr_r][curr_c + 1] = 2
-                fresh_orange_count -= 1
-                rotten_oranges_queue.append((curr_r, curr_c + 1, time + 1))
-            if curr_c > 0 and grid[curr_r][curr_c - 1] == 1:
-                grid[curr_r][curr_c - 1] = 2
-                fresh_orange_count -= 1
-                rotten_oranges_queue.append((curr_r, curr_c - 1, time + 1))
-
-            minutes_elapsed = max(minutes_elapsed, time)
-
-        return minutes_elapsed if fresh_orange_count == 0 else -1
+        return minutes
