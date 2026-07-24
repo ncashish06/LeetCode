@@ -1,6 +1,3 @@
-from collections import deque
-
-
 class Solution:
     # Date Solved: 1 July 2026, Wednesday
     # NC150
