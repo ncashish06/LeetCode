@@ -119,6 +119,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ncashish06/LeetCode/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ncashish06/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2097-valid-arrangement-of-pairs](https://github.com/ncashish06/LeetCode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ncashish06/LeetCode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2126-destroying-asteroids](https://github.com/ncashish06/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -338,6 +339,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1490-clone-n-ary-tree](https://github.com/ncashish06/LeetCode/tree/master/1490-clone-n-ary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2097-valid-arrangement-of-pairs](https://github.com/ncashish06/LeetCode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ncashish06/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ncashish06/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ncashish06/LeetCode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
@@ -554,6 +556,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1584-min-cost-to-connect-all-points](https://github.com/ncashish06/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ncashish06/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/ncashish06/LeetCode/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2097-valid-arrangement-of-pairs](https://github.com/ncashish06/LeetCode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/ncashish06/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ncashish06/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ncashish06/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1023,4 +1026,8 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ncashish06/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/ncashish06/LeetCode/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
