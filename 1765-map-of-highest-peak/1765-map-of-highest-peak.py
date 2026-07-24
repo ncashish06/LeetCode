@@ -2,6 +2,7 @@ class Solution:
     # Date Solved: 24 July 2026, Friday
     # Refer: NeetCode and codestorywithMIK. codestorywithMIK uses an inner while loop  to process the queue level by level, which is not needed as every new cell just inherits "parent height + 1" regardless of what "level" the BFS is on. We don't need to know how many nodes are in the level.
     # Not NC250 but related to Rotting Oranges (NC150)
+    # Same as "LC.542 01 Matrix"
     def highestPeak(self, isWater: List[List[int]]) -> List[List[int]]:
         # Approach: Multi-Source BFS
         # Time: O(m * n) - visit all cells once,
