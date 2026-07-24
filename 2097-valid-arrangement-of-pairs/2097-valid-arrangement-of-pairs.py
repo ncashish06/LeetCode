@@ -32,7 +32,7 @@ class Solution:
             if adj[curr]:
                 nxt = adj[curr].pop()
                 stack.append(nxt)
-            else:
+            else: # no more neighbors left
                 eulerPath.append(curr)
                 stack.pop()
 
