@@ -6,10 +6,13 @@ class Solution:
         rows, cols = len(grid), len(grid[0])
         directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
         rotten_queue = deque()
+        fresh_oranges = 0
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == 2:
                     rotten_queue.append((r, c))
+                if grid[r][c] == 1:
+                    fresh_oranges += 1
 
         minutes = 0
         while rotten_queue:
@@ -26,15 +29,10 @@ class Solution:
                     ):
                         grid[next_row][next_col] = 2
                         rotten_queue.append((next_row, next_col))
+                        fresh_oranges -= 1
                         rotted_this_round = True
 
             if rotted_this_round:
                 minutes += 1
 
-        # Check for any fresh oranges left unrotten
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] == 1:
-                    return -1
-
-        return minutes
+        return minutes if fresh_oranges == 0 else -1
