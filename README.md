@@ -127,6 +127,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2196-create-binary-tree-from-descriptions](https://github.com/ncashish06/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2402-meeting-rooms-iii](https://github.com/ncashish06/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/ncashish06/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ncashish06/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/ncashish06/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
@@ -678,6 +679,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ncashish06/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ncashish06/LeetCode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/ncashish06/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Stack
 |  |
 | ------- |
@@ -963,6 +965,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0281-zigzag-iterator](https://github.com/ncashish06/LeetCode/tree/master/0281-zigzag-iterator) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/ncashish06/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Iterator
 |  |
 | ------- |
@@ -1034,4 +1037,8 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/ncashish06/LeetCode/tree/master/2097-valid-arrangement-of-pairs) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/ncashish06/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
