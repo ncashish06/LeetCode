@@ -2,6 +2,7 @@ class Solution:
     # Date Solved: 25 July 2026, Saturday
     # NC All
     # Refer: NC Ashish. codestorywithMIK and NeetCode do DFS.
+    # NeetCode editorial has this Multi-Source BFS approach.
     def numEnclaves(self, grid: List[List[int]]) -> int:
         # Approach: Multi-Source BFS from land cells on the border. Any land cell reachable from the border can "walk off" the grid, so it's NOT an enclave. Everything else that's land IS an enclave.
         # Time : O(rows * cols) - each cell visited at most once
