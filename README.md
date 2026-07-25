@@ -88,6 +88,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1020-number-of-enclaves](https://github.com/ncashish06/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1064-fixed-point](https://github.com/ncashish06/LeetCode/tree/master/1064-fixed-point) |
 | [1094-car-pooling](https://github.com/ncashish06/LeetCode/tree/master/1094-car-pooling) |
+| [1254-number-of-closed-islands](https://github.com/ncashish06/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1272-remove-interval](https://github.com/ncashish06/LeetCode/tree/master/1272-remove-interval) |
 | [1288-remove-covered-intervals](https://github.com/ncashish06/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -339,6 +340,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/ncashish06/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
+| [1254-number-of-closed-islands](https://github.com/ncashish06/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -380,6 +382,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ncashish06/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
+| [1254-number-of-closed-islands](https://github.com/ncashish06/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1345-jump-game-iv) |
@@ -585,6 +588,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/ncashish06/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/ncashish06/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -738,6 +742,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ncashish06/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/ncashish06/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ncashish06/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
