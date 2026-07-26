@@ -19,7 +19,7 @@ class Solution:
         for i in range(n):
             cars.append((position[i], speed[i]))
 
-        # Sort cars, closest to target comes first)
+        # Sort by position (closest to target first); pairing keeps each car's speed tied to its position
         cars.sort(reverse=True)
 
         fleets = 0
