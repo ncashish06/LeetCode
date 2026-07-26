@@ -85,6 +85,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0758-bold-words-in-string](https://github.com/ncashish06/LeetCode/tree/master/0758-bold-words-in-string) |
 | [0759-employee-free-time](https://github.com/ncashish06/LeetCode/tree/master/0759-employee-free-time) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0853-car-fleet](https://github.com/ncashish06/LeetCode/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
@@ -708,6 +709,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0682-baseball-game](https://github.com/ncashish06/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ncashish06/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ncashish06/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/ncashish06/LeetCode/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ncashish06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ncashish06/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ncashish06/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -717,6 +719,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ncashish06/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/ncashish06/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/ncashish06/LeetCode/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ncashish06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ncashish06/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 ## Topological Sort
@@ -819,6 +822,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0628-maximum-product-of-three-numbers](https://github.com/ncashish06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-employee-free-time](https://github.com/ncashish06/LeetCode/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
+| [0853-car-fleet](https://github.com/ncashish06/LeetCode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/ncashish06/LeetCode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/ncashish06/LeetCode/tree/master/1288-remove-covered-intervals) |
