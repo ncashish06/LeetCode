@@ -13,6 +13,7 @@ class Solution:
     - If this car's time is at or before prev_time, it catches up to the fleet ahead and merges with it, traveling at that fleet's (slower) speed. prev_time stays unchanged.
     """
 
+    # Time: O(nlogn) for sorting, Space: O(n) for cars list
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
         n = len(position)
         cars = []
