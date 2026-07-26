@@ -1,7 +1,7 @@
 class Solution:
     # Date Solved: 26 July 2026, Sunday
     # NC150
-    # Refer: NeetCode. In NeetCode's video, question mentions that it is single lane and overtaking is not possible.
+    # Refer: NeetCode and NeetCode editorial. In NeetCode's video, question mentions that it is single lane and overtaking is not possible.
     # No need of stack (like used by many YouTube solutions), just a single variable would suffice.
     """
     For visualization, think of each car's position on a Position vs. Time graph based on speed, and see if the lines intersect before/at the target.
