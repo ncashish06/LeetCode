@@ -73,6 +73,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0616-add-bold-tag-in-string](https://github.com/ncashish06/LeetCode/tree/master/0616-add-bold-tag-in-string) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ncashish06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/ncashish06/LeetCode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ncashish06/LeetCode/tree/master/0704-binary-search) |
 | [0723-candy-crush](https://github.com/ncashish06/LeetCode/tree/master/0723-candy-crush) |
@@ -703,6 +704,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0020-valid-parentheses](https://github.com/ncashish06/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/ncashish06/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0682-baseball-game](https://github.com/ncashish06/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ncashish06/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ncashish06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ncashish06/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
@@ -890,6 +892,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0054-spiral-matrix](https://github.com/ncashish06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/ncashish06/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/ncashish06/LeetCode/tree/master/0682-baseball-game) |
 | [0723-candy-crush](https://github.com/ncashish06/LeetCode/tree/master/0723-candy-crush) |
 | [0755-pour-water](https://github.com/ncashish06/LeetCode/tree/master/0755-pour-water) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
