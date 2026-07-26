@@ -72,6 +72,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
 | [0616-add-bold-tag-in-string](https://github.com/ncashish06/LeetCode/tree/master/0616-add-bold-tag-in-string) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ncashish06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ncashish06/LeetCode/tree/master/0704-binary-search) |
 | [0723-candy-crush](https://github.com/ncashish06/LeetCode/tree/master/0723-candy-crush) |
@@ -255,6 +256,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0342-power-of-four](https://github.com/ncashish06/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/ncashish06/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/ncashish06/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ncashish06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/ncashish06/LeetCode/tree/master/0788-rotated-digits) |
 | [1056-confusing-number](https://github.com/ncashish06/LeetCode/tree/master/1056-confusing-number) |
 | [1259-handshakes-that-dont-cross](https://github.com/ncashish06/LeetCode/tree/master/1259-handshakes-that-dont-cross) |
@@ -810,6 +812,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0435-non-overlapping-intervals](https://github.com/ncashish06/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ncashish06/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ncashish06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-employee-free-time](https://github.com/ncashish06/LeetCode/tree/master/0759-employee-free-time) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
