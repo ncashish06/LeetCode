@@ -707,6 +707,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0020-valid-parentheses](https://github.com/ncashish06/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/ncashish06/LeetCode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/ncashish06/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/ncashish06/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ncashish06/LeetCode/tree/master/0735-asteroid-collision) |
@@ -788,6 +789,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/ncashish06/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/ncashish06/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/ncashish06/LeetCode/tree/master/0281-zigzag-iterator) |
