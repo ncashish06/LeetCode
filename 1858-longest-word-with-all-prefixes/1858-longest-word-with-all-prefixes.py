@@ -1,5 +1,5 @@
 # Date Solved: 29 July 2026, Wednesday, Weekly Premium W5
-# Refer: Claude and Trie Notes
+# Refer: LeetCode Editorial, Claude and Trie Notes
 
 
 class TrieNode:
