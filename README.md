@@ -119,6 +119,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1854-maximum-population-year](https://github.com/ncashish06/LeetCode/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1858-longest-word-with-all-prefixes](https://github.com/ncashish06/LeetCode/tree/master/1858-longest-word-with-all-prefixes) |
 | [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ncashish06/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -356,6 +357,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1490-clone-n-ary-tree](https://github.com/ncashish06/LeetCode/tree/master/1490-clone-n-ary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1858-longest-word-with-all-prefixes](https://github.com/ncashish06/LeetCode/tree/master/1858-longest-word-with-all-prefixes) |
 | [2097-valid-arrangement-of-pairs](https://github.com/ncashish06/LeetCode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ncashish06/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ncashish06/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -675,6 +677,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ncashish06/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
+| [1858-longest-word-with-all-prefixes](https://github.com/ncashish06/LeetCode/tree/master/1858-longest-word-with-all-prefixes) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ncashish06/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ncashish06/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -959,6 +962,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0616-add-bold-tag-in-string](https://github.com/ncashish06/LeetCode/tree/master/0616-add-bold-tag-in-string) |
 | [0758-bold-words-in-string](https://github.com/ncashish06/LeetCode/tree/master/0758-bold-words-in-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
+| [1858-longest-word-with-all-prefixes](https://github.com/ncashish06/LeetCode/tree/master/1858-longest-word-with-all-prefixes) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ncashish06/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ncashish06/LeetCode/tree/master/3093-longest-common-suffix-queries) |
