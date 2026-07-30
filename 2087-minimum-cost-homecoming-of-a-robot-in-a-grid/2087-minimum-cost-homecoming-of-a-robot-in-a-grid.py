@@ -3,6 +3,8 @@ class Solution:
     # codestorywithMIK says asked in Juspay OA.
     # Refer: codestorywithMIK
     def minCost(self, startPos: List[int], homePos: List[int], rowCosts: List[int], colCosts: List[int]) -> int:
+        # Approach: Straight forward iterate and find
+        # Time: O(m+n), Space: O(1)
         r1, c1 = startPos[0], startPos[1]
         r2, c2 = homePos[0], homePos[1]
 
