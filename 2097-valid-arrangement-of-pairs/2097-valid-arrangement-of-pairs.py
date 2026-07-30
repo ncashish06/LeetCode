@@ -1,6 +1,6 @@
 class Solution:
     # Date Solved: 24 July 2026, Friday
-    # codestorywithMIK says Asked recently for Uber Internship.
+    # codestorywithMIK says asked recently in Uber Internship.
     # Refer: codestorywithMIK
     # Prerequisites: Go through Euler Path and Circuits (Part I-III) in Graph Concepts & Qns Playlist of codestorywithMIK
     def validArrangement(self, pairs: List[List[int]]) -> List[List[int]]:
@@ -32,7 +32,7 @@ class Solution:
             if adj[curr]:
                 nxt = adj[curr].pop()
                 stack.append(nxt)
-            else: # no more neighbors left
+            else:  # no more neighbors left
                 eulerPath.append(curr)
                 stack.pop()
 
