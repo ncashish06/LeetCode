@@ -1,5 +1,6 @@
 class Solution:
     # Date Solved: 30 July 2026, Thursday
+    # In NC All
     # Refer: codestorywithMIK. Below approach works for both this and "LC. 3014 Minimum Number of Pushes to Type Word I (Easy)"
     def minimumPushes(self, word: str) -> int:
         # Time: O(n) + O(26log26) for sorting, Space: O(1)
