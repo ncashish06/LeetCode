@@ -1,6 +1,6 @@
 class Solution:
     # Date Solved: 24 July 2026, Friday
-    # codestorywithMIK says Asked yesterday for Adobe OA.
+    # codestorywithMIK says asked yesterday in Adobe OA.
     # Refer: codestorywithMIK
     def countSubarrays(self, nums: List[int], minK: int, maxK: int) -> int:
         """
