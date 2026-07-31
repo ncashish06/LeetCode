@@ -7,6 +7,7 @@ class Solution:
         res = ""
         for i in range(len(strs[0])):
             for s in strs:
+                # The moment we find a mismatch or reach the end of any string, we've found where the common prefix ends.
                 if i == len(s) or s[i] != strs[0][i]:
                     return res
             res += strs[0][i]
