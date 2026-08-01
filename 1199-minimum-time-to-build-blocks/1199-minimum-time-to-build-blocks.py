@@ -1,6 +1,8 @@
 class Solution:
     # Date Solved: 1 August 2026, Saturday, Weekly Premium W1
     # Refer: Claude
+    # Time: O(n log n) — each of the ~n heap operations is O(log n)
+    # Space: O(n) for the heap
     def minBuildTime(self, blocks: List[int], split: int) -> int:
         heapq.heapify(blocks)
 
