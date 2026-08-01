@@ -4,6 +4,7 @@ class Solution:
     def predictTheWinner(self, nums: List[int]) -> bool:
         """
         # Approach 1: Recursion + Memo - I
+        # Time: O(n^2), Space: O(n^2)
         n = len(nums)
         memo = {}
 
@@ -29,6 +30,7 @@ class Solution:
         """
         # Approach 2: Using diff of score between players
         # Recursion + Memo - II
+        # Time: O(n^2), Space: O(n^2)
         n = len(nums)
         memo = {}
 
