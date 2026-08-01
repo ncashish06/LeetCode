@@ -69,6 +69,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ncashish06/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/ncashish06/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ncashish06/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/ncashish06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ncashish06/LeetCode/tree/master/0542-01-matrix) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
 | [0616-add-bold-tag-in-string](https://github.com/ncashish06/LeetCode/tree/master/0616-add-bold-tag-in-string) |
@@ -266,6 +267,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0326-power-of-three](https://github.com/ncashish06/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ncashish06/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/ncashish06/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/ncashish06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ncashish06/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ncashish06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/ncashish06/LeetCode/tree/master/0788-rotated-digits) |
@@ -525,6 +527,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/ncashish06/LeetCode/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/ncashish06/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/ncashish06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ncashish06/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ncashish06/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/ncashish06/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -975,6 +978,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0273-integer-to-english-words](https://github.com/ncashish06/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ncashish06/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ncashish06/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/ncashish06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ncashish06/LeetCode/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
@@ -1110,4 +1114,8 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ncashish06/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ncashish06/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
