@@ -1,4 +1,7 @@
 class Solution:
+    # Date Solved: 1 August 2026, Saturday
+    # Blind 75
+    # Refer: TBD
     def lengthOfLongestSubstring(self, s: str) -> int:
         chars = [None] * 128
 
