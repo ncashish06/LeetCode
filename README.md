@@ -89,6 +89,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/ncashish06/LeetCode/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/ncashish06/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ncashish06/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -274,6 +275,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0509-fibonacci-number](https://github.com/ncashish06/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ncashish06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/ncashish06/LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/ncashish06/LeetCode/tree/master/0877-stone-game) |
 | [1056-confusing-number](https://github.com/ncashish06/LeetCode/tree/master/1056-confusing-number) |
 | [1199-minimum-time-to-build-blocks](https://github.com/ncashish06/LeetCode/tree/master/1199-minimum-time-to-build-blocks) |
 | [1259-handshakes-that-dont-cross](https://github.com/ncashish06/LeetCode/tree/master/1259-handshakes-that-dont-cross) |
@@ -537,6 +539,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0647-palindromic-substrings](https://github.com/ncashish06/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/ncashish06/LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/ncashish06/LeetCode/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ncashish06/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1259-handshakes-that-dont-cross](https://github.com/ncashish06/LeetCode/tree/master/1259-handshakes-that-dont-cross) |
 | [1301-number-of-paths-with-max-score](https://github.com/ncashish06/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -1129,4 +1132,5 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ncashish06/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ncashish06/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
