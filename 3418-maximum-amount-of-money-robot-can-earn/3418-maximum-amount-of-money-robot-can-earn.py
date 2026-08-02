@@ -1,5 +1,5 @@
 class Solution:
-    # Date Solved: 3 April 2026, Thursday, POTD
+    # Date Solved: 2 April 2026, Thursday, POTD
     # Refer: codestorywithMIK, memoization solution leads to "Memory Limit Exceeded"
     # Time: O(m × n), Space: O(m × n)
     def maximumAmount(self, coins: List[List[int]]) -> int:
