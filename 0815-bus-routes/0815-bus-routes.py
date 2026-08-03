@@ -3,6 +3,7 @@ class Solution:
     # codestorywithMIK says it was asked recently in Phonepe OA
     # Refer: codestorywithMIK
     # In NC all but no video explanation
+    # Time: O(m^2 * k) - m is the size of routes, and k is the maximum size of routes[i].
     def numBusesToDestination(self, routes: List[List[int]], source: int, target: int) -> int:
         if source == target:
             return 0
