@@ -144,6 +144,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ncashish06/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ncashish06/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ncashish06/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ncashish06/LeetCode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2402-meeting-rooms-iii](https://github.com/ncashish06/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -596,6 +597,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/ncashish06/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ncashish06/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ncashish06/LeetCode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ncashish06/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ncashish06/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -889,6 +891,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/ncashish06/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ncashish06/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2402-meeting-rooms-iii](https://github.com/ncashish06/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/ncashish06/LeetCode/tree/master/2751-robot-collisions) |
