@@ -108,6 +108,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1340-jump-game-v](https://github.com/ncashish06/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ncashish06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ncashish06/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -282,6 +283,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1199-minimum-time-to-build-blocks](https://github.com/ncashish06/LeetCode/tree/master/1199-minimum-time-to-build-blocks) |
 | [1259-handshakes-that-dont-cross](https://github.com/ncashish06/LeetCode/tree/master/1259-handshakes-that-dont-cross) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ncashish06/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/ncashish06/LeetCode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ncashish06/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -548,6 +550,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1301-number-of-paths-with-max-score](https://github.com/ncashish06/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ncashish06/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/ncashish06/LeetCode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ncashish06/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ncashish06/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1138,4 +1141,13 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0486-predict-the-winner](https://github.com/ncashish06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ncashish06/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ncashish06/LeetCode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
