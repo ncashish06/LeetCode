@@ -96,6 +96,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ncashish06/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1064-fixed-point](https://github.com/ncashish06/LeetCode/tree/master/1064-fixed-point) |
 | [1094-car-pooling](https://github.com/ncashish06/LeetCode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/ncashish06/LeetCode/tree/master/1140-stone-game-ii) |
 | [1199-minimum-time-to-build-blocks](https://github.com/ncashish06/LeetCode/tree/master/1199-minimum-time-to-build-blocks) |
 | [1254-number-of-closed-islands](https://github.com/ncashish06/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -277,6 +278,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0788-rotated-digits](https://github.com/ncashish06/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/ncashish06/LeetCode/tree/master/0877-stone-game) |
 | [1056-confusing-number](https://github.com/ncashish06/LeetCode/tree/master/1056-confusing-number) |
+| [1140-stone-game-ii](https://github.com/ncashish06/LeetCode/tree/master/1140-stone-game-ii) |
 | [1199-minimum-time-to-build-blocks](https://github.com/ncashish06/LeetCode/tree/master/1199-minimum-time-to-build-blocks) |
 | [1259-handshakes-that-dont-cross](https://github.com/ncashish06/LeetCode/tree/master/1259-handshakes-that-dont-cross) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ncashish06/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -541,6 +543,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0788-rotated-digits](https://github.com/ncashish06/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/ncashish06/LeetCode/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ncashish06/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1140-stone-game-ii](https://github.com/ncashish06/LeetCode/tree/master/1140-stone-game-ii) |
 | [1259-handshakes-that-dont-cross](https://github.com/ncashish06/LeetCode/tree/master/1259-handshakes-that-dont-cross) |
 | [1301-number-of-paths-with-max-score](https://github.com/ncashish06/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ncashish06/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1032,6 +1035,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0731-my-calendar-ii](https://github.com/ncashish06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/ncashish06/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/ncashish06/LeetCode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/ncashish06/LeetCode/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ncashish06/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ncashish06/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/ncashish06/LeetCode/tree/master/1854-maximum-population-year) |
@@ -1133,4 +1137,5 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0486-predict-the-winner](https://github.com/ncashish06/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ncashish06/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ncashish06/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
