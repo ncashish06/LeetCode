@@ -87,6 +87,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0758-bold-words-in-string](https://github.com/ncashish06/LeetCode/tree/master/0758-bold-words-in-string) |
 | [0759-employee-free-time](https://github.com/ncashish06/LeetCode/tree/master/0759-employee-free-time) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0815-bus-routes](https://github.com/ncashish06/LeetCode/tree/master/0815-bus-routes) |
 | [0853-car-fleet](https://github.com/ncashish06/LeetCode/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/ncashish06/LeetCode/tree/master/0877-stone-game) |
@@ -226,6 +227,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0621-task-scheduler](https://github.com/ncashish06/LeetCode/tree/master/0621-task-scheduler) |
 | [0758-bold-words-in-string](https://github.com/ncashish06/LeetCode/tree/master/0758-bold-words-in-string) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
+| [0815-bus-routes](https://github.com/ncashish06/LeetCode/tree/master/0815-bus-routes) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/ncashish06/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ncashish06/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -408,6 +410,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ncashish06/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0815-bus-routes](https://github.com/ncashish06/LeetCode/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ncashish06/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
