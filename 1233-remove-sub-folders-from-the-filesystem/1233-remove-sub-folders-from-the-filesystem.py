@@ -14,6 +14,7 @@ class Trie:
     def prefix_search(self, path: str) -> bool:
         cur = self
         folders = path.split("/")
+        # don't include last part of path, else it will always be true as it is the current
         for i in range(len(folders) - 1):
             cur = cur.children[folders[i]]
             if cur.end_of_folder:
@@ -66,6 +67,6 @@ class Solution:
 
         res = []
         for f in folder:
-            if not trie.prefix_search(f):
+            if not trie.prefix_search(f):  # add only if no prefix folder exists
                 res.append(f)
         return res
