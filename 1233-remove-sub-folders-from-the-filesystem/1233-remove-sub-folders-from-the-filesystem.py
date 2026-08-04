@@ -4,20 +4,20 @@ class Trie:
         self.end_of_folder = False
 
     def insert(self, path: str) -> None:
-        cur = self
+        curr = self
         for f in path.split("/"):
-            if f not in cur.children:
-                cur.children[f] = Trie()
-            cur = cur.children[f]
-        cur.end_of_folder = True
+            if f not in curr.children:
+                curr.children[f] = Trie()
+            curr = curr.children[f]
+        curr.end_of_folder = True
 
     def prefix_search(self, path: str) -> bool:
-        cur = self
+        curr = self
         folders = path.split("/")
         # don't include last part of path, else it will always be true as it is the current
         for i in range(len(folders) - 1):
-            cur = cur.children[folders[i]]
-            if cur.end_of_folder:
+            curr = curr.children[folders[i]]
+            if curr.end_of_folder:
                 return True
         return False
 
