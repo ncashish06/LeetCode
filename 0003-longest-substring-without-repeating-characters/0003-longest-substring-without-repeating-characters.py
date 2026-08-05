@@ -2,8 +2,22 @@ class Solution:
     # Date Solved: 1 August 2026, Saturday
     # Blind 75
     # Refer: NeetCode, no codestorywithMIK
-    # Time: O(n), Space: O(m) where n = len(s) and m = unique characters in the string
     def lengthOfLongestSubstring(self, s: str) -> int:
+        """
+        # Approach 1: Brute force
+        # Time: O(n*m), Space: O(m) where n = len(s) and m = unique characters in the string
+        res = 0
+        for i in range(len(s)):
+            charSet = set()
+            for j in range(i, len(s)):
+                if s[j] in charSet:
+                    break
+                charSet.add(s[j])
+            res = max(res, len(charSet))
+        return res
+        """
+        # Approach 2: Optimal - Sliding Window
+        # Time: O(n), Space: O(m) where n = len(s) and m = unique characters in the string
         charSet = set()
         l = 0
         res = 0
