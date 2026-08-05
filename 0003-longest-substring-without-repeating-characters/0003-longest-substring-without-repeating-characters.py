@@ -1,19 +1,18 @@
 class Solution:
     # Date Solved: 1 August 2026, Saturday
     # Blind 75
-    # Refer: Claude
-    # Time: O(n), Space: O(min(n, k)) where k is the character set size
+    # Refer: NeetCode, no codestorywithMIK
+    # Time: O(n), Space: O(m) where n = len(s) and m = unique characters in the string
     def lengthOfLongestSubstring(self, s: str) -> int:
-        last_seen = {}  # char -> most recent index
-        left = 0
-        max_len = 0
+        charSet = set()
+        l = 0
+        res = 0
 
-        for right, char in enumerate(s):
-            if char in last_seen and last_seen[char] >= left:
-                # duplicate found inside current window; shrink from the left
-                left = last_seen[char] + 1
-
-            last_seen[char] = right
-            max_len = max(max_len, right - left + 1)
-
-        return max_len
+        for r in range(len(s)):
+            while s[r] in charSet:
+                # Shrink the window from the left until the duplicate is removed.
+                charSet.remove(s[l])
+                l += 1
+            charSet.add(s[r])
+            res = max(res, r - l + 1)  # window size = r-l+1
+        return res
