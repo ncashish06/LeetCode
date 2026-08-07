@@ -299,6 +299,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3312-sorted-gcd-pair-queries](https://github.com/ncashish06/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ncashish06/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ncashish06/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ncashish06/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ncashish06/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ncashish06/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ncashish06/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -608,6 +609,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ncashish06/LeetCode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ncashish06/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ncashish06/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ncashish06/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ncashish06/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ncashish06/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ncashish06/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -739,6 +741,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ncashish06/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ncashish06/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ncashish06/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ncashish06/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ncashish06/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ncashish06/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -1095,6 +1098,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ncashish06/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ncashish06/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ncashish06/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ncashish06/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ncashish06/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ncashish06/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ncashish06/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1106,6 +1110,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0291-word-pattern-ii](https://github.com/ncashish06/LeetCode/tree/master/0291-word-pattern-ii) |
 | [0320-generalized-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0489-robot-room-cleaner](https://github.com/ncashish06/LeetCode/tree/master/0489-robot-room-cleaner) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ncashish06/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Interactive
 |  |
 | ------- |
