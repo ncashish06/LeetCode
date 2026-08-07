@@ -1,5 +1,6 @@
 class Solution:
     # Date Solved: 25 April 2026, Saturday
+    # Blind 75
     # Refer: Neetcode 150 Course on freeCodeCamp.org YouTube
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         res = {}  # res = defaultdict(list)
