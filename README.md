@@ -23,6 +23,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ncashish06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ncashish06/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ncashish06/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ncashish06/LeetCode/tree/master/0049-group-anagrams) |
@@ -207,6 +208,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | ------- |
 | [0001-two-sum](https://github.com/ncashish06/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ncashish06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/ncashish06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ncashish06/LeetCode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
@@ -804,6 +806,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ncashish06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ncashish06/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ncashish06/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/ncashish06/LeetCode/tree/master/0079-word-search) |
