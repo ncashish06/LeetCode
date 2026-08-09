@@ -1,5 +1,5 @@
 class Solution:
-    # Date Solved: 8 August 2026, Saturday, POTD
+    # Date Solved: 9 August 2026, Sunday, POTD
     # Refer: codestorywithMIK
     # NC250
     # Game Strategy: When it is your turn, do your best and choose maximum. Since opponent also plays optimally, expect the worst from result after opponent's turn. So it is alternating max->min->max->min... structure of the recursion, i.e., classic minimax: maximize on your turn, minimize (from your perspective) on the opponent's turn
