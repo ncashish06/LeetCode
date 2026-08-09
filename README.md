@@ -1175,9 +1175,11 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ncashish06/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ncashish06/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
