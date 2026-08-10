@@ -1,5 +1,6 @@
 class Solution:
     # Date Solved: 10 August 2026, Monday, POTD
+    # Refer: Claude
     # Game Strategy: Unlike Stone Game I/II/III, this isn't a score-maximizing
     # game -- it's a win/lose game. On your turn, you win if there EXISTS at
     # least one square move that leaves your opponent in a losing state.
