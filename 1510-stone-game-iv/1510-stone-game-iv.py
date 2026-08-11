@@ -1,6 +1,7 @@
 class Solution:
     # Date Solved: 10 August 2026, Monday, POTD
     # Refer: codestorywithMIK
+    # Game Strategy: When it is your turn, do your best and choose maximum. Since opponent also plays optimally, expect the worst from result after opponent's turn. So it is alternating max->min->max->min... structure of the recursion, i.e., classic minimax: maximize on your turn, minimize (from your perspective) on the opponent's turn
     def winnerSquareGame(self, n: int) -> bool:
         """
         # Approach-1: Recursion + Memoization
