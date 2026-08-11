@@ -19,6 +19,7 @@ class Solution:
             # That's how optimal game strategy works. Expect your opponent to be playing optimally
             # - When it's your turn, do your best
             # - When it's your opponent's turn, expect the worst (that's why min() is taken below)
+            # Note: 2 lines below tell what Alice has picked now and what is available to her after Bob's turn based on what Bob picks, i or j.
             choose_i = piles[i] + min(solve(i + 2, j), solve(i + 1, j - 1))
             choose_j = piles[j] + min(solve(i, j - 2), solve(i + 1, j - 1))
 
