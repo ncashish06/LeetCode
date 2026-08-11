@@ -1,48 +1,47 @@
 class Solution:
     # Date Solved: 10 August 2026, Monday, POTD
-    # Refer: Claude
-    # Game Strategy: Unlike Stone Game I/II/III, this isn't a score-maximizing
-    # game -- it's a win/lose game. On your turn, you win if there EXISTS at
-    # least one square move that leaves your opponent in a losing state.
-    # So it's an OR over "opponent loses" rather than a max/min over scores.
+    # Refer: codestorywithMIK
     def winnerSquareGame(self, n: int) -> bool:
         """
         # Approach-1: Recursion + Memoization
-        # Time: O(n * sqrt(n)), Space: O(n)
-        t = [None] * (n + 1)
+        # Time: O(n*sqrt(n)), Space: O(n)
+        t = [-1] * (n + 1)
 
-        def solve(stones: int) -> bool:
-            if stones == 0:
-                return False  # current player has no move -> loses
+        def solve(n: int) -> bool:
+            if n == 0:
+                return False
+            if t[n] != -1:
+                return True if t[n] == 1 else False
+            k = 1
+            while k * k <= n:  # Time: O(sqrt(n))
+                # Call for Bob, if False - Bob lost it, Alice won the game
+                if solve(n - (k * k)) == False:
+                    t[n] = 1
+                    return True
+                k += 1
 
-            if t[stones] is not None:
-                return t[stones]
+            t[n] = 0  # Alice could never win. Lost it.
+            return False
 
-            result = False
-            j = 1
-            while j * j <= stones:
-                # If opponent loses after we remove j*j stones, we win
-                if not solve(stones - j * j):
-                    result = True
-                    break
-                j += 1
-
-            t[stones] = result
-            return t[stones]
-
+        # Alice k lie call hai ye. If it's true, Alice wins, else Alice looses
         return solve(n)
         """
-        # Approach-2: Converting Approach-1 above to Bottom Up
-        # Time: O(n * sqrt(n)), Space: O(n)
+        # Approach-2: Bottom Up
+        # Time: O(n*sqrt(n)), Space: O(n)
         t = [False] * (n + 1)
-        # t[i] = True if the player to move WINS with i stones remaining
 
-        for i in range(1, n + 1):
-            j = 1
-            while j * j <= i:
-                if not t[i - j * j]:
+        # Base case . n== 0, return false
+        # i == 0
+        t[0] = False  # base case
+
+        i = 1
+        while i < n + 1:
+            k = 1
+            while k * k <= i:
+                if t[i - (k * k)] == False:
                     t[i] = True
                     break
-                j += 1
+                k += 1
+            i += 1
 
-        return t[n]
+        return t[n]  # return solve(n)
