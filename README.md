@@ -102,6 +102,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1199-minimum-time-to-build-blocks](https://github.com/ncashish06/LeetCode/tree/master/1199-minimum-time-to-build-blocks) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ncashish06/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1254-number-of-closed-islands](https://github.com/ncashish06/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1257-smallest-common-region](https://github.com/ncashish06/LeetCode/tree/master/1257-smallest-common-region) |
 | [1260-shift-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1272-remove-interval](https://github.com/ncashish06/LeetCode/tree/master/1272-remove-interval) |
 | [1288-remove-covered-intervals](https://github.com/ncashish06/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -236,6 +237,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0815-bus-routes](https://github.com/ncashish06/LeetCode/tree/master/0815-bus-routes) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/ncashish06/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1257-smallest-common-region](https://github.com/ncashish06/LeetCode/tree/master/1257-smallest-common-region) |
 | [1331-rank-transform-of-an-array](https://github.com/ncashish06/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ncashish06/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -342,6 +344,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0582-kill-process](https://github.com/ncashish06/LeetCode/tree/master/0582-kill-process) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
+| [1257-smallest-common-region](https://github.com/ncashish06/LeetCode/tree/master/1257-smallest-common-region) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ncashish06/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ncashish06/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ncashish06/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
@@ -383,6 +386,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ncashish06/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
 | [1254-number-of-closed-islands](https://github.com/ncashish06/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1257-smallest-common-region](https://github.com/ncashish06/LeetCode/tree/master/1257-smallest-common-region) |
 | [1306-jump-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -428,6 +432,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1020-number-of-enclaves](https://github.com/ncashish06/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1245-tree-diameter](https://github.com/ncashish06/LeetCode/tree/master/1245-tree-diameter) |
 | [1254-number-of-closed-islands](https://github.com/ncashish06/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1257-smallest-common-region](https://github.com/ncashish06/LeetCode/tree/master/1257-smallest-common-region) |
 | [1306-jump-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ncashish06/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1345-jump-game-iv) |
@@ -732,6 +737,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ncashish06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ncashish06/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ncashish06/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1257-smallest-common-region](https://github.com/ncashish06/LeetCode/tree/master/1257-smallest-common-region) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ncashish06/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ncashish06/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -1200,4 +1206,12 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1510-stone-game-iv) |
+## Binary Lifting
+|  |
+| ------- |
+| [1257-smallest-common-region](https://github.com/ncashish06/LeetCode/tree/master/1257-smallest-common-region) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [1257-smallest-common-region](https://github.com/ncashish06/LeetCode/tree/master/1257-smallest-common-region) |
 <!---LeetCode Topics End-->
