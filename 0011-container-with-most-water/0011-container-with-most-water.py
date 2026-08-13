@@ -1,17 +1,33 @@
 class Solution:
+    # Date Solved: 12 August 2026, Wednesday
+    # Blind 75
+    # Refer: codestorywithMIK for optimal and NeetCode for brute-force and optimal
     def maxArea(self, height: List[int]) -> int:
-        left_idx = 0
-        right_idx = len(height) - 1
-        max_water_volume = 0
-        
-        while left_idx < right_idx:
-            width = right_idx - left_idx
-            container_height = min(height[left_idx], height[right_idx]) #height limited by min of 2 heights
-            current_water_volume = width * container_height
-            max_water_volume = max(max_water_volume, current_water_volume)
-            if height[left_idx] < height[right_idx]:
-                left_idx += 1
+        """
+        # Approach 1: Brute force
+        # Time: O(n^2), Space: O(1)
+        res = 0
+        for i in range(len(height)):
+            for j in range(i + 1, len(height)):
+                res = max(res, min(height[i], height[j]) * (j - i))
+        return res
+        """
+        # Approach 2: Two Pointers, Greedy
+        # Time: O(n), Space: O(1)
+        n = len(height)
+        i, j = 0, n - 1
+        water = 0
+
+        while i < j:
+            # start from the smallest one and calculate water
+            h = min(height[i], height[j])
+            w = j - i
+            area = h * w
+            water = max(water, area)
+
+            if height[i] < height[j]:
+                i += 1
             else:
-                right_idx -= 1
-                
-        return max_water_volume
+                j -= 1
+
+        return water
