@@ -147,6 +147,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ncashish06/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ncashish06/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ncashish06/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ncashish06/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ncashish06/LeetCode/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -749,6 +750,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ncashish06/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ncashish06/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ncashish06/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ncashish06/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ncashish06/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ncashish06/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ncashish06/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -1146,6 +1148,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0729-my-calendar-i](https://github.com/ncashish06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ncashish06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/ncashish06/LeetCode/tree/master/0732-my-calendar-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ncashish06/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/ncashish06/LeetCode/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ncashish06/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ncashish06/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1166,6 +1169,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0729-my-calendar-i](https://github.com/ncashish06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ncashish06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/ncashish06/LeetCode/tree/master/0732-my-calendar-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ncashish06/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Combinatorics
 |  |
 | ------- |
