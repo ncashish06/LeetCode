@@ -155,6 +155,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2402-meeting-rooms-iii](https://github.com/ncashish06/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ncashish06/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ncashish06/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ncashish06/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/ncashish06/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ncashish06/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -255,6 +256,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2196-create-binary-tree-from-descriptions](https://github.com/ncashish06/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ncashish06/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2402-meeting-rooms-iii](https://github.com/ncashish06/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ncashish06/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/ncashish06/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/ncashish06/LeetCode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -787,6 +789,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ncashish06/LeetCode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ncashish06/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ncashish06/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ncashish06/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ncashish06/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
