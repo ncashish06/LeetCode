@@ -5,6 +5,7 @@ class Solution:
     # Approach: Classic Khandani Sliding Window Template
     # Time: O(n) as each element is visited atmost twice = O(2n), don't get confused because of nested loops
     # Space: O(n)
+    # Also see LC3090. Maximum Length Substring With Two Occurrences, 14 August 2026, Friday, POTD
     def maxSubarrayLength(self, nums: List[int], k: int) -> int:
         n = len(nums)
         mp = defaultdict(int)
