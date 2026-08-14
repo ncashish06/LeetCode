@@ -135,6 +135,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ncashish06/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ncashish06/LeetCode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ncashish06/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ncashish06/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -249,6 +250,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ncashish06/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ncashish06/LeetCode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ncashish06/LeetCode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ncashish06/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ncashish06/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -400,6 +402,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1559-detect-cycles-in-2d-grid](https://github.com/ncashish06/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ncashish06/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1858-longest-word-with-all-prefixes](https://github.com/ncashish06/LeetCode/tree/master/1858-longest-word-with-all-prefixes) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ncashish06/LeetCode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2097-valid-arrangement-of-pairs](https://github.com/ncashish06/LeetCode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ncashish06/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ncashish06/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -747,6 +750,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1858-longest-word-with-all-prefixes](https://github.com/ncashish06/LeetCode/tree/master/1858-longest-word-with-all-prefixes) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ncashish06/LeetCode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ncashish06/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ncashish06/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ncashish06/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -922,6 +926,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1840-maximum-building-height](https://github.com/ncashish06/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ncashish06/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ncashish06/LeetCode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/ncashish06/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -990,6 +995,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ncashish06/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ncashish06/LeetCode/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Simulation
 |  |
 | ------- |
@@ -1053,6 +1059,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ncashish06/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1858-longest-word-with-all-prefixes](https://github.com/ncashish06/LeetCode/tree/master/1858-longest-word-with-all-prefixes) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/ncashish06/LeetCode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ncashish06/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ncashish06/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ncashish06/LeetCode/tree/master/3093-longest-common-suffix-queries) |
