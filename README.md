@@ -62,6 +62,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0288-unique-word-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/ncashish06/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ncashish06/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -841,6 +842,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0212-word-search-ii](https://github.com/ncashish06/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/ncashish06/LeetCode/tree/master/0221-maximal-square) |
 | [0286-walls-and-gates](https://github.com/ncashish06/LeetCode/tree/master/0286-walls-and-gates) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ncashish06/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ncashish06/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ncashish06/LeetCode/tree/master/0542-01-matrix) |
@@ -891,6 +893,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0281-zigzag-iterator](https://github.com/ncashish06/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0288-unique-word-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0303-range-sum-query-immutable](https://github.com/ncashish06/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/ncashish06/LeetCode/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/ncashish06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ncashish06/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -1096,6 +1099,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0238-product-of-array-except-self](https://github.com/ncashish06/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/ncashish06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/ncashish06/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0731-my-calendar-ii](https://github.com/ncashish06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/ncashish06/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/ncashish06/LeetCode/tree/master/1094-car-pooling) |
