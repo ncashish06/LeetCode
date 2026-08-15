@@ -1,5 +1,7 @@
 # Date Solved: 15 August 2026, Saturday
 # Refer: NeetCode
+# Time: O(1) for each sumRange() query, O(n) for building the prefix sum array
+# Space: O(n)
 class NumArray:
     def __init__(self, nums: List[int]):
         self.prefix = []
