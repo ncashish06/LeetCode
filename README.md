@@ -46,6 +46,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0189-rotate-array](https://github.com/ncashish06/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ncashish06/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ncashish06/LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/ncashish06/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/ncashish06/LeetCode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/ncashish06/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ncashish06/LeetCode/tree/master/0217-contains-duplicate) |
@@ -528,6 +529,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ncashish06/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/ncashish06/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ncashish06/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
@@ -785,6 +787,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ncashish06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ncashish06/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ncashish06/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ncashish06/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -1096,6 +1099,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ncashish06/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/ncashish06/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/ncashish06/LeetCode/tree/master/0303-range-sum-query-immutable) |
