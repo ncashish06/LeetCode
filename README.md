@@ -64,6 +64,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/ncashish06/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0308-range-sum-query-2d-mutable](https://github.com/ncashish06/LeetCode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ncashish06/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -846,6 +847,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0221-maximal-square](https://github.com/ncashish06/LeetCode/tree/master/0221-maximal-square) |
 | [0286-walls-and-gates](https://github.com/ncashish06/LeetCode/tree/master/0286-walls-and-gates) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0308-range-sum-query-2d-mutable](https://github.com/ncashish06/LeetCode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ncashish06/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ncashish06/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ncashish06/LeetCode/tree/master/0542-01-matrix) |
@@ -897,6 +899,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0288-unique-word-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0303-range-sum-query-immutable](https://github.com/ncashish06/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0308-range-sum-query-2d-mutable](https://github.com/ncashish06/LeetCode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0707-design-linked-list](https://github.com/ncashish06/LeetCode/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/ncashish06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ncashish06/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -1167,10 +1170,12 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0308-range-sum-query-2d-mutable](https://github.com/ncashish06/LeetCode/tree/master/0308-range-sum-query-2d-mutable) |
 | [3161-block-placement-queries](https://github.com/ncashish06/LeetCode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
+| [0308-range-sum-query-2d-mutable](https://github.com/ncashish06/LeetCode/tree/master/0308-range-sum-query-2d-mutable) |
 | [0729-my-calendar-i](https://github.com/ncashish06/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ncashish06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/ncashish06/LeetCode/tree/master/0732-my-calendar-iii) |
@@ -1247,4 +1252,8 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [1257-smallest-common-region](https://github.com/ncashish06/LeetCode/tree/master/1257-smallest-common-region) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0308-range-sum-query-2d-mutable](https://github.com/ncashish06/LeetCode/tree/master/0308-range-sum-query-2d-mutable) |
 <!---LeetCode Topics End-->
