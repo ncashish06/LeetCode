@@ -223,6 +223,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0003-longest-substring-without-repeating-characters](https://github.com/ncashish06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ncashish06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ncashish06/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ncashish06/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ncashish06/LeetCode/tree/master/0169-majority-element) |
@@ -729,6 +730,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0020-valid-parentheses](https://github.com/ncashish06/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ncashish06/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ncashish06/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ncashish06/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ncashish06/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ncashish06/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ncashish06/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -792,6 +794,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ncashish06/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ncashish06/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ncashish06/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ncashish06/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ncashish06/LeetCode/tree/master/0567-permutation-in-string) |
