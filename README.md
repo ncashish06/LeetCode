@@ -115,6 +115,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1331-rank-transform-of-an-array](https://github.com/ncashish06/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/ncashish06/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/ncashish06/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ncashish06/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -255,6 +256,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1331-rank-transform-of-an-array](https://github.com/ncashish06/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ncashish06/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/ncashish06/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/ncashish06/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1490-clone-n-ary-tree](https://github.com/ncashish06/LeetCode/tree/master/1490-clone-n-ary-tree) |
 | [1650-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ncashish06/LeetCode/tree/master/1650-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -634,6 +636,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ncashish06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1199-minimum-time-to-build-blocks](https://github.com/ncashish06/LeetCode/tree/master/1199-minimum-time-to-build-blocks) |
+| [1386-cinema-seat-allocation](https://github.com/ncashish06/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ncashish06/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/ncashish06/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ncashish06/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -1062,6 +1065,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
 | [0320-generalized-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0342-power-of-four](https://github.com/ncashish06/LeetCode/tree/master/0342-power-of-four) |
+| [1386-cinema-seat-allocation](https://github.com/ncashish06/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ncashish06/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ncashish06/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
