@@ -4,19 +4,24 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
-    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        self.count = k
-        self.ans = None
 
-        def inorder(node):
-            if not node or self.ans is not None:
+
+class Solution:
+    # Date Solved: 20 August 2026, Thursday
+    # Refer: NeetCode
+    # Blind 75
+    # Approach: Inorder Traversal
+    # Time: O(n), Space: O(n)
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+        arr = []
+
+        def dfs(node):
+            if not node:
                 return
-            inorder(node.left)
-            self.count -= 1
-            if self.count == 0:
-                self.ans = node.val
-                return
-            inorder(node.right)
-        inorder(root)
-        return self.ans
+
+            dfs(node.left)
+            arr.append(node.val)
+            dfs(node.right)
+
+        dfs(root)
+        return arr[k - 1]
