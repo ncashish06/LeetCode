@@ -590,6 +590,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0213-house-robber-ii](https://github.com/ncashish06/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ncashish06/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/ncashish06/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0351-android-unlock-patterns](https://github.com/ncashish06/LeetCode/tree/master/0351-android-unlock-patterns) |
 | [0396-rotate-function](https://github.com/ncashish06/LeetCode/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/ncashish06/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ncashish06/LeetCode/tree/master/0486-predict-the-winner) |
@@ -1077,6 +1078,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
 | [0320-generalized-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0320-generalized-abbreviation) |
 | [0342-power-of-four](https://github.com/ncashish06/LeetCode/tree/master/0342-power-of-four) |
+| [0351-android-unlock-patterns](https://github.com/ncashish06/LeetCode/tree/master/0351-android-unlock-patterns) |
 | [1386-cinema-seat-allocation](https://github.com/ncashish06/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ncashish06/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ncashish06/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -1193,6 +1195,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0212-word-search-ii](https://github.com/ncashish06/LeetCode/tree/master/0212-word-search-ii) |
 | [0291-word-pattern-ii](https://github.com/ncashish06/LeetCode/tree/master/0291-word-pattern-ii) |
 | [0320-generalized-abbreviation](https://github.com/ncashish06/LeetCode/tree/master/0320-generalized-abbreviation) |
+| [0351-android-unlock-patterns](https://github.com/ncashish06/LeetCode/tree/master/0351-android-unlock-patterns) |
 | [0489-robot-room-cleaner](https://github.com/ncashish06/LeetCode/tree/master/0489-robot-room-cleaner) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ncashish06/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Interactive
@@ -1295,4 +1298,8 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0308-range-sum-query-2d-mutable](https://github.com/ncashish06/LeetCode/tree/master/0308-range-sum-query-2d-mutable) |
+## Bitmask
+|  |
+| ------- |
+| [0351-android-unlock-patterns](https://github.com/ncashish06/LeetCode/tree/master/0351-android-unlock-patterns) |
 <!---LeetCode Topics End-->
