@@ -322,6 +322,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1510-stone-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ncashish06/LeetCode/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/ncashish06/LeetCode/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/ncashish06/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ncashish06/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ncashish06/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ncashish06/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -647,6 +648,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ncashish06/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/ncashish06/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ncashish06/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/ncashish06/LeetCode/tree/master/1927-sum-game) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ncashish06/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2029-stone-game-ix](https://github.com/ncashish06/LeetCode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ncashish06/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -781,6 +783,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1804-implement-trie-ii-prefix-tree](https://github.com/ncashish06/LeetCode/tree/master/1804-implement-trie-ii-prefix-tree) |
 | [1858-longest-word-with-all-prefixes](https://github.com/ncashish06/LeetCode/tree/master/1858-longest-word-with-all-prefixes) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/ncashish06/LeetCode/tree/master/1927-sum-game) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ncashish06/LeetCode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ncashish06/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ncashish06/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -1253,6 +1256,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ncashish06/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ncashish06/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ncashish06/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
