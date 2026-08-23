@@ -159,6 +159,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ncashish06/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ncashish06/LeetCode/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/ncashish06/LeetCode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2402-meeting-rooms-iii](https://github.com/ncashish06/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ncashish06/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ncashish06/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -613,6 +614,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ncashish06/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/ncashish06/LeetCode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/ncashish06/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ncashish06/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ncashish06/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
