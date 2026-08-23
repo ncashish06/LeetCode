@@ -1,35 +1,42 @@
 class Solution:
     # Date Solved: 21 August 2026, Friday, POTD
-    # Refer: Claude
+    # Refer: codestorywithMIK
+    # Time: O(log(maxCoin*k)*(2^n)*n*log(maxCoin)), Space: O(1)
     def findKthSmallest(self, coins: List[int], k: int) -> int:
-        n = len(coins)
+        def countSmaller(mid: int) -> int:
+            correctedCount = 0
+            n = len(coins)
 
-        def lcm(a: int, b: int) -> int:
-            return a * b // gcd(a, b)
+            # 2^n - 1 non-empty subsets
+            for expressions in range(1, (1 << n)):
+                lcm = 0
+                order = 0  # count of coins taken in this subset
 
-        def count_le(x: int) -> int:
-            # count of distinct amounts <= x achievable by ANY single coin,
-            # via inclusion-exclusion over subsets of coins
-            total = 0
-            for mask in range(1, 1 << n):
-                l = 1
-                bits = 0
                 for i in range(n):
-                    if mask & (1 << i):
-                        l = lcm(l, coins[i])
-                        bits += 1
-                if bits % 2 == 1:
-                    total += x // l
-                else:
-                    total -= x // l
-            return total
+                    if expressions & (1 << i):
+                        order += 1
+                        if lcm == 0:
+                            lcm = coins[i]
+                        else:
+                            lcm = lcm * coins[i] // gcd(lcm, coins[i])
 
-        # k-th multiple of smallest coin is a safe upper bound
-        lo, hi = (1, min(coins) * k)
-        while lo < hi:
-            mid = (lo + hi) // 2
-            if count_le(mid) >= k:
-                hi = mid
+                if order % 2 == 0:  # even -> subtract
+                    correctedCount -= mid // lcm
+                else:  # odd -> add
+                    correctedCount += mid // lcm
+
+            return correctedCount
+
+        l, r = 1, max(coins) * k
+        result = -1
+
+        while l <= r:
+            mid = l + (r - l) // 2
+
+            if countSmaller(mid) >= k:
+                result = mid
+                r = mid - 1
             else:
-                lo = mid + 1
-        return lo
+                l = mid + 1
+
+        return result
