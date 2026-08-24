@@ -1,7 +1,7 @@
 class Solution:
     # Date Solved: 23 August 2026, Sunday
     # NC150
-    # Refer: structy.net
+    # Refer: NeetCode or codestorywithMIK
     # Also Check out: (1) LC1. Two Sum (Blind 75, Easy)
     #                 (2) LC15. 3Sum (Blind 75, Medium)
     #                 (3) LC18. 4Sum (NC250, Medium)
