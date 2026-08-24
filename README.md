@@ -41,6 +41,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ncashish06/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0163-missing-ranges](https://github.com/ncashish06/LeetCode/tree/master/0163-missing-ranges) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ncashish06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ncashish06/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ncashish06/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/ncashish06/LeetCode/tree/master/0189-rotate-array) |
@@ -520,6 +521,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0061-rotate-list](https://github.com/ncashish06/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ncashish06/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ncashish06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ncashish06/LeetCode/tree/master/0189-rotate-array) |
 | [0246-strobogrammatic-number](https://github.com/ncashish06/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0253-meeting-rooms-ii](https://github.com/ncashish06/LeetCode/tree/master/0253-meeting-rooms-ii) |
@@ -549,6 +551,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ncashish06/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ncashish06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ncashish06/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ncashish06/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
