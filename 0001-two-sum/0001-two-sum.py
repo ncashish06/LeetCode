@@ -1,23 +1,12 @@
 class Solution:
-    # Date Solved: 6 August 2026, Thursday
+    # Date Solved: 23 August 2026, Sunday
     # Blind 75
     # Refer: structy.net
+    # Also Check out: (1) LC167. Two Sum II - Input Array Is Sorted (NC150, Medium)
+    #                 (2) LC15. 3Sum (Blind 75, Medium)
+    #                 (3) LC18. 4Sum (NC250, Medium)
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        """
-        # For Sorted Array: Two-pointer approach.
-        # Time: O(n), Space: O(1)
-        left, right = 0, len(nums) - 1
-        while left < right:
-            current_sum = nums[left] + nums[right]
-            if current_sum == target:
-                return [left, right]
-            elif current_sum < target:
-                left += 1
-            else:
-                right -= 1
-        return []
-        """
-        # For Unsorted Array: Time: O(n), Space: O(n)
+        # Time: O(n), Space: O(n)
         previous_nums = {}
 
         for index, num in enumerate(nums):
