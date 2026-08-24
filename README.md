@@ -138,6 +138,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1858-longest-word-with-all-prefixes](https://github.com/ncashish06/LeetCode/tree/master/1858-longest-word-with-all-prefixes) |
 | [1861-rotating-the-box](https://github.com/ncashish06/LeetCode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/ncashish06/LeetCode/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ncashish06/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ncashish06/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -323,6 +324,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1510-stone-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ncashish06/LeetCode/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/ncashish06/LeetCode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/ncashish06/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ncashish06/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ncashish06/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ncashish06/LeetCode/tree/master/2029-stone-game-ix) |
@@ -612,6 +614,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1510-stone-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ncashish06/LeetCode/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/ncashish06/LeetCode/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ncashish06/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2291-maximum-profit-from-trading-stocks](https://github.com/ncashish06/LeetCode/tree/master/2291-maximum-profit-from-trading-stocks) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/ncashish06/LeetCode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
@@ -1150,6 +1153,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1732-find-the-highest-altitude](https://github.com/ncashish06/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/ncashish06/LeetCode/tree/master/1854-maximum-population-year) |
 | [1871-jump-game-vii](https://github.com/ncashish06/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/ncashish06/LeetCode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/ncashish06/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/ncashish06/LeetCode/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ncashish06/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -1261,6 +1265,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ncashish06/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ncashish06/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ncashish06/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ncashish06/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -1270,6 +1275,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1140-stone-game-ii](https://github.com/ncashish06/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ncashish06/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ncashish06/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1278,6 +1284,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1140-stone-game-ii](https://github.com/ncashish06/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ncashish06/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ncashish06/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ncashish06/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ncashish06/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
