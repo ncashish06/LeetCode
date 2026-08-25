@@ -157,6 +157,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2126-destroying-asteroids](https://github.com/ncashish06/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ncashish06/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2187-minimum-time-to-complete-trips](https://github.com/ncashish06/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ncashish06/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ncashish06/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ncashish06/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -571,6 +572,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ncashish06/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ncashish06/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2187-minimum-time-to-complete-trips](https://github.com/ncashish06/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2540-minimum-common-value](https://github.com/ncashish06/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ncashish06/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
