@@ -97,6 +97,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0815-bus-routes](https://github.com/ncashish06/LeetCode/tree/master/0815-bus-routes) |
 | [0853-car-fleet](https://github.com/ncashish06/LeetCode/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/ncashish06/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/ncashish06/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ncashish06/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ncashish06/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/ncashish06/LeetCode/tree/master/0994-rotting-oranges) |
@@ -568,6 +569,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0731-my-calendar-ii](https://github.com/ncashish06/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/ncashish06/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/ncashish06/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1064-fixed-point](https://github.com/ncashish06/LeetCode/tree/master/1064-fixed-point) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ncashish06/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
