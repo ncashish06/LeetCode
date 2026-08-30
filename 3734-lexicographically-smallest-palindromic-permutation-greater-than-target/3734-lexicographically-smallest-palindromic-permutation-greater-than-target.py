@@ -1,65 +1,68 @@
 class Solution:
+    # Date Solved: 28 August 2026, Friday, POTD
+    # Refer: codestorywithMIK
+    # Approach: Greedy + backtracking
+    # Time: O(26*n) ~ O(n), Space: O(n)
     def lexPalindromicPermutation(self, s: str, target: str) -> str:
-        n = len(s)
-        # Special case: length of 1
-        if n == 1:
-            return s if s > target else ""
+        self.result = ""
+        self.midChar = "$"
+        self.half = 0
 
-        # Count the frequency of each character
-        cnt = [0] * 26
-        for c in s:
-            cnt[ord(c) - ord("a")] += 1
+        def solve(curr, count, target, i, greater):
+            if i == self.half:
+                leftHalf = "".join(curr)
+                rightHalf = leftHalf[::-1]
 
-        # Check if it can form a palindrome and record the characters with odd occurrences
-        odd_char = ""
-        for i in range(26):
-            if cnt[i] % 2 == 1:
-                # More than one character appears an odd number of times, cannot form a palindrome
-                if odd_char != "":
-                    return ""
-                odd_char = chr(ord("a") + i)
-            cnt[
-                i
-            ] //= 2  # It takes only half the characters to construct the left half
+                candidate = leftHalf
+                if self.midChar != "$":
+                    candidate += self.midChar
+                candidate += rightHalf
 
-        prefix = []
+                if candidate > target:
+                    self.result = candidate
+                    return True
 
-        def check(c):
-            left = prefix.copy()
-            left.append(c)
-            for i in range(25, -1, -1):
-                left.extend([chr(ord("a") + i)] * cnt[i])
+                return False
 
-            palindrome = left + [odd_char] + left[::-1]
+            for c in range(26):
+                ch = chr(ord("a") + c)
 
-            return "".join(palindrome) > target
-
-        # Construct the left part of each digit greedily
-        for i in range(n // 2):
-            found = False
-            # Try to place the smallest character in lexicographical order
-            for j in range(26):
-                if cnt[j] == 0:
+                if count[c] == 0:
                     continue
 
-                cnt[j] -= 1
-                if check(chr(ord("a") + j)):
-                    # If the constructed palindrome is greater than target, choose the character
-                    prefix.append(chr(ord("a") + j))
-                    found = True
-                    break
-                else:
-                    cnt[j] += 1  # Not meeting the conditions, reset the counter
-            if not found:
-                return ""  # Cannot construct a palindrome larger than target
+                if not greater and ch < target[i]:
+                    continue
 
-            if prefix[i] > target[i]:  # prefix is already greater than target
-                left = prefix[:]
-                for j in range(26):
-                    left.extend([chr(ord("a") + j)] * cnt[j])
-                palindrome = left + [odd_char] + left[::-1]
-                return "".join(palindrome)
+                curr.append(ch)
+                count[c] -= 1
 
-        # Construct the final palindrome string
-        ans = prefix + [odd_char] + prefix[::-1]
-        return "".join(ans)
+                isGreater = greater or ch > target[i]
+
+                if solve(curr, count, target, i + 1, isGreater):
+                    return True
+
+                curr.pop()
+                count[c] += 1
+
+            return False
+
+        n = len(s)
+        count = [0] * 26
+        for ch in s:
+            count[ord(ch) - ord("a")] += 1
+
+        oddCount = 0
+        for c in range(26):
+            if count[c] % 2 == 1:
+                oddCount += 1
+                self.midChar = chr(c + ord("a"))
+
+        if oddCount > 1:
+            return ""
+
+        halfCount = [cnt // 2 for cnt in count]
+        self.half = n // 2
+
+        curr = []
+        solve(curr, halfCount, target, 0, False)
+        return self.result
