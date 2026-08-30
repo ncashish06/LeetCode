@@ -1,30 +1,45 @@
 class Solution:
+    # Date Solved: 27 August 2026, Thursday, POTD
+    # Refer: codestorywithMIK
+    # Approach: Greedy + backtracking
+    # Time: O(n), Space: O(n)
     def lexGreaterPermutation(self, s: str, target: str) -> str:
-        cnt = [0] * 26
-        for i in range(len(s)):
-            cnt[ord(s[i]) - ord("a")] += 1
-            cnt[ord(target[i]) - ord("a")] -= 1
+        self.result = ""
 
-        # Try from right to left
-        t = list(target)
-        for i in range(len(s) - 1, -1, -1):
-            b = ord(t[i]) - ord("a")
-            cnt[b] += 1  # Reversal of consumption
-            # Check if the prefix can fully match
-            if min(cnt) < 0:
-                continue
-            # Find the smallest available character larger than b.
-            for j in range(b + 1, 26):
-                if cnt[j] > 0:
-                    cnt[j] -= 1
-                    t[i] = chr(ord("a") + j)
-                    return "".join(t[: i + 1]) + self.getMinString(cnt)
+        def solve(curr, count, target, i, greater):
+            if i == len(target):
+                if greater:
+                    self.result = "".join(curr)
+                    return True
+                return False
 
-        return ""
+            for c in range(26):
+                ch = chr(ord("a") + c)
 
-    # Get the lexicographically smallest string (in ascending order)
-    def getMinString(self, cnt: list[int]) -> str:
-        res = []
-        for i in range(26):
-            res.append(chr(ord("a") + i) * cnt[i])
-        return "".join(res)
+                if count[c] == 0:
+                    continue
+
+                if not greater and ch < target[i]:
+                    continue
+
+                curr.append(ch)
+                count[c] -= 1
+
+                isGreater = greater or ch > target[i]
+
+                if solve(curr, count, target, i + 1, isGreater):
+                    return True
+
+                curr.pop()
+                count[c] += 1
+
+            return False
+
+        count = [0] * 26
+        for ch in s:
+            count[ord(ch) - ord("a")] += 1
+
+        curr = []
+        solve(curr, count, target, 0, False)
+
+        return self.result
