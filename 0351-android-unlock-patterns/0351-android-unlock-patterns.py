@@ -1,5 +1,5 @@
 class Solution:
-    # Date Solved: 22 August 2026, Saturday, Weekly Premium W3
+    # Date Solved: 22 August 2026, Saturday, Weekly Premium W4
     # Refer: Claude
     # In NC all
     def numberOfPatterns(self, m: int, n: int) -> int:
