@@ -1,5 +1,5 @@
 class Solution:
-    # Date Solved: 30 August 2026, Sunday, Weekly Premium W4
+    # Date Solved: 30 August 2026, Sunday, Weekly Premium W5
     # Refer: Claude
     def similarRGB(self, color: str) -> str:
         def closest(hexPair: str) -> str:
