@@ -323,6 +323,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0509-fibonacci-number](https://github.com/ncashish06/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ncashish06/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/ncashish06/LeetCode/tree/master/0788-rotated-digits) |
+| [0800-similar-rgb-color](https://github.com/ncashish06/LeetCode/tree/master/0800-similar-rgb-color) |
 | [0877-stone-game](https://github.com/ncashish06/LeetCode/tree/master/0877-stone-game) |
 | [1056-confusing-number](https://github.com/ncashish06/LeetCode/tree/master/1056-confusing-number) |
 | [1140-stone-game-ii](https://github.com/ncashish06/LeetCode/tree/master/1140-stone-game-ii) |
@@ -797,6 +798,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0758-bold-words-in-string](https://github.com/ncashish06/LeetCode/tree/master/0758-bold-words-in-string) |
 | [0767-reorganize-string](https://github.com/ncashish06/LeetCode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/ncashish06/LeetCode/tree/master/0796-rotate-string) |
+| [0800-similar-rgb-color](https://github.com/ncashish06/LeetCode/tree/master/0800-similar-rgb-color) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ncashish06/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ncashish06/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/ncashish06/LeetCode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -1254,6 +1256,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Enumeration
 |  |
 | ------- |
+| [0800-similar-rgb-color](https://github.com/ncashish06/LeetCode/tree/master/0800-similar-rgb-color) |
 | [1291-sequential-digits](https://github.com/ncashish06/LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ncashish06/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ncashish06/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
