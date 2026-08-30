@@ -1,5 +1,5 @@
 class Solution:
-    # Date: 26 August 2026, Wednesday, POTD
+    # Date Solved: 26 August 2026, Wednesday, POTD
     # Refer: codestorywithMIK
     def shortestBeautifulSubstring(self, s: str, k: int) -> str:
         """
