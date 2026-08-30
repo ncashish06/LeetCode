@@ -1,31 +1,54 @@
 class Solution:
+    # Date Solved: 29 August 2026, Saturday, POTD
+    # Refer: codestorywithMIK
     def lexicographicallySmallestArray(self, nums: List[int], limit: int) -> List[int]:
-        nums_sorted = sorted(nums)
+        """
+        # Approach-1: Brute force
+        # Time: O(n^3), Space: O(1)
+        n = len(nums)
 
-        curr_group = 0
-        num_to_group = {}
-        num_to_group[nums_sorted[0]] = curr_group
+        for i in range(n):
+            while True:
+                smallValue = nums[i]
+                idx = -1
 
-        group_to_list = {}
-        group_to_list[curr_group] = deque([nums_sorted[0]])
+                for j in range(i + 1, n):
+                    if abs(nums[i] - nums[j]) <= limit:
+                        if nums[j] < smallValue:
+                            smallValue = nums[j]
+                            idx = j
 
-        for i in range(1, len(nums)):
-            if abs(nums_sorted[i] - nums_sorted[i - 1]) > limit:
-                # new group
-                curr_group += 1
-
-            # assign current element to group
-            num_to_group[nums_sorted[i]] = curr_group
-
-            # add element to sorted group deque
-            if curr_group not in group_to_list:
-                group_to_list[curr_group] = deque()
-            group_to_list[curr_group].append(nums_sorted[i])
-
-        # iterate through input and overwrite each element with the next element in its corresponding group
-        for i in range(len(nums)):
-            num = nums[i]
-            group = num_to_group[num]
-            nums[i] = group_to_list[group].popleft()
+                if idx != -1:
+                    nums[i], nums[idx] = nums[idx], nums[i]
+                else:
+                    break
 
         return nums
+        """
+        # Approach-2: Using sorting and grouping using unordered_map
+        # Time: O(n*logn), Space: O(n)
+        n = len(nums)
+
+        vec = sorted(nums)
+
+        groupNum = 0
+        numToGroup = {}
+        groupToList = defaultdict(deque)
+
+        numToGroup[vec[0]] = groupNum
+        groupToList[groupNum].append(vec[0])
+
+        for i in range(1, n):
+            if abs(vec[i] - vec[i - 1]) > limit:
+                groupNum += 1
+
+            numToGroup[vec[i]] = groupNum
+            groupToList[groupNum].append(vec[i])
+
+        result = [0] * n
+        for i in range(n):
+            num = nums[i]
+            group = numToGroup[num]
+            result[i] = groupToList[group].popleft()
+
+        return result
