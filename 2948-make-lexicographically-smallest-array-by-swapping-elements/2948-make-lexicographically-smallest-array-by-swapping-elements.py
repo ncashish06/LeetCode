@@ -1,6 +1,7 @@
 class Solution:
     # Date Solved: 29 August 2026, Saturday, POTD
     # Refer: codestorywithMIK
+    # In NC All
     def lexicographicallySmallestArray(self, nums: List[int], limit: int) -> List[int]:
         """
         # Approach-1: Brute force
@@ -26,6 +27,7 @@ class Solution:
         return nums
         """
         # Approach-2: Using sorting and grouping using unordered_map
+        # NeetCode's solution is same as this.
         # Time: O(n*logn), Space: O(n)
         n = len(nums)
 
