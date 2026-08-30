@@ -312,6 +312,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0009-palindrome-number](https://github.com/ncashish06/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ncashish06/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ncashish06/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/ncashish06/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ncashish06/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ncashish06/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ncashish06/LeetCode/tree/master/0268-missing-number) |
@@ -560,6 +561,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/ncashish06/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ncashish06/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ncashish06/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -1341,4 +1343,8 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 |  |
 | ------- |
 | [0351-android-unlock-patterns](https://github.com/ncashish06/LeetCode/tree/master/0351-android-unlock-patterns) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ncashish06/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
