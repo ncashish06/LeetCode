@@ -153,6 +153,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/ncashish06/LeetCode/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ncashish06/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ncashish06/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/ncashish06/LeetCode/tree/master/2097-valid-arrangement-of-pairs) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/ncashish06/LeetCode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2126-destroying-asteroids](https://github.com/ncashish06/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -673,6 +674,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [2029-stone-game-ix](https://github.com/ncashish06/LeetCode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ncashish06/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/ncashish06/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ncashish06/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/ncashish06/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ncashish06/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ncashish06/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
