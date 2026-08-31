@@ -8,27 +8,35 @@ class Solution:
     # Refer: codestorywithMIK and NeetCode
     # In NC All
     def nodesBetweenCriticalPoints(self, head: Optional[ListNode]) -> List[int]:
-        def critical(prev, cur, nxt):
-            return prev.val > cur.val < nxt.val or prev.val < cur.val > nxt.val
+        min_distance = float("inf")
 
-        prev, cur = head, head.next
-        nxt = cur.next
-        min_dist, max_dist = float("inf"), -1
-        prev_crit_idx = 0
-        first_crit_idx = 0
-        i = 1  # index of cur
-        while nxt:
-            if critical(prev, cur, nxt):
-                if first_crit_idx:
-                    max_dist = i - first_crit_idx
-                    min_dist = min(min_dist, i - prev_crit_idx)
+        prev = head
+        curr = head.next
+        curr_position = 1
+        previous_critical_index = 0
+        first_critical_index = 0
+
+        while curr.next is not None:
+            # When we see a critical point
+            if (curr.val < prev.val and curr.val < curr.next.val) or (
+                curr.val > prev.val and curr.val > curr.next.val
+            ):
+
+                if previous_critical_index == 0:
+                    previous_critical_index = curr_position
+                    first_critical_index = curr_position
                 else:
-                    first_crit_idx = i
-                prev_crit_idx = i
+                    min_distance = min(
+                        min_distance, curr_position - previous_critical_index
+                    )
+                    previous_critical_index = curr_position
 
-            prev, cur, nxt = cur, nxt, nxt.next
-            i += 1
+            curr_position += 1
+            prev = curr
+            curr = curr.next
 
-        if min_dist == float("inf"):
-            min_dist = -1
-        return [min_dist, max_dist]
+        if min_distance == float("inf"):
+            return [-1, -1]
+
+        max_distance = previous_critical_index - first_critical_index
+        return [min_distance, max_distance]
