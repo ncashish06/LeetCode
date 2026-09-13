@@ -22,6 +22,6 @@ class Solution:
         # Time: O(n), Space:O(1)
         left = 0
         for right in range(len(nums)):
-            if nums[right]:
+            if nums[right] != 0:
                 nums[left], nums[right] = nums[right], nums[left]
                 left += 1
