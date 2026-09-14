@@ -1,6 +1,7 @@
 class Solution:
     # Date Solved: 13 September 2026, Sunday
     # In NC All and B2Go
+    # Time: O(n), Space: O(1)
     def nextPermutation(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
