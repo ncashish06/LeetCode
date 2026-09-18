@@ -38,6 +38,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ncashish06/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ncashish06/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/ncashish06/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ncashish06/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ncashish06/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -239,6 +240,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 | [0036-valid-sudoku](https://github.com/ncashish06/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ncashish06/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ncashish06/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ncashish06/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ncashish06/LeetCode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/ncashish06/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ncashish06/LeetCode/tree/master/0169-majority-element) |
@@ -719,6 +721,7 @@ My progress is automatically synchronized from LeetCode to this GitHub repositor
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ncashish06/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ncashish06/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ncashish06/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/LeetCode/tree/master/0778-swim-in-rising-water) |
