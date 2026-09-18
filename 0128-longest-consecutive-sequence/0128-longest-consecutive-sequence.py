@@ -1,7 +1,7 @@
 class Solution:
     # Date Solved: 17 September 2026, Thursday
     # B75
-    # Refer: B2Go and NeetCode (for Brute Force)
+    # Refer: B2Go and NeetCode (for Brute Force and Sorting)
     def longestConsecutive(self, nums: list[int]) -> int:
         """
         # Approach 1: Brute Force
